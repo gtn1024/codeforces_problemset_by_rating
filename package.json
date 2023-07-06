@@ -1,15 +1,14 @@
 {
-  "name": "cf_rating_category",
+  "name": "codeforces_problemset_by_rating",
   "version": "1.0.0",
-  "description": "",
+  "description": "Codeforces Problemset by Rating",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Codeforces"],
+  "author": "gtn1024",
   "dependencies": {
     "axios": "1.4.0"
   }
