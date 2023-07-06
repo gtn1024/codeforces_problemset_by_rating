@@ -2,7 +2,7 @@ import axios from 'axios'
 import fs from 'fs'
 
 const HEADER_TEMPLATE_EN_US = `# Codeforces Problemset by Difficulty
-
+[[SLOT]]
 GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Index
@@ -10,7 +10,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [[toc]]`
 
 const HEADER_TEMPLATE_ZH_CN = `# Codeforces 按照难度分类的题目列表
-
+[[SLOT]]
 GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 目录
@@ -69,6 +69,12 @@ function generateBodyForVjudge(category) {
 
 function generateMarkdownForVjudge(template, category) {
   let result = template.replace('[[toc]]', generateTOC(category))
+  result = result.replace('[[SLOT]]', `
+* 完整版：<https://vjudge.net/article/3779>
+* [800, 1500)：<https://vjudge.net/article/3782>
+* [1500, 2400)：<https://vjudge.net/article/3783>
+* [2400, ∞)：<https://vjudge.net/article/3784>
+`)
   result += generateBodyForVjudge(category)
   return result
 }
@@ -94,8 +100,23 @@ function generateMarkdownForVjudge(template, category) {
     category[item.rating].push(item)
   })
   // write to file
-  fs.writeFileSync('./result.md', generateMarkdownForGeneral(HEADER_TEMPLATE_EN_US, category))
-  fs.writeFileSync('./result_zh_CN.md', generateMarkdownForGeneral(HEADER_TEMPLATE_ZH_CN, category))
-  fs.writeFileSync('./vjudge.md', generateMarkdownForVjudge(HEADER_TEMPLATE_EN_US, category))
-  fs.writeFileSync('./vjudge_zh_CN.md', generateMarkdownForVjudge(HEADER_TEMPLATE_ZH_CN, category))
+  fs.writeFileSync('./result.md', generateMarkdownForGeneral(HEADER_TEMPLATE_EN_US.replace('[[SLOT]]', ''), category))
+  fs.writeFileSync('./result_zh_CN.md', generateMarkdownForGeneral(HEADER_TEMPLATE_ZH_CN.replace('[[SLOT]]', ''), category))
+
+  const vjudge_part1 = {}
+  const vjudge_part2 = {}
+  const vjudge_part3 = {}
+  Object.keys(category).forEach((key) => {
+    if (key < 1500) { vjudge_part1[key] = category[key] }
+  })
+  Object.keys(category).forEach((key) => {
+    if (1500 <= key && key < 2400) { vjudge_part2[key] = category[key] }
+  })
+  Object.keys(category).forEach((key) => {
+    if (key >= 2400) { vjudge_part3[key] = category[key] }
+  })
+  fs.writeFileSync('./vjudge.md', generateMarkdownForVjudge(HEADER_TEMPLATE_ZH_CN, category))
+  fs.writeFileSync('./vjudge_part1.md', generateMarkdownForVjudge(HEADER_TEMPLATE_ZH_CN, vjudge_part1))
+  fs.writeFileSync('./vjudge_part2.md', generateMarkdownForVjudge(HEADER_TEMPLATE_ZH_CN, vjudge_part2))
+  fs.writeFileSync('./vjudge_part3.md', generateMarkdownForVjudge(HEADER_TEMPLATE_ZH_CN, vjudge_part3))
 })()

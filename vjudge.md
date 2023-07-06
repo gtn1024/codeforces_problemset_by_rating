@@ -1,8 +1,13 @@
-# Codeforces Problemset by Difficulty
+# Codeforces 按照难度分类的题目列表
+
+* 完整版：<https://vjudge.net/article/3779>
+* [800, 1500)：<https://vjudge.net/article/3782>
+* [1500, 2400)：<https://vjudge.net/article/3783>
+* [2400, ∞)：<https://vjudge.net/article/3784>
 
 GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
-## Index
+## 目录
 
 * [800](#800)
 * [900](#900)
