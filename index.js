@@ -29,7 +29,8 @@ function generateCategoryForGeneral(category, problems) {
   let result = ''
   result += `\n## ${category}\n\n`
   problems.forEach((item) => {
-    result += `* [${item.name.trim().replace('<', '\\<').replace('>', '\\>')}](https://codeforces.com/problemset/problem/${item.contestId}/${item.index.trim()})\n`
+    const tags = item.tags.join(' ')
+    result += `* [${item.name.trim().replace('<', '\\<').replace('>', '\\>')}](https://codeforces.com/problemset/problem/${item.contestId}/${item.index.trim()})${tags != '' ? `: ${tags}` : ''}\n`
   })
   return result
 }
