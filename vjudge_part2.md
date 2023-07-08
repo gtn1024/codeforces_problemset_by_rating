@@ -1283,6 +1283,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
+[problem:CodeForces-1845D] binary search brute force data structures dp dsu greedy math two pointers
 [problem:CodeForces-1843F1] data structures dfs and similar dp graphs greedy math trees
 [problem:CodeForces-1841C] brute force dp greedy math strings
 [problem:CodeForces-1833G] constructive algorithms dfs and similar dp dsu greedy implementation trees

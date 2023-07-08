@@ -40,6 +40,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+[problem:CodeForces-1845A] constructive algorithms implementation math number theory
 [problem:CodeForces-1843C] bitmasks combinatorics math trees
 [problem:CodeForces-1843B] greedy math two pointers
 [problem:CodeForces-1843A] greedy sortings two pointers
@@ -762,6 +763,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 900
 
+[problem:CodeForces-1845B] geometry implementation math
 [problem:CodeForces-1837B] greedy
 [problem:CodeForces-1833B] greedy sortings
 [problem:CodeForces-1828B] math number theory
@@ -2411,6 +2413,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1400
 
+[problem:CodeForces-1845C] binary search dp greedy strings
 [problem:CodeForces-1840D] binary search greedy sortings
 [problem:CodeForces-1838C] constructive algorithms math number theory
 [problem:CodeForces-1837D] constructive algorithms greedy
@@ -4027,6 +4030,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
+[problem:CodeForces-1845D] binary search brute force data structures dp dsu greedy math two pointers
 [problem:CodeForces-1843F1] data structures dfs and similar dp graphs greedy math trees
 [problem:CodeForces-1841C] brute force dp greedy math strings
 [problem:CodeForces-1833G] constructive algorithms dfs and similar dp dsu greedy implementation trees
@@ -6719,6 +6723,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2500
 
+[problem:CodeForces-1845E] dp implementation math
 [problem:CodeForces-1842F] dfs and similar greedy shortest paths sortings trees
 [problem:CodeForces-1840G2] constructive algorithms interactive math meet-in-the-middle probabilities
 [problem:CodeForces-1838E] combinatorics dp math
@@ -7577,6 +7582,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2800
 
+[problem:CodeForces-1845F] dp fft math number theory
 [problem:CodeForces-1842G] combinatorics dp math probabilities
 [problem:CodeForces-1830D] brute force dp trees
 [problem:CodeForces-1827D] data structures dfs and similar greedy trees
