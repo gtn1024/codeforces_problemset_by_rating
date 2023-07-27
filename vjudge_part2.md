@@ -21,6 +21,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1500
 
+[problem:CodeForces-1850G] combinatorics data structures geometry implementation math sortings
 [problem:CodeForces-1842C] dp
 [problem:CodeForces-1817A] binary search data structures greedy
 [problem:CodeForces-1814C] constructive algorithms greedy sortings
@@ -864,6 +865,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1700
 
+[problem:CodeForces-1850H] dfs and similar graphs greedy implementation
 [problem:CodeForces-1835A] brute force implementation math
 [problem:CodeForces-1833F] combinatorics constructive algorithms data structures implementation math sortings two pointers
 [problem:CodeForces-1829H] bitmasks combinatorics dp math
@@ -1283,6 +1285,11 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
+[problem:CodeForces-1852B] constructive algorithms graphs greedy math sortings two pointers
+[problem:CodeForces-1852A] binary search math number theory
+[problem:CodeForces-1848C] math number theory
+[problem:CodeForces-1846F] constructive algorithms implementation interactive
+[problem:CodeForces-1846E2] binary search brute force implementation math
 [problem:CodeForces-1845D] binary search brute force data structures dp dsu greedy math two pointers
 [problem:CodeForces-1843F1] data structures dfs and similar dp graphs greedy math trees
 [problem:CodeForces-1841C] brute force dp greedy math strings
@@ -1685,6 +1692,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1900
 
+[problem:CodeForces-1847D] data structures dsu greedy implementation strings
+[problem:CodeForces-1846G] bitmasks dp graphs greedy shortest paths
 [problem:CodeForces-1842D] constructive algorithms graphs greedy
 [problem:CodeForces-1834D] brute force data structures greedy implementation sortings
 [problem:CodeForces-1823D] constructive algorithms math strings
@@ -2882,6 +2891,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2200
 
+[problem:CodeForces-1848D] binary search brute force math ternary search
 [problem:CodeForces-1841E] data structures greedy math
 [problem:CodeForces-1840G1] constructive algorithms interactive math meet-in-the-middle probabilities
 [problem:CodeForces-1840F] brute force dfs and similar dp graphs
