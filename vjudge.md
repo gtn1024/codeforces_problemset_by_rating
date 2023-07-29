@@ -3634,7 +3634,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1700
 
-[problem:CodeForces-1850H] dfs and similar graphs greedy implementation
+[problem:CodeForces-1850H] dfs and similar dsu graphs greedy implementation
 [problem:CodeForces-1835A] brute force implementation math
 [problem:CodeForces-1833F] combinatorics constructive algorithms data structures implementation math sortings two pointers
 [problem:CodeForces-1829H] bitmasks combinatorics dp math

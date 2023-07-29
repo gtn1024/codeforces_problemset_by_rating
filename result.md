@@ -3629,7 +3629,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1700
 
-* [The Third Letter](https://codeforces.com/problemset/problem/1850/H): dfs and similar graphs greedy implementation
+* [The Third Letter](https://codeforces.com/problemset/problem/1850/H): dfs and similar dsu graphs greedy implementation
 * [k-th equality](https://codeforces.com/problemset/problem/1835/A): brute force implementation math
 * [Ira and Flamenco](https://codeforces.com/problemset/problem/1833/F): combinatorics constructive algorithms data structures implementation math sortings two pointers
 * [Don't Blame Me](https://codeforces.com/problemset/problem/1829/H): bitmasks combinatorics dp math
