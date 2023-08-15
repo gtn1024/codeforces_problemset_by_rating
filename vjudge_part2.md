@@ -21,6 +21,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1500
 
+[problem:CodeForces-1857E] math sortings
+[problem:CodeForces-1851E] dfs and similar dp graphs sortings
 [problem:CodeForces-1850G] combinatorics data structures geometry implementation math sortings
 [problem:CodeForces-1842C] dp
 [problem:CodeForces-1817A] binary search data structures greedy
@@ -422,6 +424,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1600
 
+[problem:CodeForces-1857F] binary search data structures math
+[problem:CodeForces-1856C] binary search brute force data structures dp
+[problem:CodeForces-1849C] binary search brute force data structures hashing strings
 [problem:CodeForces-1843E] binary search brute force data structures two pointers
 [problem:CodeForces-1840E] data structures hashing implementation
 [problem:CodeForces-1833E] dfs and similar dsu graphs shortest paths
@@ -866,6 +871,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 1700
 
 [problem:CodeForces-1850H] dfs and similar dsu graphs greedy implementation
+[problem:CodeForces-1849D] constructive algorithms greedy two pointers
 [problem:CodeForces-1835A] brute force implementation math
 [problem:CodeForces-1833F] combinatorics constructive algorithms data structures implementation math sortings two pointers
 [problem:CodeForces-1829H] bitmasks combinatorics dp math
@@ -1285,8 +1291,11 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
+[problem:CodeForces-1859D] binary search data structures dp dsu greedy sortings two pointers
+[problem:CodeForces-1856E1] dfs and similar dp trees
 [problem:CodeForces-1852B] constructive algorithms graphs greedy math sortings two pointers
 [problem:CodeForces-1852A] binary search math number theory
+[problem:CodeForces-1851F] bitmasks greedy math strings trees
 [problem:CodeForces-1848C] math number theory
 [problem:CodeForces-1846F] constructive algorithms implementation interactive
 [problem:CodeForces-1846E2] binary search brute force implementation math
@@ -1692,6 +1701,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1900
 
+[problem:CodeForces-1854A2] constructive algorithms math
 [problem:CodeForces-1847D] data structures dsu greedy implementation strings
 [problem:CodeForces-1846G] bitmasks dp graphs greedy shortest paths
 [problem:CodeForces-1842D] constructive algorithms graphs greedy
@@ -2112,6 +2122,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
+[problem:CodeForces-1857G] combinatorics divide and conquer dsu graphs greedy sortings trees
+[problem:CodeForces-1851G] binary search data structures dsu graphs implementation sortings trees two pointers
 [problem:CodeForces-1841D] data structures greedy sortings two pointers
 [problem:CodeForces-1830B] brute force math
 [problem:CodeForces-1827B1] binary search dp dsu greedy trees two pointers
@@ -2522,6 +2534,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2100
 
+[problem:CodeForces-1856D] divide and conquer interactive
 [problem:CodeForces-1839D] data structures dp sortings
 [problem:CodeForces-1838D] data structures greedy strings
 [problem:CodeForces-1832D1] binary search greedy implementation math
@@ -2891,6 +2904,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2200
 
+[problem:CodeForces-1854B] bitmasks brute force dp
 [problem:CodeForces-1848D] binary search brute force math ternary search
 [problem:CodeForces-1841E] data structures greedy math
 [problem:CodeForces-1840G1] constructive algorithms interactive math meet-in-the-middle probabilities
@@ -3280,6 +3294,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2300
 
+[problem:CodeForces-1849E] binary search data structures divide and conquer dp dsu two pointers
 [problem:CodeForces-1843F2] data structures dfs and similar divide and conquer dp math trees
 [problem:CodeForces-1842E] data structures dp geometry greedy math
 [problem:CodeForces-1834E] binary search data structures implementation math number theory

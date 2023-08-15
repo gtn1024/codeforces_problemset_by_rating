@@ -19,10 +19,17 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+[problem:CodeForces-1859A] constructive algorithms math
+[problem:CodeForces-1857A] greedy math
+[problem:CodeForces-1856A] implementation
+[problem:CodeForces-1855A] greedy math
 [problem:CodeForces-1853A] brute force greedy math
+[problem:CodeForces-1851B] greedy sortings two pointers
+[problem:CodeForces-1851A] brute force constructive algorithms math
 [problem:CodeForces-1850C] implementation strings
 [problem:CodeForces-1850B] implementation sortings
 [problem:CodeForces-1850A] implementation sortings
+[problem:CodeForces-1849A] implementation math
 [problem:CodeForces-1847A] greedy sortings
 [problem:CodeForces-1846B] brute force implementation strings
 [problem:CodeForces-1846A] implementation math
@@ -750,6 +757,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 900
 
+[problem:CodeForces-1856B] implementation math
+[problem:CodeForces-1855B] brute force combinatorics greedy math number theory
 [problem:CodeForces-1850D] brute force greedy implementation sortings
 [problem:CodeForces-1848A] games math
 [problem:CodeForces-1845B] geometry implementation math
@@ -1025,6 +1034,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1000
 
+[problem:CodeForces-1859B] constructive algorithms greedy math sortings
+[problem:CodeForces-1851C] greedy
+[problem:CodeForces-1849B] greedy math sortings
 [problem:CodeForces-1847B] bitmasks greedy two pointers
 [problem:CodeForces-1844B] constructive algorithms math
 [problem:CodeForces-1841B] implementation
@@ -1351,6 +1363,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1100
 
+[problem:CodeForces-1857B] greedy implementation math
 [problem:CodeForces-1850E] binary search geometry implementation math
 [problem:CodeForces-1842B] bitmasks greedy math
 [problem:CodeForces-1840B] bitmasks combinatorics math
@@ -1683,6 +1696,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1200
 
+[problem:CodeForces-1859C] brute force dp greedy math
+[problem:CodeForces-1857C] greedy sortings
 [problem:CodeForces-1853B] binary search brute force math
 [problem:CodeForces-1848B] binary search data structures greedy implementation math sortings
 [problem:CodeForces-1846D] constructive algorithms geometry math
@@ -2043,6 +2058,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1300
 
+[problem:CodeForces-1857D] math sortings trees
+[problem:CodeForces-1851D] implementation math
 [problem:CodeForces-1850F] brute force implementation math number theory
 [problem:CodeForces-1846E1] brute force implementation math
 [problem:CodeForces-1844C] dp greedy implementation math
@@ -2412,6 +2429,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1400
 
+[problem:CodeForces-1854A1] constructive algorithms math
 [problem:CodeForces-1847C] bitmasks brute force dp greedy
 [problem:CodeForces-1845C] binary search dp greedy strings
 [problem:CodeForces-1844D] constructive algorithms greedy math number theory strings

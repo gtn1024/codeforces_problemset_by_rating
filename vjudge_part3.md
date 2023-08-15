@@ -408,6 +408,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2500
 
+[problem:CodeForces-1859E] brute force dp math
+[problem:CodeForces-1854C] combinatorics dp math probabilities
 [problem:CodeForces-1847F] binary search bitmasks data structures dfs and similar greedy math sortings
 [problem:CodeForces-1845E] dp implementation math
 [problem:CodeForces-1842F] dfs and similar greedy shortest paths sortings trees
@@ -1020,6 +1022,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2700
 
+[problem:CodeForces-1856E2] bitmasks dfs and similar dp fft greedy implementation math trees
+[problem:CodeForces-1849F] binary search bitmasks data structures divide and conquer greedy trees
 [problem:CodeForces-1841F] geometry sortings two pointers
 [problem:CodeForces-1817D] constructive algorithms games implementation
 [problem:CodeForces-1814F] brute force divide and conquer dsu
@@ -1649,6 +1653,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3000
 
+[problem:CodeForces-1854E] brute force constructive algorithms dp greedy math
+[problem:CodeForces-1854D] binary search interactive trees
 [problem:CodeForces-1844G] bitmasks constructive algorithms data structures dfs and similar implementation math matrices number theory trees
 [problem:CodeForces-1842H] bitmasks dp graphs math probabilities
 [problem:CodeForces-1838F] binary search constructive algorithms interactive
@@ -1929,6 +1935,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3200
 
+[problem:CodeForces-1859F] data structures divide and conquer graphs shortest paths trees
 [problem:CodeForces-1832F] binary search dp
 [problem:CodeForces-1830F] data structures dp
 [problem:CodeForces-1819E] interactive math probabilities trees
@@ -2235,6 +2242,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3500
 
+[problem:CodeForces-1854F] brute force dp
 [problem:CodeForces-1852F] data structures dp flows
 [problem:CodeForces-1842I] divide and conquer dp greedy
 [problem:CodeForces-1835F] bitmasks dfs and similar graph matchings graphs implementation
