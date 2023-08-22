@@ -35,7 +35,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
-* [United We Stand](https://codeforces.com/problemset/problem/1859/A): constructive algorithms math
+* [United We Stand](https://codeforces.com/problemset/problem/1859/A): constructive algorithms math number theory
+* [Buttons](https://codeforces.com/problemset/problem/1858/A): games greedy math
 * [Array Coloring](https://codeforces.com/problemset/problem/1857/A): greedy math
 * [Tales of a Sort](https://codeforces.com/problemset/problem/1856/A): implementation
 * [Dalton the Teacher](https://codeforces.com/problemset/problem/1855/A): greedy math
@@ -1051,6 +1052,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 1000
 
 * [Olya and Game with Arrays](https://codeforces.com/problemset/problem/1859/B): constructive algorithms greedy math sortings
+* [Yet Another Permutation Problem](https://codeforces.com/problemset/problem/1858/C): constructive algorithms greedy math number theory
 * [Tiles Comeback](https://codeforces.com/problemset/problem/1851/C): greedy
 * [Monsters](https://codeforces.com/problemset/problem/1849/B): greedy math sortings
 * [Hamon Odyssey](https://codeforces.com/problemset/problem/1847/B): bitmasks greedy two pointers
@@ -2803,6 +2805,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1500
 
+* [The Walkway](https://codeforces.com/problemset/problem/1858/B): brute force dp greedy math number theory
 * [Power of Points](https://codeforces.com/problemset/problem/1857/E): math sortings
 * [Nastya and Potions](https://codeforces.com/problemset/problem/1851/E): dfs and similar dp graphs sortings
 * [The Morning Star](https://codeforces.com/problemset/problem/1850/G): combinatorics data structures geometry implementation math sortings
@@ -4073,7 +4076,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
-* [Andrey and Escape from Capygrad](https://codeforces.com/problemset/problem/1859/D): binary search data structures dp dsu greedy sortings two pointers
+* [Andrey and Escape from Capygrad](https://codeforces.com/problemset/problem/1859/D): binary search data structures dp dsu greedy sortings
 * [PermuTree (easy version)](https://codeforces.com/problemset/problem/1856/E1): dfs and similar dp trees
 * [Imbalanced Arrays](https://codeforces.com/problemset/problem/1852/B): constructive algorithms graphs greedy math sortings two pointers
 * [Ntarsis' Set](https://codeforces.com/problemset/problem/1852/A): binary search math number theory
@@ -5686,6 +5689,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2200
 
+* [Trees and Segments](https://codeforces.com/problemset/problem/1858/D): brute force data structures dp greedy two pointers
 * [Earn or Unlock](https://codeforces.com/problemset/problem/1854/B): bitmasks brute force dp
 * [Vika and Bonuses](https://codeforces.com/problemset/problem/1848/D): binary search brute force math ternary search
 * [Fill the Matrix](https://codeforces.com/problemset/problem/1841/E): data structures greedy math
@@ -6787,6 +6791,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 2500
 
 * [Maximum Monogonosity](https://codeforces.com/problemset/problem/1859/E): brute force dp math
+* [Rollbacks (Easy Version)](https://codeforces.com/problemset/problem/1858/E1): brute force data structures dfs and similar trees
 * [Expected Destruction](https://codeforces.com/problemset/problem/1854/C): combinatorics dp math probabilities
 * [The Boss's Identity](https://codeforces.com/problemset/problem/1847/F): binary search bitmasks data structures dfs and similar greedy math sortings
 * [Boxes and Balls](https://codeforces.com/problemset/problem/1845/E): dp implementation math
@@ -7127,6 +7132,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2600
 
+* [Rollbacks (Hard Version)](https://codeforces.com/problemset/problem/1858/E2): data structures interactive trees
 * [Vika and Stone Skipping](https://codeforces.com/problemset/problem/1848/E): brute force implementation math number theory
 * [Min Cost Permutation (Easy Version)](https://codeforces.com/problemset/problem/1844/F1): brute force constructive algorithms greedy math
 * [Twin Clusters](https://codeforces.com/problemset/problem/1835/C): bitmasks brute force constructive algorithms math probabilities
@@ -8313,7 +8319,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3200
 
-* [Teleportation in Byteland](https://codeforces.com/problemset/problem/1859/F): data structures divide and conquer graphs shortest paths trees
+* [Teleportation in Byteland](https://codeforces.com/problemset/problem/1859/F): data structures dfs and similar divide and conquer graphs shortest paths trees
 * [Zombies](https://codeforces.com/problemset/problem/1832/F): binary search dp
 * [The Third Grace](https://codeforces.com/problemset/problem/1830/F): data structures dp
 * [Roads in E City](https://codeforces.com/problemset/problem/1819/E): interactive math probabilities trees

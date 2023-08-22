@@ -40,7 +40,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
-[problem:CodeForces-1859A] constructive algorithms math
+[problem:CodeForces-1859A] constructive algorithms math number theory
+[problem:CodeForces-1858A] games greedy math
 [problem:CodeForces-1857A] greedy math
 [problem:CodeForces-1856A] implementation
 [problem:CodeForces-1855A] greedy math
@@ -1056,6 +1057,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 1000
 
 [problem:CodeForces-1859B] constructive algorithms greedy math sortings
+[problem:CodeForces-1858C] constructive algorithms greedy math number theory
 [problem:CodeForces-1851C] greedy
 [problem:CodeForces-1849B] greedy math sortings
 [problem:CodeForces-1847B] bitmasks greedy two pointers
@@ -2808,6 +2810,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1500
 
+[problem:CodeForces-1858B] brute force dp greedy math number theory
 [problem:CodeForces-1857E] math sortings
 [problem:CodeForces-1851E] dfs and similar dp graphs sortings
 [problem:CodeForces-1850G] combinatorics data structures geometry implementation math sortings
@@ -4078,7 +4081,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
-[problem:CodeForces-1859D] binary search data structures dp dsu greedy sortings two pointers
+[problem:CodeForces-1859D] binary search data structures dp dsu greedy sortings
 [problem:CodeForces-1856E1] dfs and similar dp trees
 [problem:CodeForces-1852B] constructive algorithms graphs greedy math sortings two pointers
 [problem:CodeForces-1852A] binary search math number theory
@@ -5691,6 +5694,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2200
 
+[problem:CodeForces-1858D] brute force data structures dp greedy two pointers
 [problem:CodeForces-1854B] bitmasks brute force dp
 [problem:CodeForces-1848D] binary search brute force math ternary search
 [problem:CodeForces-1841E] data structures greedy math
@@ -6792,6 +6796,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 2500
 
 [problem:CodeForces-1859E] brute force dp math
+[problem:CodeForces-1858E1] brute force data structures dfs and similar trees
 [problem:CodeForces-1854C] combinatorics dp math probabilities
 [problem:CodeForces-1847F] binary search bitmasks data structures dfs and similar greedy math sortings
 [problem:CodeForces-1845E] dp implementation math
@@ -7132,6 +7137,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2600
 
+[problem:CodeForces-1858E2] data structures interactive trees
 [problem:CodeForces-1848E] brute force implementation math number theory
 [problem:CodeForces-1844F1] brute force constructive algorithms greedy math
 [problem:CodeForces-1835C] bitmasks brute force constructive algorithms math probabilities
@@ -8318,7 +8324,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3200
 
-[problem:CodeForces-1859F] data structures divide and conquer graphs shortest paths trees
+[problem:CodeForces-1859F] data structures dfs and similar divide and conquer graphs shortest paths trees
 [problem:CodeForces-1832F] binary search dp
 [problem:CodeForces-1830F] data structures dp
 [problem:CodeForces-1819E] interactive math probabilities trees
