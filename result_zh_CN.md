@@ -6475,7 +6475,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2400
 
-* [Interactive Game with Coloring](https://codeforces.com/problemset/problem/1879/E): brute force constructive algorithms dfs and similar graphs implementation interactive math trees
+* [Interactive Game with Coloring](https://codeforces.com/problemset/problem/1879/E): brute force constructive algorithms dfs and similar graphs implementation interactive trees
 * [Travel Plan](https://codeforces.com/problemset/problem/1868/C): combinatorics dp implementation math trees
 * [Mighty Rock Tower](https://codeforces.com/problemset/problem/1866/M): brute force combinatorics dp math probabilities
 * [Lihmuf Balling](https://codeforces.com/problemset/problem/1866/L): binary search brute force math

@@ -24,7 +24,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2400
 
-[problem:CodeForces-1879E] brute force constructive algorithms dfs and similar graphs implementation interactive math trees
+[problem:CodeForces-1879E] brute force constructive algorithms dfs and similar graphs implementation interactive trees
 [problem:CodeForces-1868C] combinatorics dp implementation math trees
 [problem:CodeForces-1866M] brute force combinatorics dp math probabilities
 [problem:CodeForces-1866L] binary search brute force math
