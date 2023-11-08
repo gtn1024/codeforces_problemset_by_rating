@@ -8853,19 +8853,33 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Two Characters, Two Colors](https://codeforces.com/problemset/problem/1895/G): binary search data structures dp flows greedy
+* [Fancy Arrays](https://codeforces.com/problemset/problem/1895/F): combinatorics dp math matrices
+* [Infinite Card Game](https://codeforces.com/problemset/problem/1895/E): binary search brute force data structures dfs and similar dp dsu games graphs greedy sortings two pointers
+* [XOR Construction](https://codeforces.com/problemset/problem/1895/D): bitmasks constructive algorithms data structures math
+* [Torn Lucky Ticket](https://codeforces.com/problemset/problem/1895/C): brute force dp hashing implementation math
+* [Points and Minimum Distance](https://codeforces.com/problemset/problem/1895/B): greedy math sortings
+* [Treasure Chest](https://codeforces.com/problemset/problem/1895/A): math
+* [Two Out of Three](https://codeforces.com/problemset/problem/1894/B): constructive algorithms
+* [Secret Sport](https://codeforces.com/problemset/problem/1894/A): implementation
+* [Cacti Symphony](https://codeforces.com/problemset/problem/1893/E): combinatorics dfs and similar dp graphs
+* [Colorful Constructive](https://codeforces.com/problemset/problem/1893/D): constructive algorithms greedy math
+* [Freedom of Choice](https://codeforces.com/problemset/problem/1893/C): brute force implementation
+* [Neutral Tonality](https://codeforces.com/problemset/problem/1893/B): constructive algorithms greedy sortings two pointers
+* [Anonymous Informant](https://codeforces.com/problemset/problem/1893/A): chinese remainder theorem implementation
 * [A Growing Tree](https://codeforces.com/problemset/problem/1891/F): data structures dfs and similar trees
 * [Brukhovich and Exams](https://codeforces.com/problemset/problem/1891/E): brute force greedy implementation math sortings
-* [Suspicious logarithms](https://codeforces.com/problemset/problem/1891/D): binary search brute force implementation math number theory
+* [Suspicious logarithms](https://codeforces.com/problemset/problem/1891/D): binary search brute force math
 * [Smilo and Monsters](https://codeforces.com/problemset/problem/1891/C): binary search constructive algorithms greedy sortings two pointers
-* [Deja Vu](https://codeforces.com/problemset/problem/1891/B): math sortings
+* [Deja Vu](https://codeforces.com/problemset/problem/1891/B): brute force math sortings
 * [Sorting with Twos](https://codeforces.com/problemset/problem/1891/A): constructive algorithms sortings
-* [Qingshan Loves Strings](https://codeforces.com/problemset/problem/1890/B): implementation
+* [Qingshan Loves Strings](https://codeforces.com/problemset/problem/1890/B): constructive algorithms implementation
 * [Doremy's Paint 3](https://codeforces.com/problemset/problem/1890/A): constructive algorithms
 * [Doremy's Average Tree](https://codeforces.com/problemset/problem/1889/F): data structures dp greedy trees
 * [Doremy's Swapping Trees](https://codeforces.com/problemset/problem/1889/E): dfs and similar graphs trees
-* [Game of Stacks](https://codeforces.com/problemset/problem/1889/D): dfs and similar graphs implementation trees
-* [Doremy's Drying Plan (Hard Version)](https://codeforces.com/problemset/problem/1889/C2): data structures dp hashing
-* [Doremy's Drying Plan (Easy Version)](https://codeforces.com/problemset/problem/1889/C1): brute force data structures dp greedy implementation sortings
+* [Game of Stacks](https://codeforces.com/problemset/problem/1889/D): brute force dfs and similar graphs implementation trees
+* [Doremy's Drying Plan (Hard Version)](https://codeforces.com/problemset/problem/1889/C2): data structures dp
+* [Doremy's Drying Plan (Easy Version)](https://codeforces.com/problemset/problem/1889/C1): brute force data structures dp greedy sortings
 * [Doremy's Connecting Plan](https://codeforces.com/problemset/problem/1889/B): constructive algorithms greedy math sortings
 * [Qingshan Loves Strings 2](https://codeforces.com/problemset/problem/1889/A): constructive algorithms greedy implementation
 * [Minimum Segments](https://codeforces.com/problemset/problem/1887/F): constructive algorithms

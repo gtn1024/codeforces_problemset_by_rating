@@ -8853,19 +8853,33 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-1895G] binary search, data structures, dp, flows, greedy
+[problem:CodeForces-1895F] combinatorics, dp, math, matrices
+[problem:CodeForces-1895E] binary search, brute force, data structures, dfs and similar, dp, dsu, games, graphs, greedy, sortings, two pointers
+[problem:CodeForces-1895D] bitmasks, constructive algorithms, data structures, math
+[problem:CodeForces-1895C] brute force, dp, hashing, implementation, math
+[problem:CodeForces-1895B] greedy, math, sortings
+[problem:CodeForces-1895A] math
+[problem:CodeForces-1894B] constructive algorithms
+[problem:CodeForces-1894A] implementation
+[problem:CodeForces-1893E] combinatorics, dfs and similar, dp, graphs
+[problem:CodeForces-1893D] constructive algorithms, greedy, math
+[problem:CodeForces-1893C] brute force, implementation
+[problem:CodeForces-1893B] constructive algorithms, greedy, sortings, two pointers
+[problem:CodeForces-1893A] chinese remainder theorem, implementation
 [problem:CodeForces-1891F] data structures, dfs and similar, trees
 [problem:CodeForces-1891E] brute force, greedy, implementation, math, sortings
-[problem:CodeForces-1891D] binary search, brute force, implementation, math, number theory
+[problem:CodeForces-1891D] binary search, brute force, math
 [problem:CodeForces-1891C] binary search, constructive algorithms, greedy, sortings, two pointers
-[problem:CodeForces-1891B] math, sortings
+[problem:CodeForces-1891B] brute force, math, sortings
 [problem:CodeForces-1891A] constructive algorithms, sortings
-[problem:CodeForces-1890B] implementation
+[problem:CodeForces-1890B] constructive algorithms, implementation
 [problem:CodeForces-1890A] constructive algorithms
 [problem:CodeForces-1889F] data structures, dp, greedy, trees
 [problem:CodeForces-1889E] dfs and similar, graphs, trees
-[problem:CodeForces-1889D] dfs and similar, graphs, implementation, trees
-[problem:CodeForces-1889C2] data structures, dp, hashing
-[problem:CodeForces-1889C1] brute force, data structures, dp, greedy, implementation, sortings
+[problem:CodeForces-1889D] brute force, dfs and similar, graphs, implementation, trees
+[problem:CodeForces-1889C2] data structures, dp
+[problem:CodeForces-1889C1] brute force, data structures, dp, greedy, sortings
 [problem:CodeForces-1889B] constructive algorithms, greedy, math, sortings
 [problem:CodeForces-1889A] constructive algorithms, greedy, implementation
 [problem:CodeForces-1887F] constructive algorithms
