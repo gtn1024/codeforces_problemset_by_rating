@@ -4220,7 +4220,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 1800
 
 * [Kim's Quest](https://codeforces.com/problemset/problem/1912/K): bitmasks combinatorics dp
-* [Accumulator Apex](https://codeforces.com/problemset/problem/1912/A): implementation sortings
+* [Accumulator Apex](https://codeforces.com/problemset/problem/1912/A): data structures implementation sortings
 * [Remove and Add](https://codeforces.com/problemset/problem/1910/D): *special greedy
 * [Shift and Reverse](https://codeforces.com/problemset/problem/1907/F): greedy sortings
 * [Selling a Menagerie](https://codeforces.com/problemset/problem/1872/F): dfs and similar dsu graphs implementation math
@@ -5073,7 +5073,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
-* [Blueprint for Seating](https://codeforces.com/problemset/problem/1912/B): combinatorics divide and conquer fft math
+* [Blueprint for Seating](https://codeforces.com/problemset/problem/1912/B): combinatorics divide and conquer math
 * [Build Railway Stations](https://codeforces.com/problemset/problem/1910/F): *special greedy trees
 * [Maximize The Value](https://codeforces.com/problemset/problem/1906/F): data structures sortings
 * [Geo Game](https://codeforces.com/problemset/problem/1903/E): greedy interactive math
@@ -9044,6 +9044,27 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Light Bulbs (Hard Version)](https://codeforces.com/problemset/problem/1914/G2): combinatorics data structures dfs and similar dp graphs hashing
+* [Light Bulbs (Easy Version)](https://codeforces.com/problemset/problem/1914/G1): brute force combinatorics dfs and similar dp dsu graphs math
+* [Programming Competition](https://codeforces.com/problemset/problem/1914/F): dfs and similar dp graph matchings greedy trees
+* [Game with Marbles (Hard Version)](https://codeforces.com/problemset/problem/1914/E2): games greedy sortings
+* [Game with Marbles (Easy Version)](https://codeforces.com/problemset/problem/1914/E1): brute force games greedy sortings
+* [Three Activities](https://codeforces.com/problemset/problem/1914/D): brute force dp implementation sortings
+* [Quests](https://codeforces.com/problemset/problem/1914/C): greedy math
+* [Preparing for the Contest](https://codeforces.com/problemset/problem/1914/B): constructive algorithms math
+* [Problemsolving Log](https://codeforces.com/problemset/problem/1914/A): implementation strings
+* [Palindromic Problem](https://codeforces.com/problemset/problem/1913/F): binary search data structures hashing strings
+* [Matrix Problem](https://codeforces.com/problemset/problem/1913/E): flows graphs
+* [Array Collapse](https://codeforces.com/problemset/problem/1913/D): data structures divide and conquer dp trees
+* [Game with Multiset](https://codeforces.com/problemset/problem/1913/C): binary search bitmasks brute force greedy
+* [Swap and Delete](https://codeforces.com/problemset/problem/1913/B): strings
+* [Rating Increase](https://codeforces.com/problemset/problem/1913/A): implementation
+* [Field Should Not Be Empty](https://codeforces.com/problemset/problem/1905/F): brute force data structures divide and conquer
+* [One-X](https://codeforces.com/problemset/problem/1905/E): combinatorics dfs and similar dp math trees
+* [Cyclic MEX](https://codeforces.com/problemset/problem/1905/D): data structures implementation math two pointers
+* [Largest Subsequence](https://codeforces.com/problemset/problem/1905/C): greedy strings
+* [Begginer's Zelda](https://codeforces.com/problemset/problem/1905/B): greedy trees
+* [Constructive Problems](https://codeforces.com/problemset/problem/1905/A): constructive algorithms math
 * [Beautiful Tree](https://codeforces.com/problemset/problem/1904/F): data structures dfs and similar graphs implementation trees
 * [Tree Queries](https://codeforces.com/problemset/problem/1904/E): data structures dfs and similar graphs implementation trees
 * [Set To Max (Hard Version)](https://codeforces.com/problemset/problem/1904/D2): constructive algorithms data structures divide and conquer greedy implementation sortings

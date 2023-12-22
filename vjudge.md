@@ -4220,7 +4220,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 1800
 
 [problem:CodeForces-1912K] bitmasks, combinatorics, dp
-[problem:CodeForces-1912A] implementation, sortings
+[problem:CodeForces-1912A] data structures, implementation, sortings
 [problem:CodeForces-1910D] *special, greedy
 [problem:CodeForces-1907F] greedy, sortings
 [problem:CodeForces-1872F] dfs and similar, dsu, graphs, implementation, math
@@ -5073,7 +5073,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
-[problem:CodeForces-1912B] combinatorics, divide and conquer, fft, math
+[problem:CodeForces-1912B] combinatorics, divide and conquer, math
 [problem:CodeForces-1910F] *special, greedy, trees
 [problem:CodeForces-1906F] data structures, sortings
 [problem:CodeForces-1903E] greedy, interactive, math
@@ -9044,6 +9044,27 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-1914G2] combinatorics, data structures, dfs and similar, dp, graphs, hashing
+[problem:CodeForces-1914G1] brute force, combinatorics, dfs and similar, dp, dsu, graphs, math
+[problem:CodeForces-1914F] dfs and similar, dp, graph matchings, greedy, trees
+[problem:CodeForces-1914E2] games, greedy, sortings
+[problem:CodeForces-1914E1] brute force, games, greedy, sortings
+[problem:CodeForces-1914D] brute force, dp, implementation, sortings
+[problem:CodeForces-1914C] greedy, math
+[problem:CodeForces-1914B] constructive algorithms, math
+[problem:CodeForces-1914A] implementation, strings
+[problem:CodeForces-1913F] binary search, data structures, hashing, strings
+[problem:CodeForces-1913E] flows, graphs
+[problem:CodeForces-1913D] data structures, divide and conquer, dp, trees
+[problem:CodeForces-1913C] binary search, bitmasks, brute force, greedy
+[problem:CodeForces-1913B] strings
+[problem:CodeForces-1913A] implementation
+[problem:CodeForces-1905F] brute force, data structures, divide and conquer
+[problem:CodeForces-1905E] combinatorics, dfs and similar, dp, math, trees
+[problem:CodeForces-1905D] data structures, implementation, math, two pointers
+[problem:CodeForces-1905C] greedy, strings
+[problem:CodeForces-1905B] greedy, trees
+[problem:CodeForces-1905A] constructive algorithms, math
 [problem:CodeForces-1904F] data structures, dfs and similar, graphs, implementation, trees
 [problem:CodeForces-1904E] data structures, dfs and similar, graphs, implementation, trees
 [problem:CodeForces-1904D2] constructive algorithms, data structures, divide and conquer, greedy, implementation, sortings
