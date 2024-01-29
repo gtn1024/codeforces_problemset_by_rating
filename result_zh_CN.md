@@ -2189,7 +2189,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1300
 
-* [Closest Cities](https://codeforces.com/problemset/problem/1922/C): math
+* [Closest Cities](https://codeforces.com/problemset/problem/1922/C): greedy implementation math
 * [Romantic Glasses](https://codeforces.com/problemset/problem/1915/E): data structures greedy math
 * [Game with Multiset](https://codeforces.com/problemset/problem/1913/C): binary search bitmasks brute force greedy
 * [Insert and Equalize](https://codeforces.com/problemset/problem/1902/C): brute force constructive algorithms greedy math number theory
@@ -4265,7 +4265,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
-* [Increasing Subsequences](https://codeforces.com/problemset/problem/1922/E): bitmasks constructive algorithms greedy math
+* [Increasing Subsequences](https://codeforces.com/problemset/problem/1922/E): bitmasks constructive algorithms divide and conquer greedy math
 * [Array Repetition](https://codeforces.com/problemset/problem/1920/D): binary search brute force dsu implementation math
 * [Bicycles](https://codeforces.com/problemset/problem/1915/G): graphs greedy implementation shortest paths sortings
 * [Kim's Quest](https://codeforces.com/problemset/problem/1912/K): bitmasks combinatorics dp
@@ -4688,7 +4688,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1900
 
-* [Berserk Monsters](https://codeforces.com/problemset/problem/1922/D): brute force data structures dsu implementation
+* [Berserk Monsters](https://codeforces.com/problemset/problem/1922/D): brute force data structures dsu implementation math
 * [Sum of Progression](https://codeforces.com/problemset/problem/1921/F): brute force data structures dp implementation math
 * [Programming Competition](https://codeforces.com/problemset/problem/1914/F): dfs and similar dp graph matchings greedy trees
 * [Divisibility Test](https://codeforces.com/problemset/problem/1912/D): math
@@ -7079,7 +7079,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2500
 
-* [Replace on Segment](https://codeforces.com/problemset/problem/1922/F): dp
+* [Replace on Segment](https://codeforces.com/problemset/problem/1922/F): dp graph matchings
 * [Smooth Sailing (Easy Version)](https://codeforces.com/problemset/problem/1920/F1): binary search brute force data structures dfs and similar dsu graphs shortest paths
 * [Construct Tree](https://codeforces.com/problemset/problem/1917/F): bitmasks constructive algorithms dp trees
 * [Construct Matrix](https://codeforces.com/problemset/problem/1917/E): constructive algorithms math
@@ -9133,6 +9133,15 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Good Trip](https://codeforces.com/problemset/problem/1925/D): combinatorics dp math number theory probabilities
+* [A Balanced Problemset?](https://codeforces.com/problemset/problem/1925/B): brute force greedy math number theory
+* [We Got Everything Covered!](https://codeforces.com/problemset/problem/1925/A): constructive algorithms greedy strings
+* [Anti-Proxy Attendance](https://codeforces.com/problemset/problem/1924/F): constructive algorithms interactive ternary search
+* [Paper Cutting Again](https://codeforces.com/problemset/problem/1924/E): combinatorics probabilities
+* [Balanced Subsequences](https://codeforces.com/problemset/problem/1924/D): combinatorics dp math
+* [Fractal Origami](https://codeforces.com/problemset/problem/1924/C): geometry math matrices
+* [Space Harbour](https://codeforces.com/problemset/problem/1924/B): data structures implementation math sortings
+* [Did We Get Everything Covered?](https://codeforces.com/problemset/problem/1924/A): constructive algorithms dp greedy shortest paths strings
 * [Deterministic Scheduling for Extended Reality over 5G and Beyond](https://codeforces.com/problemset/problem/1885/A): *special
 * [Unmysterious Language](https://codeforces.com/problemset/problem/1812/J): *special constructive algorithms strings
 * [Mountain Climber](https://codeforces.com/problemset/problem/1812/I): *special
