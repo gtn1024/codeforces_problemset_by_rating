@@ -9149,10 +9149,23 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [One-Dimensional Puzzle](https://codeforces.com/problemset/problem/1931/G): combinatorics math number theory
+* [Chat Screenshots](https://codeforces.com/problemset/problem/1931/F): combinatorics dfs and similar graphs implementation
+* [Anna and the Valentine's Day Gift](https://codeforces.com/problemset/problem/1931/E): games greedy math sortings
+* [Divisible Pairs](https://codeforces.com/problemset/problem/1931/D): combinatorics math number theory
+* [Make Equal Again](https://codeforces.com/problemset/problem/1931/C): brute force greedy math
+* [Make Equal](https://codeforces.com/problemset/problem/1931/B): greedy
+* [Recovering a Small String](https://codeforces.com/problemset/problem/1931/A): brute force strings
+* [Digital Patterns](https://codeforces.com/problemset/problem/1928/F): combinatorics data structures implementation math
+* [Modular Sequence](https://codeforces.com/problemset/problem/1928/E): constructive algorithms dp graphs greedy math
+* [Lonely Mountain Dungeons](https://codeforces.com/problemset/problem/1928/D): brute force data structures greedy math ternary search
+* [Physical Education Lesson](https://codeforces.com/problemset/problem/1928/C): brute force math number theory
+* [Equalize](https://codeforces.com/problemset/problem/1928/B): binary search greedy sortings two pointers
+* [Rectangle Cutting](https://codeforces.com/problemset/problem/1928/A): geometry greedy math
 * [Paint Charges](https://codeforces.com/problemset/problem/1927/G): data structures dp greedy math
-* [Microcycle](https://codeforces.com/problemset/problem/1927/F): data structures dfs and similar dsu graphs greedy trees
+* [Microcycle](https://codeforces.com/problemset/problem/1927/F): data structures dfs and similar dsu graphs greedy implementation sortings trees
 * [Klever Permutation](https://codeforces.com/problemset/problem/1927/E): constructive algorithms math two pointers
-* [Find the Different Ones!](https://codeforces.com/problemset/problem/1927/D): binary search brute force data structures dp greedy two pointers
+* [Find the Different Ones!](https://codeforces.com/problemset/problem/1927/D): binary search brute force data structures dp dsu greedy two pointers
 * [Choose the Different Ones!](https://codeforces.com/problemset/problem/1927/C): brute force greedy math
 * [Following the String](https://codeforces.com/problemset/problem/1927/B): constructive algorithms greedy strings
 * [Make it White](https://codeforces.com/problemset/problem/1927/A): greedy strings
