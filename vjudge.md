@@ -9175,6 +9175,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-1933G] bitmasks, brute force, combinatorics, math
+[problem:CodeForces-1933F] dfs and similar, dp, graphs, shortest paths
+[problem:CodeForces-1933E] binary search, implementation, math, ternary search
+[problem:CodeForces-1933D] constructive algorithms, greedy, math, number theory, sortings
+[problem:CodeForces-1933C] brute force, implementation, math, number theory
+[problem:CodeForces-1933B] implementation, math, number theory
+[problem:CodeForces-1933A] greedy, math, sortings
 [problem:CodeForces-1932G] graphs, math, number theory, shortest paths
 [problem:CodeForces-1932F] data structures, dp, sortings
 [problem:CodeForces-1932E] implementation, math, number theory
@@ -9183,22 +9190,28 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-1932B] number theory
 [problem:CodeForces-1932A] dp, greedy, implementation
 [problem:CodeForces-1930I] combinatorics
-[problem:CodeForces-1930H] dfs and similar, interactive, trees
+[problem:CodeForces-1930H] constructive algorithms, dfs and similar, interactive, trees
 [problem:CodeForces-1930G] data structures, dp, trees
 [problem:CodeForces-1930F] bitmasks, brute force, dfs and similar
-[problem:CodeForces-1930E] combinatorics, math
-[problem:CodeForces-1930D2] dp, dsu, greedy, implementation, strings
+[problem:CodeForces-1930E] combinatorics, dp, math
+[problem:CodeForces-1930D2] bitmasks, divide and conquer, dp, dsu, greedy, implementation, strings
 [problem:CodeForces-1930D1] brute force, dp, greedy, strings
 [problem:CodeForces-1930C] binary search, constructive algorithms, data structures, greedy, sortings
 [problem:CodeForces-1930B] brute force, constructive algorithms, math
 [problem:CodeForces-1930A] greedy, sortings
 [problem:CodeForces-1926G] dfs and similar, dp, flows, graphs, greedy, implementation, trees
-[problem:CodeForces-1926F] bitmasks, brute force, combinatorics, dfs and similar, dp, implementation
+[problem:CodeForces-1926F] bitmasks, brute force, dfs and similar, dp, implementation
 [problem:CodeForces-1926E] binary search, bitmasks, data structures, dp, implementation, math, number theory
 [problem:CodeForces-1926D] bitmasks, greedy
 [problem:CodeForces-1926C] dp, implementation
 [problem:CodeForces-1926B] geometry, implementation
 [problem:CodeForces-1926A] implementation
+[problem:CodeForces-1923F] binary search, brute force, greedy, hashing, implementation, string suffix structures, strings
+[problem:CodeForces-1923E] data structures, dfs and similar, dp, dsu, graphs, trees
+[problem:CodeForces-1923D] binary search, constructive algorithms, data structures, greedy, two pointers
+[problem:CodeForces-1923C] constructive algorithms, greedy
+[problem:CodeForces-1923B] dp, greedy, implementation
+[problem:CodeForces-1923A] greedy, implementation
 [problem:CodeForces-1885A] *special
 [problem:CodeForces-1812J] *special, constructive algorithms, strings
 [problem:CodeForces-1812I] *special
