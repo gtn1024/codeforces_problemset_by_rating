@@ -9175,7 +9175,15 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-[problem:CodeForces-1933G] bitmasks, brute force, combinatorics, math
+[problem:CodeForces-1937B] implementation
+[problem:CodeForces-1937A] implementation, math
+[problem:CodeForces-1936F] geometry
+[problem:CodeForces-1936E] divide and conquer, fft, math
+[problem:CodeForces-1936D] bitmasks, data structures, greedy, two pointers
+[problem:CodeForces-1936C] data structures, graphs, shortest paths
+[problem:CodeForces-1936B] binary search, implementation
+[problem:CodeForces-1936A] bitmasks, constructive algorithms, greedy, interactive, math
+[problem:CodeForces-1933G] bitmasks, brute force, combinatorics, constructive algorithms, math
 [problem:CodeForces-1933F] dfs and similar, dp, graphs, shortest paths
 [problem:CodeForces-1933E] binary search, implementation, math, ternary search
 [problem:CodeForces-1933D] constructive algorithms, greedy, math, number theory, sortings

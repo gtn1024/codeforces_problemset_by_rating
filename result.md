@@ -9175,7 +9175,15 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Turtle Magic: Royal Turtle Shell Pattern](https://codeforces.com/problemset/problem/1933/G): bitmasks brute force combinatorics math
+* [Binary Path](https://codeforces.com/problemset/problem/1937/B): implementation
+* [Shuffle Party](https://codeforces.com/problemset/problem/1937/A): implementation math
+* [Grand Finale: Circles](https://codeforces.com/problemset/problem/1936/F): geometry
+* [Yet Yet Another Permutation Problem](https://codeforces.com/problemset/problem/1936/E): divide and conquer fft math
+* [Bitwise Paradox](https://codeforces.com/problemset/problem/1936/D): bitmasks data structures greedy two pointers
+* [Pokémon Arena](https://codeforces.com/problemset/problem/1936/C): data structures graphs shortest paths
+* [Pinball](https://codeforces.com/problemset/problem/1936/B): binary search implementation
+* [Bitwise Operation Wizard](https://codeforces.com/problemset/problem/1936/A): bitmasks constructive algorithms greedy interactive math
+* [Turtle Magic: Royal Turtle Shell Pattern](https://codeforces.com/problemset/problem/1933/G): bitmasks brute force combinatorics constructive algorithms math
 * [Turtle Mission: Robot and the Earthquake](https://codeforces.com/problemset/problem/1933/F): dfs and similar dp graphs shortest paths
 * [Turtle vs. Rabbit Race: Optimal Trainings](https://codeforces.com/problemset/problem/1933/E): binary search implementation math ternary search
 * [Turtle Tenacity: Continual Mods](https://codeforces.com/problemset/problem/1933/D): constructive algorithms greedy math number theory sortings
