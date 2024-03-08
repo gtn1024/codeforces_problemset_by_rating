@@ -1052,7 +1052,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Pineapple Incident](https://codeforces.com/problemset/problem/697/A): implementation math
 * [Holidays](https://codeforces.com/problemset/problem/670/A): brute force constructive algorithms greedy math
 * [Bear and Three Balls](https://codeforces.com/problemset/problem/653/A): brute force implementation sortings
-* [Наибольший подъем](https://codeforces.com/problemset/problem/648/A): constructive algorithms
+* [Наибольший подъем](https://codeforces.com/problemset/problem/648/A): constructive algorithms implementation
 * [Interview](https://codeforces.com/problemset/problem/631/A): brute force implementation
 * [The Time](https://codeforces.com/problemset/problem/622/B): implementation
 * [Wet Shark and Odd and Even](https://codeforces.com/problemset/problem/621/A): implementation
@@ -1704,7 +1704,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Coat of Anticubism](https://codeforces.com/problemset/problem/667/B): constructive algorithms geometry
 * [Pouring Rain](https://codeforces.com/problemset/problem/667/A): geometry math
 * [Joysticks](https://codeforces.com/problemset/problem/651/A): dp greedy implementation math
-* [Путь Робота](https://codeforces.com/problemset/problem/648/C): dfs and similar graphs
+* [Путь Робота](https://codeforces.com/problemset/problem/648/C): constructive algorithms dfs and similar graphs
 * [Home Numbers](https://codeforces.com/problemset/problem/638/A): *special constructive algorithms math
 * [Orchestra](https://codeforces.com/problemset/problem/635/A): brute force implementation
 * [Ebony and Ivory](https://codeforces.com/problemset/problem/633/A): brute force math number theory
@@ -9175,15 +9175,40 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Binary Path](https://codeforces.com/problemset/problem/1937/B): implementation
+* [Zig-zag](https://codeforces.com/problemset/problem/1938/M)
+* [XOR Operations](https://codeforces.com/problemset/problem/1938/L)
+* [Tree Quiz](https://codeforces.com/problemset/problem/1938/K)
+* [There and Back Again](https://codeforces.com/problemset/problem/1938/J)
+* [Symmetric Boundary](https://codeforces.com/problemset/problem/1938/I)
+* [Pho Restaurant](https://codeforces.com/problemset/problem/1938/H)
+* [Personality Test](https://codeforces.com/problemset/problem/1938/G)
+* [Forming Groups](https://codeforces.com/problemset/problem/1938/F)
+* [Duplicates](https://codeforces.com/problemset/problem/1938/E)
+* [Bánh Bò](https://codeforces.com/problemset/problem/1938/D)
+* [Bit Counting Sequence](https://codeforces.com/problemset/problem/1938/C)
+* [Attraction Score](https://codeforces.com/problemset/problem/1938/B)
+* [Antiparticle Antiphysics](https://codeforces.com/problemset/problem/1938/A)
+* [Binary Path](https://codeforces.com/problemset/problem/1937/B): dp greedy implementation
 * [Shuffle Party](https://codeforces.com/problemset/problem/1937/A): implementation math
-* [Grand Finale: Circles](https://codeforces.com/problemset/problem/1936/F): geometry
+* [Grand Finale: Circles](https://codeforces.com/problemset/problem/1936/F): binary search geometry
 * [Yet Yet Another Permutation Problem](https://codeforces.com/problemset/problem/1936/E): divide and conquer fft math
-* [Bitwise Paradox](https://codeforces.com/problemset/problem/1936/D): bitmasks data structures greedy two pointers
-* [Pokémon Arena](https://codeforces.com/problemset/problem/1936/C): data structures graphs shortest paths
-* [Pinball](https://codeforces.com/problemset/problem/1936/B): binary search implementation
+* [Bitwise Paradox](https://codeforces.com/problemset/problem/1936/D): binary search bitmasks data structures greedy two pointers
+* [Pokémon Arena](https://codeforces.com/problemset/problem/1936/C): data structures graphs greedy implementation shortest paths sortings
+* [Pinball](https://codeforces.com/problemset/problem/1936/B): binary search data structures implementation math two pointers
 * [Bitwise Operation Wizard](https://codeforces.com/problemset/problem/1936/A): bitmasks constructive algorithms greedy interactive math
-* [Turtle Magic: Royal Turtle Shell Pattern](https://codeforces.com/problemset/problem/1933/G): bitmasks brute force combinatorics constructive algorithms math
+* [Andrey's Tree](https://codeforces.com/problemset/problem/1935/F): binary search constructive algorithms data structures dfs and similar dsu greedy implementation trees
+* [Distance Learning Courses in MAC](https://codeforces.com/problemset/problem/1935/E): bitmasks brute force data structures greedy math
+* [Exam in MAC](https://codeforces.com/problemset/problem/1935/D): binary search combinatorics implementation math
+* [Messenger in MAC](https://codeforces.com/problemset/problem/1935/C): binary search brute force constructive algorithms data structures dp greedy sortings
+* [Informatics in MAC](https://codeforces.com/problemset/problem/1935/B): constructive algorithms
+* [Entertainment in MAC](https://codeforces.com/problemset/problem/1935/A): constructive algorithms strings
+* [Weird LCM Operations](https://codeforces.com/problemset/problem/1934/E): brute force constructive algorithms number theory
+* [XOR Break --- Game Version](https://codeforces.com/problemset/problem/1934/D2): bitmasks games greedy interactive
+* [XOR Break --- Solo Version](https://codeforces.com/problemset/problem/1934/D1): bitmasks constructive algorithms greedy
+* [Find a Mine](https://codeforces.com/problemset/problem/1934/C): binary search constructive algorithms geometry greedy interactive math
+* [Yet Another Coin Problem](https://codeforces.com/problemset/problem/1934/B): brute force dp greedy math
+* [Too Min Too Max](https://codeforces.com/problemset/problem/1934/A): greedy math
+* [Turtle Magic: Royal Turtle Shell Pattern](https://codeforces.com/problemset/problem/1933/G): bitmasks brute force combinatorics constructive algorithms dfs and similar math
 * [Turtle Mission: Robot and the Earthquake](https://codeforces.com/problemset/problem/1933/F): dfs and similar dp graphs shortest paths
 * [Turtle vs. Rabbit Race: Optimal Trainings](https://codeforces.com/problemset/problem/1933/E): binary search implementation math ternary search
 * [Turtle Tenacity: Continual Mods](https://codeforces.com/problemset/problem/1933/D): constructive algorithms greedy math number theory sortings
