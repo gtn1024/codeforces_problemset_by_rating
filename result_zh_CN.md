@@ -848,7 +848,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 900
 
-* [Rudolf and the Ugly String](https://codeforces.com/problemset/problem/1941/C): dp strings
+* [Rudolf and the Ugly String](https://codeforces.com/problemset/problem/1941/C): dp greedy strings
 * [Following the String](https://codeforces.com/problemset/problem/1927/B): constructive algorithms greedy strings
 * [Sending Messages](https://codeforces.com/problemset/problem/1921/C): greedy math
 * [Minimize Inversions](https://codeforces.com/problemset/problem/1918/B): constructive algorithms data structures greedy implementation sortings
@@ -1843,7 +1843,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1200
 
-* [Rudolf and the Ball Game](https://codeforces.com/problemset/problem/1941/D): dp implementation
+* [Rudolf and the Ball Game](https://codeforces.com/problemset/problem/1941/D): dfs and similar dp implementation
 * [Informatics in MAC](https://codeforces.com/problemset/problem/1935/B): constructive algorithms
 * [Yet Another Coin Problem](https://codeforces.com/problemset/problem/1934/B): brute force dp greedy math
 * [Turtle Tenacity: Continual Mods](https://codeforces.com/problemset/problem/1933/D): constructive algorithms greedy math number theory sortings
@@ -9252,6 +9252,31 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [MST with Matching](https://codeforces.com/problemset/problem/1948/G): bitmasks brute force dsu
+* [Rare Coins](https://codeforces.com/problemset/problem/1948/F): combinatorics math probabilities
+* [Clique Partition](https://codeforces.com/problemset/problem/1948/E): brute force constructive algorithms graphs greedy implementation
+* [Tandem Repeats?](https://codeforces.com/problemset/problem/1948/D): brute force strings two pointers
+* [Arrow Path](https://codeforces.com/problemset/problem/1948/C): brute force constructive algorithms dfs and similar dp graphs shortest paths
+* [Array Fix](https://codeforces.com/problemset/problem/1948/B): brute force dp greedy implementation
+* [Special Characters](https://codeforces.com/problemset/problem/1948/A): brute force constructive algorithms
+* [GCD is Greater](https://codeforces.com/problemset/problem/1945/H): bitmasks brute force number theory
+* [Cook and Porridge](https://codeforces.com/problemset/problem/1945/G): binary search constructive algorithms data structures implementation
+* [Kirill and Mushrooms](https://codeforces.com/problemset/problem/1945/F): data structures sortings
+* [Binary Search](https://codeforces.com/problemset/problem/1945/E): binary search constructive algorithms
+* [Seraphim the Owl](https://codeforces.com/problemset/problem/1945/D): dp greedy
+* [Left and Right Houses](https://codeforces.com/problemset/problem/1945/C): brute force
+* [Fireworks](https://codeforces.com/problemset/problem/1945/B): math number theory
+* [Setting up Camp](https://codeforces.com/problemset/problem/1945/A): greedy math
+* [Equal XOR](https://codeforces.com/problemset/problem/1944/B): bitmasks constructive algorithms
+* [Destroying Bridges](https://codeforces.com/problemset/problem/1944/A): graphs greedy math
+* [Minimum Hamming Distance](https://codeforces.com/problemset/problem/1943/F): dp
+* [MEX Game 2 (Hard Version)](https://codeforces.com/problemset/problem/1943/E2): binary search greedy two pointers
+* [MEX Game 2 (Easy Version)](https://codeforces.com/problemset/problem/1943/E1): binary search brute force greedy
+* [Counting Is Fun (Hard Version)](https://codeforces.com/problemset/problem/1943/D2): combinatorics dp
+* [Counting Is Fun (Easy Version)](https://codeforces.com/problemset/problem/1943/D1): brute force combinatorics dp math
+* [Tree Compass](https://codeforces.com/problemset/problem/1943/C): constructive algorithms dfs and similar greedy trees
+* [Non-Palindromic Substring](https://codeforces.com/problemset/problem/1943/B): hashing implementation math strings
+* [MEX Game 1](https://codeforces.com/problemset/problem/1943/A): games greedy
 * [Almost Certainly](https://codeforces.com/problemset/problem/1940/D): *special constructive algorithms data structures sortings
 * [Burenka and Pether](https://codeforces.com/problemset/problem/1940/C): *special data structures dfs and similar divide and conquer dsu graphs sortings trees
 * [Three Arrays](https://codeforces.com/problemset/problem/1940/B): *special constructive algorithms implementation sortings
