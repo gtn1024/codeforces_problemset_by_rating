@@ -7201,7 +7201,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 2500
 
 * [Rare Coins](https://codeforces.com/problemset/problem/1948/F): combinatorics math probabilities
-* [Nobody is needed](https://codeforces.com/problemset/problem/1946/F): brute force data structures dp math
+* [Nobody is needed](https://codeforces.com/problemset/problem/1946/F): 2-sat data structures dfs and similar dp
 * [Cook and Porridge](https://codeforces.com/problemset/problem/1945/G): binary search constructive algorithms data structures implementation
 * [Replace on Segment](https://codeforces.com/problemset/problem/1922/F): dp graph matchings
 * [Smooth Sailing (Easy Version)](https://codeforces.com/problemset/problem/1920/F1): binary search brute force data structures dfs and similar dsu graphs shortest paths
@@ -9283,10 +9283,10 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Shuffling Songs](https://codeforces.com/problemset/problem/1950/G): bitmasks dp graphs implementation strings
-* [0, 1, 2, Tree!](https://codeforces.com/problemset/problem/1950/F): greedy math trees
+* [Shuffling Songs](https://codeforces.com/problemset/problem/1950/G): bitmasks dfs and similar dp graphs hashing implementation strings
+* [0, 1, 2, Tree!](https://codeforces.com/problemset/problem/1950/F): bitmasks brute force greedy implementation trees
 * [Nearly Shortest Repeating Substring](https://codeforces.com/problemset/problem/1950/E): brute force implementation number theory strings
-* [Product of Binary Decimals](https://codeforces.com/problemset/problem/1950/D): dp implementation number theory
+* [Product of Binary Decimals](https://codeforces.com/problemset/problem/1950/D): brute force dp implementation number theory
 * [Clock Conversion](https://codeforces.com/problemset/problem/1950/C): implementation math
 * [Upscaling](https://codeforces.com/problemset/problem/1950/B): implementation
 * [Stair, Peak, or Neither?](https://codeforces.com/problemset/problem/1950/A): implementation
@@ -9298,9 +9298,18 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Dating](https://codeforces.com/problemset/problem/1949/F): greedy sortings trees
 * [Damage per Second](https://codeforces.com/problemset/problem/1949/E): brute force math
 * [Funny or Scary?](https://codeforces.com/problemset/problem/1949/D): constructive algorithms
-* [Annual Ants' Gathering](https://codeforces.com/problemset/problem/1949/C): dfs and similar greedy trees
+* [Annual Ants' Gathering](https://codeforces.com/problemset/problem/1949/C): dfs and similar dp greedy trees
 * [Charming Meals](https://codeforces.com/problemset/problem/1949/B): binary search brute force greedy sortings
 * [Grove](https://codeforces.com/problemset/problem/1949/A): brute force dfs and similar dp geometry probabilities
+* [Farmer John's Favorite Intern](https://codeforces.com/problemset/problem/1942/H): data structures dp flows trees
+* [Bessie and Cards](https://codeforces.com/problemset/problem/1942/G): combinatorics math
+* [Farmer John's Favorite Function](https://codeforces.com/problemset/problem/1942/F): brute force data structures implementation math
+* [Farm Game](https://codeforces.com/problemset/problem/1942/E): combinatorics dp games math
+* [Learning to Paint](https://codeforces.com/problemset/problem/1942/D): data structures dp greedy sortings
+* [Bessie's Birthday Cake (Hard Version)](https://codeforces.com/problemset/problem/1942/C2): geometry greedy math
+* [Bessie's Birthday Cake (Easy Version)](https://codeforces.com/problemset/problem/1942/C1): geometry greedy math
+* [Bessie and MEX](https://codeforces.com/problemset/problem/1942/B): constructive algorithms math
+* [Farmer John's Challenge](https://codeforces.com/problemset/problem/1942/A): constructive algorithms math
 * [Almost Certainly](https://codeforces.com/problemset/problem/1940/D): *special constructive algorithms data structures sortings
 * [Burenka and Pether](https://codeforces.com/problemset/problem/1940/C): *special data structures dfs and similar divide and conquer dsu graphs sortings trees
 * [Three Arrays](https://codeforces.com/problemset/problem/1940/B): *special constructive algorithms implementation sortings
