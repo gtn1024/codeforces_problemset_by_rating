@@ -9283,6 +9283,25 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-1952J] brute force, constructive algorithms, implementation, sortings
+[problem:CodeForces-1952I] bitmasks, geometry
+[problem:CodeForces-1952H] implementation, strings
+[problem:CodeForces-1952G] binary search, math
+[problem:CodeForces-1952F] brute force
+[problem:CodeForces-1952E] combinatorics, games, math
+[problem:CodeForces-1952D] implementation
+[problem:CodeForces-1952C] brute force, schedules
+[problem:CodeForces-1952B] strings
+[problem:CodeForces-1952A] strings
+[problem:CodeForces-1951I] constructive algorithms, flows, graphs, greedy
+[problem:CodeForces-1951H] divide and conquer, dp, games, greedy, trees
+[problem:CodeForces-1951G] combinatorics, constructive algorithms, math, probabilities
+[problem:CodeForces-1951F] binary search, constructive algorithms, data structures, greedy
+[problem:CodeForces-1951E] brute force, constructive algorithms, greedy, hashing, implementation, strings
+[problem:CodeForces-1951D] constructive algorithms, dfs and similar, greedy, math
+[problem:CodeForces-1951C] greedy, math, sortings
+[problem:CodeForces-1951B] binary search, data structures, greedy
+[problem:CodeForces-1951A] constructive algorithms, greedy, math
 [problem:CodeForces-1950G] bitmasks, dfs and similar, dp, graphs, hashing, implementation, strings
 [problem:CodeForces-1950F] bitmasks, brute force, greedy, implementation, trees
 [problem:CodeForces-1950E] brute force, implementation, number theory, strings
@@ -9302,10 +9321,10 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-1949B] binary search, brute force, greedy, sortings
 [problem:CodeForces-1949A] brute force, dfs and similar, dp, geometry, probabilities
 [problem:CodeForces-1942H] data structures, dp, flows, trees
-[problem:CodeForces-1942G] combinatorics, math
+[problem:CodeForces-1942G] combinatorics, dp, math
 [problem:CodeForces-1942F] brute force, data structures, implementation, math
-[problem:CodeForces-1942E] combinatorics, dp, games, math
-[problem:CodeForces-1942D] data structures, dp, greedy, sortings
+[problem:CodeForces-1942E] combinatorics, games
+[problem:CodeForces-1942D] binary search, data structures, dfs and similar, dp, greedy, implementation, sortings
 [problem:CodeForces-1942C2] geometry, greedy, math
 [problem:CodeForces-1942C1] geometry, greedy, math
 [problem:CodeForces-1942B] constructive algorithms, math
