@@ -9329,12 +9329,20 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-1966B] constructive algorithms
+[problem:CodeForces-1966A] constructive algorithms, greedy
+[problem:CodeForces-1965F] data structures, flows
+[problem:CodeForces-1965E] constructive algorithms
+[problem:CodeForces-1965D] constructive algorithms
+[problem:CodeForces-1965C] greedy
+[problem:CodeForces-1965B] constructive algorithms, greedy, number theory
+[problem:CodeForces-1965A] games, greedy, math
 [problem:CodeForces-1957F2] binary search, data structures, dfs and similar, hashing, probabilities, trees
-[problem:CodeForces-1957F1] binary search, data structures, hashing, probabilities, trees, two pointers
-[problem:CodeForces-1957E] combinatorics, data structures, dp, math, number theory
-[problem:CodeForces-1957D] bitmasks, brute force, data structures, dp
+[problem:CodeForces-1957F1] binary search, data structures, divide and conquer, hashing, probabilities, trees
+[problem:CodeForces-1957E] brute force, combinatorics, dp, math, number theory
+[problem:CodeForces-1957D] bitmasks, brute force, dp, math
 [problem:CodeForces-1957C] combinatorics, dp, math
-[problem:CodeForces-1957B] bitmasks, constructive algorithms, greedy, implementation, implementation, implementation
+[problem:CodeForces-1957B] bitmasks, constructive algorithms, greedy, implementation
 [problem:CodeForces-1957A] constructive algorithms, greedy
 [problem:CodeForces-1952J] brute force, constructive algorithms, expression parsing, implementation, sortings
 [problem:CodeForces-1952I] bitmasks, geometry

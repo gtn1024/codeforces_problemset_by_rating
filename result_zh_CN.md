@@ -9329,12 +9329,20 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Rectangle Filling](https://codeforces.com/problemset/problem/1966/B): constructive algorithms
+* [Card Exchange](https://codeforces.com/problemset/problem/1966/A): constructive algorithms greedy
+* [Conference](https://codeforces.com/problemset/problem/1965/F): data structures flows
+* [Connected Cubes](https://codeforces.com/problemset/problem/1965/E): constructive algorithms
+* [Missing Subarray Sum](https://codeforces.com/problemset/problem/1965/D): constructive algorithms
+* [Folding Strip](https://codeforces.com/problemset/problem/1965/C): greedy
+* [Missing Subsequence Sum](https://codeforces.com/problemset/problem/1965/B): constructive algorithms greedy number theory
+* [Everything Nim](https://codeforces.com/problemset/problem/1965/A): games greedy math
 * [Frequency Mismatch (Hard Version)](https://codeforces.com/problemset/problem/1957/F2): binary search data structures dfs and similar hashing probabilities trees
-* [Frequency Mismatch (Easy Version)](https://codeforces.com/problemset/problem/1957/F1): binary search data structures hashing probabilities trees two pointers
-* [Carousel of Combinations](https://codeforces.com/problemset/problem/1957/E): combinatorics data structures dp math number theory
-* [A BIT of an Inequality](https://codeforces.com/problemset/problem/1957/D): bitmasks brute force data structures dp
+* [Frequency Mismatch (Easy Version)](https://codeforces.com/problemset/problem/1957/F1): binary search data structures divide and conquer hashing probabilities trees
+* [Carousel of Combinations](https://codeforces.com/problemset/problem/1957/E): brute force combinatorics dp math number theory
+* [A BIT of an Inequality](https://codeforces.com/problemset/problem/1957/D): bitmasks brute force dp math
 * [How Does the Rook Move?](https://codeforces.com/problemset/problem/1957/C): combinatorics dp math
-* [A BIT of a Construction](https://codeforces.com/problemset/problem/1957/B): bitmasks constructive algorithms greedy implementation implementation implementation
+* [A BIT of a Construction](https://codeforces.com/problemset/problem/1957/B): bitmasks constructive algorithms greedy implementation
 * [Stickogon](https://codeforces.com/problemset/problem/1957/A): constructive algorithms greedy
 * [Help, what does it mean to be "Based"](https://codeforces.com/problemset/problem/1952/J): brute force constructive algorithms expression parsing implementation sortings
 * [Dark Matter](https://codeforces.com/problemset/problem/1952/I): bitmasks geometry
