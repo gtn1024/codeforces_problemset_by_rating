@@ -9329,14 +9329,30 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-1972B] games, games, math
+[problem:CodeForces-1972A] greedy, greedy
+[problem:CodeForces-1969F] dp, greedy
+[problem:CodeForces-1969E] binary search, data structures, divide and conquer, greedy
+[problem:CodeForces-1969D] data structures, greedy, sortings
+[problem:CodeForces-1969C] dp
+[problem:CodeForces-1969B] constructive algorithms, greedy
+[problem:CodeForces-1969A] graphs, implementation, math
+[problem:CodeForces-1967F] brute force, data structures, dp, schedules
+[problem:CodeForces-1967E2] combinatorics, dp
+[problem:CodeForces-1967E1] combinatorics, dp, fft, math
+[problem:CodeForces-1967D] binary search, implementation, two pointers
+[problem:CodeForces-1967C] combinatorics, fft, math, matrices
+[problem:CodeForces-1967B2] math, number theory
+[problem:CodeForces-1967B1] brute force, math, number theory
+[problem:CodeForces-1967A] binary search, implementation, math, sortings
 [problem:CodeForces-1966B] constructive algorithms
-[problem:CodeForces-1966A] constructive algorithms, greedy
+[problem:CodeForces-1966A] chinese remainder theorem, flows, greedy, string suffix structures
 [problem:CodeForces-1965F] data structures, flows
 [problem:CodeForces-1965E] constructive algorithms
 [problem:CodeForces-1965D] constructive algorithms
-[problem:CodeForces-1965C] greedy
-[problem:CodeForces-1965B] constructive algorithms, greedy, number theory
-[problem:CodeForces-1965A] games, greedy, math
+[problem:CodeForces-1965C] constructive algorithms, greedy, strings
+[problem:CodeForces-1965B] bitmasks, constructive algorithms, greedy, number theory
+[problem:CodeForces-1965A] games, greedy, math, sortings
 [problem:CodeForces-1957F2] binary search, data structures, dfs and similar, hashing, probabilities, trees
 [problem:CodeForces-1957F1] binary search, data structures, divide and conquer, hashing, probabilities, trees
 [problem:CodeForces-1957E] brute force, combinatorics, dp, math, number theory

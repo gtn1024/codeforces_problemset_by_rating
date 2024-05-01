@@ -9329,14 +9329,30 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Coin Games](https://codeforces.com/problemset/problem/1972/B): games games math
+* [Contest Proposal](https://codeforces.com/problemset/problem/1972/A): greedy greedy
+* [Card Pairing](https://codeforces.com/problemset/problem/1969/F): dp greedy
+* [Unique Array](https://codeforces.com/problemset/problem/1969/E): binary search data structures divide and conquer greedy
+* [Shop Game](https://codeforces.com/problemset/problem/1969/D): data structures greedy sortings
+* [Minimizing the Sum](https://codeforces.com/problemset/problem/1969/C): dp
+* [Shifts and Sorting](https://codeforces.com/problemset/problem/1969/B): constructive algorithms greedy
+* [Two Friends](https://codeforces.com/problemset/problem/1969/A): graphs implementation math
+* [Next and Prev](https://codeforces.com/problemset/problem/1967/F): brute force data structures dp schedules
+* [Again Counting Arrays (Hard Version)](https://codeforces.com/problemset/problem/1967/E2): combinatorics dp
+* [Again Counting Arrays (Easy Version)](https://codeforces.com/problemset/problem/1967/E1): combinatorics dp fft math
+* [Long Way to be Non-decreasing](https://codeforces.com/problemset/problem/1967/D): binary search implementation two pointers
+* [Fenwick Tree](https://codeforces.com/problemset/problem/1967/C): combinatorics fft math matrices
+* [Reverse Card (Hard Version)](https://codeforces.com/problemset/problem/1967/B2): math number theory
+* [Reverse Card (Easy Version)](https://codeforces.com/problemset/problem/1967/B1): brute force math number theory
+* [Permutation Counting](https://codeforces.com/problemset/problem/1967/A): binary search implementation math sortings
 * [Rectangle Filling](https://codeforces.com/problemset/problem/1966/B): constructive algorithms
-* [Card Exchange](https://codeforces.com/problemset/problem/1966/A): constructive algorithms greedy
+* [Card Exchange](https://codeforces.com/problemset/problem/1966/A): chinese remainder theorem flows greedy string suffix structures
 * [Conference](https://codeforces.com/problemset/problem/1965/F): data structures flows
 * [Connected Cubes](https://codeforces.com/problemset/problem/1965/E): constructive algorithms
 * [Missing Subarray Sum](https://codeforces.com/problemset/problem/1965/D): constructive algorithms
-* [Folding Strip](https://codeforces.com/problemset/problem/1965/C): greedy
-* [Missing Subsequence Sum](https://codeforces.com/problemset/problem/1965/B): constructive algorithms greedy number theory
-* [Everything Nim](https://codeforces.com/problemset/problem/1965/A): games greedy math
+* [Folding Strip](https://codeforces.com/problemset/problem/1965/C): constructive algorithms greedy strings
+* [Missing Subsequence Sum](https://codeforces.com/problemset/problem/1965/B): bitmasks constructive algorithms greedy number theory
+* [Everything Nim](https://codeforces.com/problemset/problem/1965/A): games greedy math sortings
 * [Frequency Mismatch (Hard Version)](https://codeforces.com/problemset/problem/1957/F2): binary search data structures dfs and similar hashing probabilities trees
 * [Frequency Mismatch (Easy Version)](https://codeforces.com/problemset/problem/1957/F1): binary search data structures divide and conquer hashing probabilities trees
 * [Carousel of Combinations](https://codeforces.com/problemset/problem/1957/E): brute force combinatorics dp math number theory
