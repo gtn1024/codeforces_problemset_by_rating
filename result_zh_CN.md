@@ -1513,7 +1513,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1100
 
-* [Binary Cut](https://codeforces.com/problemset/problem/1971/D): greedy implementation sortings strings
+* [Binary Cut](https://codeforces.com/problemset/problem/1971/D): dp greedy implementation sortings strings
 * [Rectangle Filling](https://codeforces.com/problemset/problem/1966/B): constructive algorithms implementation
 * [1-3-5](https://codeforces.com/problemset/problem/1958/A): *special dp
 * [A BIT of a Construction](https://codeforces.com/problemset/problem/1957/B): bitmasks constructive algorithms greedy implementation
@@ -4609,7 +4609,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Timetable](https://codeforces.com/problemset/problem/946/D): dp
 * [Maximize!](https://codeforces.com/problemset/problem/939/E): binary search greedy ternary search two pointers
 * [A Twisty Movement](https://codeforces.com/problemset/problem/933/A): dp
-* [Add Points](https://codeforces.com/problemset/problem/926/B)
+* [Add Points](https://codeforces.com/problemset/problem/926/B): math number theory
 * [Perfect Security](https://codeforces.com/problemset/problem/923/C): data structures greedy strings trees
 * [Robot Vacuum Cleaner](https://codeforces.com/problemset/problem/922/D): greedy sortings
 * [The Monster](https://codeforces.com/problemset/problem/917/A): dp greedy implementation math
@@ -9418,6 +9418,19 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Money Buys Less Happiness Now](https://codeforces.com/problemset/problem/1974/G): data structures greedy sortings
+* [Cutting Game](https://codeforces.com/problemset/problem/1974/F): binary search brute force data structures implementation sortings two pointers
+* [Money Buys Happiness](https://codeforces.com/problemset/problem/1974/E): dp
+* [Ingenuity-2](https://codeforces.com/problemset/problem/1974/D): constructive algorithms implementation
+* [Beautiful Triple Pairs](https://codeforces.com/problemset/problem/1974/C): combinatorics data structures
+* [Symmetric Encoding](https://codeforces.com/problemset/problem/1974/B): implementation sortings strings
+* [Phone Desktop](https://codeforces.com/problemset/problem/1974/A): greedy math
+* [Maximum GCD Sum Queries](https://codeforces.com/problemset/problem/1973/F): bitmasks brute force dp implementation number theory
+* [Cat, Fox and Swaps](https://codeforces.com/problemset/problem/1973/E): graphs math sortings
+* [Cat, Fox and Maximum Array Split](https://codeforces.com/problemset/problem/1973/D): brute force interactive math
+* [Cat, Fox and Double Maximum](https://codeforces.com/problemset/problem/1973/C): constructive algorithms greedy implementation math sortings
+* [Cat, Fox and the Lonely Array](https://codeforces.com/problemset/problem/1973/B): binary search bitmasks data structures greedy math two pointers
+* [Chess For Three](https://codeforces.com/problemset/problem/1973/A): brute force dp implementation math
 * [Help, what does it mean to be "Based"](https://codeforces.com/problemset/problem/1952/J): brute force constructive algorithms expression parsing implementation sortings
 * [Dark Matter](https://codeforces.com/problemset/problem/1952/I): bitmasks geometry
 * [Palindrome](https://codeforces.com/problemset/problem/1952/H): implementation strings

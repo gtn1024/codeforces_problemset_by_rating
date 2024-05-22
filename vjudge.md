@@ -1513,7 +1513,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1100
 
-[problem:CodeForces-1971D] greedy, implementation, sortings, strings
+[problem:CodeForces-1971D] dp, greedy, implementation, sortings, strings
 [problem:CodeForces-1966B] constructive algorithms, implementation
 [problem:CodeForces-1958A] *special, dp
 [problem:CodeForces-1957B] bitmasks, constructive algorithms, greedy, implementation
@@ -4609,7 +4609,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-946D] dp
 [problem:CodeForces-939E] binary search, greedy, ternary search, two pointers
 [problem:CodeForces-933A] dp
-[problem:CodeForces-926B]
+[problem:CodeForces-926B] math, number theory
 [problem:CodeForces-923C] data structures, greedy, strings, trees
 [problem:CodeForces-922D] greedy, sortings
 [problem:CodeForces-917A] dp, greedy, implementation, math
@@ -9418,6 +9418,19 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-1974G] data structures, greedy, sortings
+[problem:CodeForces-1974F] binary search, brute force, data structures, implementation, sortings, two pointers
+[problem:CodeForces-1974E] dp
+[problem:CodeForces-1974D] constructive algorithms, implementation
+[problem:CodeForces-1974C] combinatorics, data structures
+[problem:CodeForces-1974B] implementation, sortings, strings
+[problem:CodeForces-1974A] greedy, math
+[problem:CodeForces-1973F] bitmasks, brute force, dp, implementation, number theory
+[problem:CodeForces-1973E] graphs, math, sortings
+[problem:CodeForces-1973D] brute force, interactive, math
+[problem:CodeForces-1973C] constructive algorithms, greedy, implementation, math, sortings
+[problem:CodeForces-1973B] binary search, bitmasks, data structures, greedy, math, two pointers
+[problem:CodeForces-1973A] brute force, dp, implementation, math
 [problem:CodeForces-1952J] brute force, constructive algorithms, expression parsing, implementation, sortings
 [problem:CodeForces-1952I] bitmasks, geometry
 [problem:CodeForces-1952H] implementation, strings
