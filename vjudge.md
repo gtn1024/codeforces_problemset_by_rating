@@ -36,6 +36,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+[problem:CodeForces-1974B] implementation, sortings, strings
+[problem:CodeForces-1974A] greedy, math
 [problem:CodeForces-1972A] brute force, greedy, two pointers
 [problem:CodeForces-1971B] implementation, strings
 [problem:CodeForces-1971A] implementation, sortings
@@ -867,6 +869,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 900
 
+[problem:CodeForces-1973A] brute force, dp, implementation, math
 [problem:CodeForces-1972B] games
 [problem:CodeForces-1971C] implementation
 [problem:CodeForces-1954A] constructive algorithms, greedy, math
@@ -2266,6 +2269,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1300
 
+[problem:CodeForces-1973B] binary search, bitmasks, data structures, greedy, math, two pointers
 [problem:CodeForces-1968D] brute force, dfs and similar, games, graphs, greedy, math
 [problem:CodeForces-1955C] greedy, implementation, math
 [problem:CodeForces-1948C] brute force, constructive algorithms, dfs and similar, dp, graphs, shortest paths
@@ -2664,6 +2668,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1400
 
+[problem:CodeForces-1974D] constructive algorithms, greedy, implementation
+[problem:CodeForces-1974C] combinatorics, data structures
 [problem:CodeForces-1971G] data structures, dsu, sortings
 [problem:CodeForces-1970C1] games
 [problem:CodeForces-1967B1] brute force, math, number theory
@@ -3948,6 +3954,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1700
 
+[problem:CodeForces-1973C] constructive algorithms, greedy, implementation, math, sortings
 [problem:CodeForces-1970C2] dfs and similar, dp, games, trees
 [problem:CodeForces-1969C] dp, implementation
 [problem:CodeForces-1955E] brute force, greedy, implementation, sortings
@@ -4395,6 +4402,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
+[problem:CodeForces-1974E] dp
 [problem:CodeForces-1970E1] dp
 [problem:CodeForces-1968F] binary search, data structures
 [problem:CodeForces-1965B] bitmasks, constructive algorithms, greedy, number theory
@@ -4827,6 +4835,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1900
 
+[problem:CodeForces-1974F] binary search, brute force, data structures, implementation, sortings, two pointers
 [problem:CodeForces-1970G1] dfs and similar, trees
 [problem:CodeForces-1970C3] dfs and similar, dp, games, trees
 [problem:CodeForces-1970B1] constructive algorithms
@@ -5289,6 +5298,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
+[problem:CodeForces-1974G] data structures, greedy, sortings
 [problem:CodeForces-1970E2] dp, matrices
 [problem:CodeForces-1958F] *special, combinatorics
 [problem:CodeForces-1956D] bitmasks, brute force, constructive algorithms, divide and conquer, dp, greedy, implementation, math
@@ -6889,6 +6899,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2400
 
+[problem:CodeForces-1973D] brute force, interactive, math
 [problem:CodeForces-1970G3] bitmasks, dfs and similar, dp, graphs, trees
 [problem:CodeForces-1970A3] constructive algorithms, trees
 [problem:CodeForces-1970A2] brute force, constructive algorithms, trees
@@ -7303,6 +7314,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2500
 
+[problem:CodeForces-1973E] graphs, math, sortings
 [problem:CodeForces-1956E1] brute force, implementation, math
 [problem:CodeForces-1951F] constructive algorithms, data structures, greedy
 [problem:CodeForces-1948F] combinatorics, math, probabilities
@@ -8791,6 +8803,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3100
 
+[problem:CodeForces-1973F] bitmasks, brute force, dp, implementation, number theory
 [problem:CodeForces-1970D3] interactive
 [problem:CodeForces-1967E1] combinatorics, dp, fft, math
 [problem:CodeForces-1965E] constructive algorithms, games
@@ -9418,19 +9431,21 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-[problem:CodeForces-1974G] data structures, greedy, sortings
-[problem:CodeForces-1974F] binary search, brute force, data structures, implementation, sortings, two pointers
-[problem:CodeForces-1974E] dp
-[problem:CodeForces-1974D] constructive algorithms, implementation
-[problem:CodeForces-1974C] combinatorics, data structures
-[problem:CodeForces-1974B] implementation, sortings, strings
-[problem:CodeForces-1974A] greedy, math
-[problem:CodeForces-1973F] bitmasks, brute force, dp, implementation, number theory
-[problem:CodeForces-1973E] graphs, math, sortings
-[problem:CodeForces-1973D] brute force, interactive, math
-[problem:CodeForces-1973C] constructive algorithms, greedy, implementation, math, sortings
-[problem:CodeForces-1973B] binary search, bitmasks, data structures, greedy, math, two pointers
-[problem:CodeForces-1973A] brute force, dp, implementation, math
+[problem:CodeForces-1977E] constructive algorithms, graphs, interactive
+[problem:CodeForces-1977D] bitmasks, brute force, hashing
+[problem:CodeForces-1977C] brute force, data structures, dp, greedy, math, number theory, sortings
+[problem:CodeForces-1977B] bitmasks, constructive algorithms, greedy, math
+[problem:CodeForces-1977A] math
+[problem:CodeForces-1975I] dp
+[problem:CodeForces-1975H] greedy, strings
+[problem:CodeForces-1975G] fft, greedy, math, strings
+[problem:CodeForces-1975F] bitmasks, brute force, combinatorics, dfs and similar, divide and conquer, dp, math
+[problem:CodeForces-1975E] binary search, data structures, dfs and similar, implementation, trees
+[problem:CodeForces-1975D] brute force, dfs and similar, dp, greedy, shortest paths, trees
+[problem:CodeForces-1975C] binary search, brute force, greedy
+[problem:CodeForces-1975B] brute force, greedy, math, sortings
+[problem:CodeForces-1975A] brute force, greedy, implementation, sortings
+[problem:CodeForces-1953A] *special
 [problem:CodeForces-1952J] brute force, constructive algorithms, expression parsing, implementation, sortings
 [problem:CodeForces-1952I] bitmasks, geometry
 [problem:CodeForces-1952H] implementation, strings
