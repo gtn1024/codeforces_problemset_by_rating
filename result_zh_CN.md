@@ -2675,7 +2675,6 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 * [Ingenuity-2](https://codeforces.com/problemset/problem/1974/D): constructive algorithms greedy implementation
 * [Beautiful Triple Pairs](https://codeforces.com/problemset/problem/1974/C): combinatorics data structures
-* [XOUR](https://codeforces.com/problemset/problem/1971/G): data structures dsu sortings
 * [Game on Tree (Easy)](https://codeforces.com/problemset/problem/1970/C1): games
 * [Reverse Card (Easy Version)](https://codeforces.com/problemset/problem/1967/B1): brute force math number theory
 * [Permutation Counting](https://codeforces.com/problemset/problem/1967/A): binary search greedy implementation math sortings
@@ -3961,6 +3960,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 * [Paint the Tree](https://codeforces.com/problemset/problem/1975/D): brute force dfs and similar dp greedy shortest paths trees
 * [Cat, Fox and Double Maximum](https://codeforces.com/problemset/problem/1973/C): constructive algorithms greedy implementation math sortings
+* [XOUR](https://codeforces.com/problemset/problem/1971/G): data structures dsu sortings
 * [Game on Tree (Medium)](https://codeforces.com/problemset/problem/1970/C2): dfs and similar dp games trees
 * [Minimizing the Sum](https://codeforces.com/problemset/problem/1969/C): dp implementation
 * [Long Inversions](https://codeforces.com/problemset/problem/1955/E): brute force greedy implementation sortings
@@ -9446,17 +9446,31 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## Unrated
 
 * [Turtle and Paths on a Tree](https://codeforces.com/problemset/problem/1981/F): data structures dp trees
-* [Turtle and Intersected Segments](https://codeforces.com/problemset/problem/1981/E): data structures dsu graphs greedy math
-* [Turtle and Multiplication](https://codeforces.com/problemset/problem/1981/D): binary search constructive algorithms dfs and similar graphs math number theory
-* [Turtle and an Incomplete Sequence](https://codeforces.com/problemset/problem/1981/C): constructive algorithms implementation math
+* [Turtle and Intersected Segments](https://codeforces.com/problemset/problem/1981/E): data structures dsu graphs greedy
+* [Turtle and Multiplication](https://codeforces.com/problemset/problem/1981/D): constructive algorithms dfs and similar graphs number theory
+* [Turtle and an Incomplete Sequence](https://codeforces.com/problemset/problem/1981/C): bitmasks brute force constructive algorithms greedy implementation math
 * [Turtle and an Infinite Sequence](https://codeforces.com/problemset/problem/1981/B): bitmasks math
 * [Turtle and Piggy Are Playing a Game](https://codeforces.com/problemset/problem/1981/A): brute force greedy math
+* [Yasya and the Mysterious Tree](https://codeforces.com/problemset/problem/1980/G): bitmasks data structures dfs and similar graphs greedy strings trees
+* [Field Division (hard version)](https://codeforces.com/problemset/problem/1980/F2): math sortings
+* [Field Division (easy version)](https://codeforces.com/problemset/problem/1980/F1): data structures math sortings
+* [Permutation of Rows and Columns](https://codeforces.com/problemset/problem/1980/E): constructive algorithms data structures greedy hashing implementation math matrices sortings
+* [GCD-sequence](https://codeforces.com/problemset/problem/1980/D): greedy implementation math number theory
+* [Sofia and the Lost Operations](https://codeforces.com/problemset/problem/1980/C): constructive algorithms greedy
+* [Choosing Cubes](https://codeforces.com/problemset/problem/1980/B): sortings sortings
+* [Problem Generator](https://codeforces.com/problemset/problem/1980/A): math
+* [Kostyanych's Theorem](https://codeforces.com/problemset/problem/1979/F): brute force constructive algorithms graphs interactive
+* [Manhattan Triangle](https://codeforces.com/problemset/problem/1979/E): binary search constructive algorithms data structures geometry implementation two pointers
+* [Fixing a Binary String](https://codeforces.com/problemset/problem/1979/D): bitmasks brute force constructive algorithms greedy hashing strings
+* [Earning on Bets](https://codeforces.com/problemset/problem/1979/C): binary search combinatorics constructive algorithms number theory
+* [XOR Sequences](https://codeforces.com/problemset/problem/1979/B): bitmasks greedy
+* [Guess the Maximum](https://codeforces.com/problemset/problem/1979/A): brute force greedy implementation
 * [Remove Bridges](https://codeforces.com/problemset/problem/1976/F): data structures dfs and similar dp greedy sortings trees
 * [Splittable Permutations](https://codeforces.com/problemset/problem/1976/E): combinatorics data structures dfs and similar greedy math trees
 * [Invertible Bracket Sequences](https://codeforces.com/problemset/problem/1976/D): binary search combinatorics data structures divide and conquer implementation two pointers
 * [Job Interview](https://codeforces.com/problemset/problem/1976/C): binary search dp greedy implementation two pointers
 * [Increase/Decrease/Copy](https://codeforces.com/problemset/problem/1976/B): greedy implementation
-* [Verify Password](https://codeforces.com/problemset/problem/1976/A): implementation sortings
+* [Verify Password](https://codeforces.com/problemset/problem/1976/A): implementation sortings strings
 * [Accuracy-Preserving Summation Algorithm](https://codeforces.com/problemset/problem/1953/A): *special
 * [Help, what does it mean to be "Based"](https://codeforces.com/problemset/problem/1952/J): brute force constructive algorithms expression parsing implementation sortings
 * [Dark Matter](https://codeforces.com/problemset/problem/1952/I): bitmasks geometry
