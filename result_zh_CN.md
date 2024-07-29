@@ -36,6 +36,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+* [Diagonals](https://codeforces.com/problemset/problem/1995/A): brute force greedy implementation math
+* [Diverse Game](https://codeforces.com/problemset/problem/1994/A): constructive algorithms greedy implementation
 * [Angry Monk](https://codeforces.com/problemset/problem/1992/B): greedy math sortings
 * [Only Pluses](https://codeforces.com/problemset/problem/1992/A): brute force constructive algorithms greedy math sortings
 * [Catch the Coin](https://codeforces.com/problemset/problem/1989/A): implementation
@@ -889,6 +891,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 900
 
 * [Gorilla and Permutation](https://codeforces.com/problemset/problem/1992/C): constructive algorithms math
+* [Submission Bait](https://codeforces.com/problemset/problem/1990/A): brute force games greedy sortings
 * [Make Majority](https://codeforces.com/problemset/problem/1988/B): greedy implementation
 * [Split the Multiset](https://codeforces.com/problemset/problem/1988/A): brute force greedy implementation math
 * [Manhattan Circle](https://codeforces.com/problemset/problem/1985/D): implementation math
@@ -1544,6 +1547,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1100
 
+* [Bouquet (Easy Version)](https://codeforces.com/problemset/problem/1995/B1): binary search brute force greedy sortings two pointers
+* [Fun Game](https://codeforces.com/problemset/problem/1994/B): bitmasks constructive algorithms greedy math
 * [Update Queries](https://codeforces.com/problemset/problem/1986/C): data structures greedy sortings
 * [Large Addition](https://codeforces.com/problemset/problem/1984/B): implementation math
 * [Binary Colouring](https://codeforces.com/problemset/problem/1977/B): bitmasks constructive algorithms greedy math
@@ -1916,6 +1921,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## 1200
 
 * [Test of Love](https://codeforces.com/problemset/problem/1992/D): dp greedy implementation
+* [Array Craft](https://codeforces.com/problemset/problem/1990/B): constructive algorithms greedy
 * [Substring and Subsequence](https://codeforces.com/problemset/problem/1989/B): brute force greedy strings
 * [Basil's Garden](https://codeforces.com/problemset/problem/1987/C): dp greedy
 * [Secret Box](https://codeforces.com/problemset/problem/1985/E): brute force combinatorics math
@@ -3112,6 +3118,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1500
 
+* [Mad MAD Sum](https://codeforces.com/problemset/problem/1990/C): brute force greedy math
 * [Final Boss](https://codeforces.com/problemset/problem/1985/F): binary search data structures
 * [Find the Car](https://codeforces.com/problemset/problem/1971/E): binary search math sortings
 * [Firewood](https://codeforces.com/problemset/problem/1958/C): *special
@@ -3534,6 +3541,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1600
 
+* [Hungry Games](https://codeforces.com/problemset/problem/1994/C): binary search dp two pointers
 * [D-Function](https://codeforces.com/problemset/problem/1985/G): combinatorics math number theory
 * [Permutation of Rows and Columns](https://codeforces.com/problemset/problem/1980/E): constructive algorithms data structures greedy hashing implementation math matrices sortings
 * [Elections](https://codeforces.com/problemset/problem/1978/D): data structures greedy implementation math
@@ -4008,6 +4016,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1700
 
+* [Bouquet (Hard Version)](https://codeforces.com/problemset/problem/1995/B2): binary search data structures greedy math sortings two pointers
 * [Novice's Mistake](https://codeforces.com/problemset/problem/1992/E): brute force constructive algorithms implementation math strings
 * [Beautiful Array](https://codeforces.com/problemset/problem/1986/E): greedy math number theory sortings
 * [Maximize the Largest Component (Easy Version)](https://codeforces.com/problemset/problem/1985/H1): brute force data structures dfs and similar dsu graphs implementation
@@ -4464,6 +4473,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
+* [Squaring](https://codeforces.com/problemset/problem/1995/C): brute force constructive algorithms greedy implementation math number theory
+* [Grid Puzzle](https://codeforces.com/problemset/problem/1990/D): bitmasks brute force dp greedy implementation
 * [World is Mine](https://codeforces.com/problemset/problem/1987/D): dp games
 * [Turtle and an Incomplete Sequence](https://codeforces.com/problemset/problem/1981/C): bitmasks brute force constructive algorithms greedy implementation math
 * [Fixing a Binary String](https://codeforces.com/problemset/problem/1979/D): bitmasks brute force constructive algorithms dp greedy hashing strings
@@ -4900,6 +4911,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1900
 
+* [Funny Game](https://codeforces.com/problemset/problem/1994/D): constructive algorithms dsu graphs greedy math number theory trees
 * [Valuable Cards](https://codeforces.com/problemset/problem/1992/F): brute force dp greedy number theory two pointers
 * [Smithing Skill](https://codeforces.com/problemset/problem/1989/D): brute force data structures dp greedy math sortings two pointers
 * [Non-academic Problem](https://codeforces.com/problemset/problem/1986/F): dfs and similar graphs trees
@@ -5368,6 +5380,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
+* [Wooden Game](https://codeforces.com/problemset/problem/1994/E): bitmasks greedy math trees
 * [Ultra-Meow](https://codeforces.com/problemset/problem/1992/G): combinatorics dp math
 * [The Omnipotent Monster Killer](https://codeforces.com/problemset/problem/1988/D): brute force dfs and similar dp trees
 * [Wonderful Tree!](https://codeforces.com/problemset/problem/1987/E): brute force data structures dfs and similar dsu greedy trees
@@ -6621,6 +6634,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2300
 
+* [Cases](https://codeforces.com/problemset/problem/1995/D): bitmasks brute force dp strings
 * [Distance to Different](https://codeforces.com/problemset/problem/1989/E): combinatorics dp math
 * [Range Minimum Sum](https://codeforces.com/problemset/problem/1988/E): binary search brute force data structures divide and conquer implementation
 * [I Love Balls](https://codeforces.com/problemset/problem/1983/E): combinatorics math probabilities
@@ -7404,6 +7418,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2500
 
+* [Stardew Valley](https://codeforces.com/problemset/problem/1994/F): constructive algorithms dfs and similar graphs trees
+* [Catch the Mole(Easy Version)](https://codeforces.com/problemset/problem/1990/E1): binary search data structures dfs and similar interactive trees
 * [Interesting Problem (Easy Version)](https://codeforces.com/problemset/problem/1987/F1): dp
 * [Permutation Problem (Hard Version)](https://codeforces.com/problemset/problem/1986/G2): brute force data structures hashing math number theory
 * [Reconstruction](https://codeforces.com/problemset/problem/1984/F): brute force dp math
@@ -7771,6 +7787,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2600
 
+* [Minecraft](https://codeforces.com/problemset/problem/1994/G): bitmasks brute force dp graphs math
+* [Catch the Mole(Hard Version)](https://codeforces.com/problemset/problem/1990/E2): binary search data structures dfs and similar divide and conquer interactive trees
 * [Interesting Problem (Hard Version)](https://codeforces.com/problemset/problem/1987/F2): dp
 * [Sorting Problem Again](https://codeforces.com/problemset/problem/1982/F): binary search data structures sortings
 * [Turtle and Intersected Segments](https://codeforces.com/problemset/problem/1981/E): data structures dsu graphs greedy
@@ -8065,6 +8083,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2700
 
+* [Let Me Teach You a Lesson (Easy Version)](https://codeforces.com/problemset/problem/1995/E1): 2-sat data structures dp matrices two pointers
 * [Frequency Mismatch (Hard Version)](https://codeforces.com/problemset/problem/1957/F2): binary search data structures dfs and similar hashing probabilities trees
 * [Nene vs. Monsters (Hard Version)](https://codeforces.com/problemset/problem/1956/E2): brute force greedy implementation math
 * [Farmer John's Favorite Function](https://codeforces.com/problemset/problem/1942/F): brute force data structures implementation math
@@ -8330,6 +8349,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2800
 
+* [Polygonal Segments](https://codeforces.com/problemset/problem/1990/F): brute force data structures divide and conquer dp greedy two pointers
 * [Remove Bridges](https://codeforces.com/problemset/problem/1976/F): data structures dfs and similar dp greedy sortings trees
 * [Long Way to be Non-decreasing](https://codeforces.com/problemset/problem/1967/D): binary search dfs and similar graphs implementation shortest paths two pointers
 * [Make Triangle](https://codeforces.com/problemset/problem/1949/K): constructive algorithms math
@@ -8543,6 +8563,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2900
 
+* [Let Me Teach You a Lesson (Hard Version)](https://codeforces.com/problemset/problem/1995/E2): data structures dp matrices two pointers
 * [Spinning Round (Easy Version)](https://codeforces.com/problemset/problem/1987/G1): divide and conquer dp trees
 * [Kostyanych's Theorem](https://codeforces.com/problemset/problem/1979/F): brute force constructive algorithms graphs interactive
 * [Missing Subarray Sum](https://codeforces.com/problemset/problem/1965/D): constructive algorithms
@@ -9386,6 +9407,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3500
 
+* [Fortnite](https://codeforces.com/problemset/problem/1994/H): combinatorics constructive algorithms games greedy hashing interactive math number theory strings
 * [Fumo Temple](https://codeforces.com/problemset/problem/1987/H): interactive
 * [Spinning Round (Hard Version)](https://codeforces.com/problemset/problem/1987/G2): divide and conquer dp trees
 * [Mind Bloom](https://codeforces.com/problemset/problem/1975/I): dp
@@ -9545,21 +9567,22 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Fortnite](https://codeforces.com/problemset/problem/1994/H): combinatorics constructive algorithms games greedy hashing interactive math number theory strings
-* [Minecraft](https://codeforces.com/problemset/problem/1994/G): bitmasks brute force dp math
-* [Stardew Valley](https://codeforces.com/problemset/problem/1994/F): constructive algorithms dfs and similar dsu graphs trees
-* [Wooden Game](https://codeforces.com/problemset/problem/1994/E): bitmasks greedy math sortings trees
-* [Funny Game](https://codeforces.com/problemset/problem/1994/D): constructive algorithms dsu graphs greedy math number theory trees
-* [Hungry Games](https://codeforces.com/problemset/problem/1994/C): binary search dp two pointers
-* [Fun Game](https://codeforces.com/problemset/problem/1994/B): bitmasks constructive algorithms greedy math
-* [Diverse Game](https://codeforces.com/problemset/problem/1994/A): constructive algorithms greedy
-* [Polygonal Segments](https://codeforces.com/problemset/problem/1990/F): data structures divide and conquer two pointers
-* [Catch the Mole(Hard Version)](https://codeforces.com/problemset/problem/1990/E2): binary search data structures dfs and similar interactive trees
-* [Catch the Mole(Easy Version)](https://codeforces.com/problemset/problem/1990/E1): binary search constructive algorithms data structures interactive trees
-* [Grid Puzzle](https://codeforces.com/problemset/problem/1990/D): bitmasks dp greedy math
-* [Mad MAD Sum](https://codeforces.com/problemset/problem/1990/C): brute force greedy math
-* [Array Craft](https://codeforces.com/problemset/problem/1990/B): constructive algorithms greedy
-* [Submission Bait](https://codeforces.com/problemset/problem/1990/A): brute force games greedy sortings
+* [Penacony](https://codeforces.com/problemset/problem/1996/G): brute force data structures geometry graphs greedy hashing probabilities
+* [Bomb](https://codeforces.com/problemset/problem/1996/F): binary search greedy math
+* [Decode](https://codeforces.com/problemset/problem/1996/E): brute force combinatorics implementation math
+* [Fun](https://codeforces.com/problemset/problem/1996/D): binary search combinatorics math number theory
+* [Sort](https://codeforces.com/problemset/problem/1996/C): dp greedy sortings strings
+* [Scale](https://codeforces.com/problemset/problem/1996/B): implementation
+* [Legs](https://codeforces.com/problemset/problem/1996/A): binary search math ternary search
+* [Grid Game](https://codeforces.com/problemset/problem/1991/I): constructive algorithms games greedy interactive
+* [Prime Split Game](https://codeforces.com/problemset/problem/1991/H): fft games math number theory
+* [Grid Reset](https://codeforces.com/problemset/problem/1991/G): constructive algorithms greedy
+* [Triangle Formation](https://codeforces.com/problemset/problem/1991/F): brute force data structures greedy math sortings
+* [Coloring Game](https://codeforces.com/problemset/problem/1991/E): games graphs interactive
+* [Prime XOR Coloring](https://codeforces.com/problemset/problem/1991/D): bitmasks constructive algorithms graphs math number theory
+* [Absolute Zero](https://codeforces.com/problemset/problem/1991/C): constructive algorithms math
+* [AND Reconstruction](https://codeforces.com/problemset/problem/1991/B): bitmasks constructive algorithms greedy
+* [Maximize the Last Element](https://codeforces.com/problemset/problem/1991/A): greedy implementation
 * [Accuracy-Preserving Summation Algorithm](https://codeforces.com/problemset/problem/1953/A): *special
 * [Help, what does it mean to be "Based"](https://codeforces.com/problemset/problem/1952/J): brute force constructive algorithms expression parsing implementation sortings
 * [Dark Matter](https://codeforces.com/problemset/problem/1952/I): bitmasks geometry
