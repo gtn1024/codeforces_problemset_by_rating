@@ -9567,20 +9567,26 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Penacony](https://codeforces.com/problemset/problem/1996/G): brute force data structures geometry graphs greedy hashing probabilities
+* [Chips on a Line](https://codeforces.com/problemset/problem/1997/F): dp math
+* [Level Up](https://codeforces.com/problemset/problem/1997/E): binary search data structures divide and conquer implementation
+* [Maximize the Root](https://codeforces.com/problemset/problem/1997/D): binary search dfs and similar dp greedy trees
+* [Even Positions](https://codeforces.com/problemset/problem/1997/C): binary search data structures greedy
+* [Make Three Regions](https://codeforces.com/problemset/problem/1997/B): constructive algorithms
+* [Strong Password](https://codeforces.com/problemset/problem/1997/A): brute force implementation
+* [Penacony](https://codeforces.com/problemset/problem/1996/G): brute force data structures greedy hashing
 * [Bomb](https://codeforces.com/problemset/problem/1996/F): binary search greedy math
-* [Decode](https://codeforces.com/problemset/problem/1996/E): brute force combinatorics implementation math
-* [Fun](https://codeforces.com/problemset/problem/1996/D): binary search combinatorics math number theory
+* [Decode](https://codeforces.com/problemset/problem/1996/E): combinatorics implementation math
+* [Fun](https://codeforces.com/problemset/problem/1996/D): binary search brute force combinatorics math number theory
 * [Sort](https://codeforces.com/problemset/problem/1996/C): dp greedy sortings strings
-* [Scale](https://codeforces.com/problemset/problem/1996/B): implementation
+* [Scale](https://codeforces.com/problemset/problem/1996/B): greedy implementation
 * [Legs](https://codeforces.com/problemset/problem/1996/A): binary search math ternary search
-* [Grid Game](https://codeforces.com/problemset/problem/1991/I): constructive algorithms games greedy interactive
-* [Prime Split Game](https://codeforces.com/problemset/problem/1991/H): fft games math number theory
-* [Grid Reset](https://codeforces.com/problemset/problem/1991/G): constructive algorithms greedy
-* [Triangle Formation](https://codeforces.com/problemset/problem/1991/F): brute force data structures greedy math sortings
-* [Coloring Game](https://codeforces.com/problemset/problem/1991/E): games graphs interactive
-* [Prime XOR Coloring](https://codeforces.com/problemset/problem/1991/D): bitmasks constructive algorithms graphs math number theory
-* [Absolute Zero](https://codeforces.com/problemset/problem/1991/C): constructive algorithms math
+* [Grid Game](https://codeforces.com/problemset/problem/1991/I): constructive algorithms games graph matchings greedy interactive
+* [Prime Split Game](https://codeforces.com/problemset/problem/1991/H): bitmasks fft games math number theory
+* [Grid Reset](https://codeforces.com/problemset/problem/1991/G): constructive algorithms greedy implementation
+* [Triangle Formation](https://codeforces.com/problemset/problem/1991/F): brute force greedy math sortings
+* [Coloring Game](https://codeforces.com/problemset/problem/1991/E): constructive algorithms dfs and similar games graphs greedy interactive
+* [Prime XOR Coloring](https://codeforces.com/problemset/problem/1991/D): bitmasks constructive algorithms graphs greedy math number theory
+* [Absolute Zero](https://codeforces.com/problemset/problem/1991/C): constructive algorithms greedy math
 * [AND Reconstruction](https://codeforces.com/problemset/problem/1991/B): bitmasks constructive algorithms greedy
 * [Maximize the Last Element](https://codeforces.com/problemset/problem/1991/A): greedy implementation
 * [Accuracy-Preserving Summation Algorithm](https://codeforces.com/problemset/problem/1953/A): *special

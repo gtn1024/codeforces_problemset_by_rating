@@ -9567,20 +9567,26 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-[problem:CodeForces-1996G] brute force, data structures, geometry, graphs, greedy, hashing, probabilities
+[problem:CodeForces-1997F] dp, math
+[problem:CodeForces-1997E] binary search, data structures, divide and conquer, implementation
+[problem:CodeForces-1997D] binary search, dfs and similar, dp, greedy, trees
+[problem:CodeForces-1997C] binary search, data structures, greedy
+[problem:CodeForces-1997B] constructive algorithms
+[problem:CodeForces-1997A] brute force, implementation
+[problem:CodeForces-1996G] brute force, data structures, greedy, hashing
 [problem:CodeForces-1996F] binary search, greedy, math
-[problem:CodeForces-1996E] brute force, combinatorics, implementation, math
-[problem:CodeForces-1996D] binary search, combinatorics, math, number theory
+[problem:CodeForces-1996E] combinatorics, implementation, math
+[problem:CodeForces-1996D] binary search, brute force, combinatorics, math, number theory
 [problem:CodeForces-1996C] dp, greedy, sortings, strings
-[problem:CodeForces-1996B] implementation
+[problem:CodeForces-1996B] greedy, implementation
 [problem:CodeForces-1996A] binary search, math, ternary search
-[problem:CodeForces-1991I] constructive algorithms, games, greedy, interactive
-[problem:CodeForces-1991H] fft, games, math, number theory
-[problem:CodeForces-1991G] constructive algorithms, greedy
-[problem:CodeForces-1991F] brute force, data structures, greedy, math, sortings
-[problem:CodeForces-1991E] games, graphs, interactive
-[problem:CodeForces-1991D] bitmasks, constructive algorithms, graphs, math, number theory
-[problem:CodeForces-1991C] constructive algorithms, math
+[problem:CodeForces-1991I] constructive algorithms, games, graph matchings, greedy, interactive
+[problem:CodeForces-1991H] bitmasks, fft, games, math, number theory
+[problem:CodeForces-1991G] constructive algorithms, greedy, implementation
+[problem:CodeForces-1991F] brute force, greedy, math, sortings
+[problem:CodeForces-1991E] constructive algorithms, dfs and similar, games, graphs, greedy, interactive
+[problem:CodeForces-1991D] bitmasks, constructive algorithms, graphs, greedy, math, number theory
+[problem:CodeForces-1991C] constructive algorithms, greedy, math
 [problem:CodeForces-1991B] bitmasks, constructive algorithms, greedy
 [problem:CodeForces-1991A] greedy, implementation
 [problem:CodeForces-1953A] *special
