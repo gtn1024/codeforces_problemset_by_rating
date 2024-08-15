@@ -9567,14 +9567,38 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Ruler (hard version)](https://codeforces.com/problemset/problem/1999/G2): binary search greedy interactive ternary search
-* [Ruler (easy version)](https://codeforces.com/problemset/problem/1999/G1): binary search interactive ternary search
+* [Counting 101](https://codeforces.com/problemset/problem/2002/H): greedy
+* [Lattice Optimizing](https://codeforces.com/problemset/problem/2002/G): bitmasks brute force hashing meet-in-the-middle
+* [Court Blue (Hard Version)](https://codeforces.com/problemset/problem/2002/F2): brute force dp math number theory
+* [Court Blue (Easy Version)](https://codeforces.com/problemset/problem/2002/F1): brute force dfs and similar dp math number theory
+* [Cosmic Rays](https://codeforces.com/problemset/problem/2002/E): brute force data structures dp implementation
+* [DFS Checker (Hard Version)](https://codeforces.com/problemset/problem/2002/D2): binary search data structures dfs and similar graphs hashing trees
+* [DFS Checker (Easy Version)](https://codeforces.com/problemset/problem/2002/D1): brute force data structures dfs and similar graphs hashing trees
+* [Black Circles](https://codeforces.com/problemset/problem/2002/C): brute force geometry greedy math
+* [Removals Game](https://codeforces.com/problemset/problem/2002/B): constructive algorithms games
+* [Distanced Coloring](https://codeforces.com/problemset/problem/2002/A): constructive algorithms implementation math
+* [Ksyusha and the Loaded Set](https://codeforces.com/problemset/problem/2000/H): binary search data structures
+* [Call During the Journey](https://codeforces.com/problemset/problem/2000/G): binary search brute force graphs greedy shortest paths
+* [Color Rows and Columns](https://codeforces.com/problemset/problem/2000/F): dp greedy implementation math
+* [Photoshoot for Gorillas](https://codeforces.com/problemset/problem/2000/E): combinatorics data structures greedy math
+* [Right Left Wrong](https://codeforces.com/problemset/problem/2000/D): greedy implementation two pointers
+* [Numeric String Template](https://codeforces.com/problemset/problem/2000/C): data structures strings
+* [Seating in a Bus](https://codeforces.com/problemset/problem/2000/B): two pointers
+* [Primary Task](https://codeforces.com/problemset/problem/2000/A): implementation math strings
+* [Ruler (hard version)](https://codeforces.com/problemset/problem/1999/G2): binary search interactive ternary search
+* [Ruler (easy version)](https://codeforces.com/problemset/problem/1999/G1): binary search interactive
 * [Expected Median](https://codeforces.com/problemset/problem/1999/F): combinatorics math
 * [Triple Operations](https://codeforces.com/problemset/problem/1999/E): dp implementation math
 * [Slavic's Exam](https://codeforces.com/problemset/problem/1999/D): greedy implementation strings
-* [Showering](https://codeforces.com/problemset/problem/1999/C): implementation
-* [Card Game](https://codeforces.com/problemset/problem/1999/B): brute force implementation
+* [Showering](https://codeforces.com/problemset/problem/1999/C): greedy implementation
+* [Card Game](https://codeforces.com/problemset/problem/1999/B): brute force constructive algorithms implementation
 * [A+B Again?](https://codeforces.com/problemset/problem/1999/A): implementation math
+* [Eliminating Balls With Merging (Hard Version)](https://codeforces.com/problemset/problem/1998/E2): binary search brute force data structures divide and conquer greedy implementation
+* [Eliminating Balls With Merging (Easy Version)](https://codeforces.com/problemset/problem/1998/E1): binary search brute force data structures divide and conquer greedy
+* [Determine Winning Islands in Race](https://codeforces.com/problemset/problem/1998/D): data structures dp graphs greedy shortest paths
+* [Perform Operations to Maximize Score](https://codeforces.com/problemset/problem/1998/C): binary search brute force constructive algorithms greedy implementation
+* [Minimize Equal Sum Subarrays](https://codeforces.com/problemset/problem/1998/B): constructive algorithms math number theory
+* [Find K Distinct Points with Fixed Center](https://codeforces.com/problemset/problem/1998/A): constructive algorithms implementation math
 * [Chips on a Line](https://codeforces.com/problemset/problem/1997/F): brute force combinatorics dp greedy math
 * [Level Up](https://codeforces.com/problemset/problem/1997/E): binary search brute force data structures divide and conquer implementation
 * [Maximize the Root](https://codeforces.com/problemset/problem/1997/D): binary search dfs and similar dp greedy trees
@@ -9590,7 +9614,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Legs](https://codeforces.com/problemset/problem/1996/A): binary search math ternary search
 * [Dyn-scripted Robot (Hard Version)](https://codeforces.com/problemset/problem/1993/F2): chinese remainder theorem math number theory
 * [Dyn-scripted Robot (Easy Version)](https://codeforces.com/problemset/problem/1993/F1): brute force chinese remainder theorem constructive algorithms math number theory
-* [Xor-Grid Problem](https://codeforces.com/problemset/problem/1993/E): bitmasks dp implementation
+* [Xor-Grid Problem](https://codeforces.com/problemset/problem/1993/E): bitmasks constructive algorithms dp implementation
 * [Med-imize](https://codeforces.com/problemset/problem/1993/D): binary search dp greedy
 * [Light Switches](https://codeforces.com/problemset/problem/1993/C): implementation math
 * [Parity and Sum](https://codeforces.com/problemset/problem/1993/B): constructive algorithms greedy
