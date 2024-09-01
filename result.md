@@ -36,8 +36,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
-* [Three Brothers](https://codeforces.com/problemset/problem/2010/B): brute force math
-* [Alternating Sum of Numbers](https://codeforces.com/problemset/problem/2010/A): implementation math
+* [Three Brothers](https://codeforces.com/problemset/problem/2010/B): brute force implementation math
+* [Alternating Sum of Numbers](https://codeforces.com/problemset/problem/2010/A): brute force implementation math
 * [Closest Point](https://codeforces.com/problemset/problem/2004/A): implementation math
 * [Distanced Coloring](https://codeforces.com/problemset/problem/2002/A): constructive algorithms implementation math
 * [Generate Permutation](https://codeforces.com/problemset/problem/2001/B): constructive algorithms
@@ -2752,7 +2752,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1400
 
-* [Message Transmission Error (easy version)](https://codeforces.com/problemset/problem/2010/C1): strings
+* [Message Transmission Error (easy version)](https://codeforces.com/problemset/problem/2010/C1): brute force strings
 * [Photoshoot for Gorillas](https://codeforces.com/problemset/problem/2000/E): combinatorics data structures greedy math
 * [Light Switches](https://codeforces.com/problemset/problem/1993/C): implementation math
 * [Two Movies](https://codeforces.com/problemset/problem/1989/C): greedy math
@@ -4058,7 +4058,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1700
 
-* [Message Transmission Error (hard version)](https://codeforces.com/problemset/problem/2010/C2): hashing strings two pointers
+* [Message Transmission Error (hard version)](https://codeforces.com/problemset/problem/2010/C2): hashing string suffix structures strings two pointers
 * [Ruler (hard version)](https://codeforces.com/problemset/problem/1999/G2): binary search interactive ternary search
 * [Bouquet (Hard Version)](https://codeforces.com/problemset/problem/1995/B2): binary search data structures greedy math sortings two pointers
 * [Novice's Mistake](https://codeforces.com/problemset/problem/1992/E): brute force constructive algorithms implementation math strings
@@ -9645,9 +9645,18 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Dora and C++](https://codeforces.com/problemset/problem/2007/C): math number theory
+* [Index and Maximum Value](https://codeforces.com/problemset/problem/2007/B): data structures greedy
+* [Dora's Set](https://codeforces.com/problemset/problem/2007/A): brute force math number theory
+* [Dora's Paint](https://codeforces.com/problemset/problem/2006/F): brute force combinatorics constructive algorithms graphs
+* [Iris's Full Binary Tree](https://codeforces.com/problemset/problem/2006/E): data structures trees
+* [Iris and Adjacent Products](https://codeforces.com/problemset/problem/2006/D): divide and conquer greedy math
+* [Eri and Expanded Sets](https://codeforces.com/problemset/problem/2006/C): binary search data structures dp math number theory two pointers
+* [Iris and the Tree](https://codeforces.com/problemset/problem/2006/B): brute force data structures dfs and similar dsu math trees
+* [Iris and Game on the Tree](https://codeforces.com/problemset/problem/2006/A): dfs and similar games graphs greedy trees
 * [Turtle and Three Sequences](https://codeforces.com/problemset/problem/2003/F): brute force data structures dp greedy math probabilities two pointers
-* [Turtle and Inversions (Hard Version)](https://codeforces.com/problemset/problem/2003/E2): brute force data structures dp greedy math two pointers
-* [Turtle and Inversions (Easy Version)](https://codeforces.com/problemset/problem/2003/E1): brute force dp greedy math
+* [Turtle and Inversions (Hard Version)](https://codeforces.com/problemset/problem/2003/E2): brute force data structures divide and conquer dp greedy math two pointers
+* [Turtle and Inversions (Easy Version)](https://codeforces.com/problemset/problem/2003/E1): brute force divide and conquer dp greedy math
 * [Turtle and a MEX Problem (Hard Version)](https://codeforces.com/problemset/problem/2003/D2): dfs and similar dp graphs greedy implementation math
 * [Turtle and a MEX Problem (Easy Version)](https://codeforces.com/problemset/problem/2003/D1): greedy math
 * [Turtle and Good Pairs](https://codeforces.com/problemset/problem/2003/C): constructive algorithms greedy sortings strings
