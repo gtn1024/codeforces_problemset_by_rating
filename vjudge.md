@@ -9679,13 +9679,28 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-[problem:CodeForces-2005E2] dp, games, greedy, implementation
-[problem:CodeForces-2005E1] dp, games, greedy
-[problem:CodeForces-2005D] binary search, data structures, divide and conquer, dp, number theory
-[problem:CodeForces-2005C] dp, implementation
+[problem:CodeForces-2014H] data structures, games, greedy, hashing
+[problem:CodeForces-2014G] data structures, implementation
+[problem:CodeForces-2014F] dp, trees, trees, trees
+[problem:CodeForces-2014E] graphs, shortest paths
+[problem:CodeForces-2014D] data structures, greedy, sortings
+[problem:CodeForces-2014C] binary search, divide and conquer, greedy, math
+[problem:CodeForces-2014B] math
+[problem:CodeForces-2014A] implementation
+[problem:CodeForces-2013F2] binary search, data structures, trees
+[problem:CodeForces-2013F1] binary search, data structures, dp, games, greedy, implementation, trees
+[problem:CodeForces-2013E] brute force, dp, greedy, math, number theory
+[problem:CodeForces-2013D] binary search, greedy
+[problem:CodeForces-2013C] constructive algorithms, interactive, strings
+[problem:CodeForces-2013B] constructive algorithms, greedy, math
+[problem:CodeForces-2013A] constructive algorithms, math
+[problem:CodeForces-2005E2] data structures, dp, games, greedy, implementation
+[problem:CodeForces-2005E1] dp, games, greedy, implementation
+[problem:CodeForces-2005D] binary search, brute force, data structures, divide and conquer, implementation, number theory
+[problem:CodeForces-2005C] dp, implementation, strings
 [problem:CodeForces-2005B2] binary search, greedy, math, sortings
 [problem:CodeForces-2005B1] greedy, math, sortings
-[problem:CodeForces-2005A] constructive algorithms, greedy
+[problem:CodeForces-2005A] combinatorics, constructive algorithms, greedy, math
 [problem:CodeForces-1953A] *special
 [problem:CodeForces-1952J] brute force, constructive algorithms, expression parsing, implementation, sortings
 [problem:CodeForces-1952I] bitmasks, geometry

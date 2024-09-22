@@ -9679,13 +9679,28 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Subtangle Game (Hard Version)](https://codeforces.com/problemset/problem/2005/E2): dp games greedy implementation
-* [Subtangle Game (Easy Version)](https://codeforces.com/problemset/problem/2005/E1): dp games greedy
-* [Alter the GCD](https://codeforces.com/problemset/problem/2005/D): binary search data structures divide and conquer dp number theory
-* [Lazy Narek](https://codeforces.com/problemset/problem/2005/C): dp implementation
+* [Robin Hood Archery](https://codeforces.com/problemset/problem/2014/H): data structures games greedy hashing
+* [Milky Days](https://codeforces.com/problemset/problem/2014/G): data structures implementation
+* [Sheriff's Defense](https://codeforces.com/problemset/problem/2014/F): dp trees trees trees
+* [Rendez-vous de Marian et Robin](https://codeforces.com/problemset/problem/2014/E): graphs shortest paths
+* [Robert Hood and Mrs Hood](https://codeforces.com/problemset/problem/2014/D): data structures greedy sortings
+* [Robin Hood in Town](https://codeforces.com/problemset/problem/2014/C): binary search divide and conquer greedy math
+* [Robin Hood and the Major Oak](https://codeforces.com/problemset/problem/2014/B): math
+* [Robin Helps](https://codeforces.com/problemset/problem/2014/A): implementation
+* [Game in Tree (Hard Version)](https://codeforces.com/problemset/problem/2013/F2): binary search data structures trees
+* [Game in Tree (Easy Version)](https://codeforces.com/problemset/problem/2013/F1): binary search data structures dp games greedy implementation trees
+* [Prefix GCD](https://codeforces.com/problemset/problem/2013/E): brute force dp greedy math number theory
+* [Minimize the Difference](https://codeforces.com/problemset/problem/2013/D): binary search greedy
+* [Password Cracking](https://codeforces.com/problemset/problem/2013/C): constructive algorithms interactive strings
+* [Battle for Survive](https://codeforces.com/problemset/problem/2013/B): constructive algorithms greedy math
+* [Zhan's Blender](https://codeforces.com/problemset/problem/2013/A): constructive algorithms math
+* [Subtangle Game (Hard Version)](https://codeforces.com/problemset/problem/2005/E2): data structures dp games greedy implementation
+* [Subtangle Game (Easy Version)](https://codeforces.com/problemset/problem/2005/E1): dp games greedy implementation
+* [Alter the GCD](https://codeforces.com/problemset/problem/2005/D): binary search brute force data structures divide and conquer implementation number theory
+* [Lazy Narek](https://codeforces.com/problemset/problem/2005/C): dp implementation strings
 * [The Strict Teacher (Hard Version)](https://codeforces.com/problemset/problem/2005/B2): binary search greedy math sortings
 * [The Strict Teacher (Easy Version)](https://codeforces.com/problemset/problem/2005/B1): greedy math sortings
-* [Simple Palindrome](https://codeforces.com/problemset/problem/2005/A): constructive algorithms greedy
+* [Simple Palindrome](https://codeforces.com/problemset/problem/2005/A): combinatorics constructive algorithms greedy math
 * [Accuracy-Preserving Summation Algorithm](https://codeforces.com/problemset/problem/1953/A): *special
 * [Help, what does it mean to be "Based"](https://codeforces.com/problemset/problem/1952/J): brute force constructive algorithms expression parsing implementation sortings
 * [Dark Matter](https://codeforces.com/problemset/problem/1952/I): bitmasks geometry
