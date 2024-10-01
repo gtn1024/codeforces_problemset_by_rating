@@ -9701,6 +9701,12 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2020F] dp, math, number theory
+[problem:CodeForces-2020E] bitmasks, brute force, dp, math, probabilities
+[problem:CodeForces-2020D] brute force, dp, dsu, graphs, math, trees
+[problem:CodeForces-2020C] bitmasks, implementation, math
+[problem:CodeForces-2020B] binary search, math
+[problem:CodeForces-2020A] bitmasks, brute force, greedy, math
 [problem:CodeForces-2019B] implementation, math
 [problem:CodeForces-2019A] brute force, dp, greedy
 [problem:CodeForces-2018F3] dp, greedy, math
@@ -9708,10 +9714,19 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2018F1] combinatorics, dp, greedy, math
 [problem:CodeForces-2018E2] binary search, data structures, divide and conquer, dsu, greedy, math, sortings
 [problem:CodeForces-2018E1] binary search, data structures, divide and conquer, dsu, greedy, math, sortings
-[problem:CodeForces-2018D] constructive algorithms, data structures, dp, dsu, greedy, matrices
+[problem:CodeForces-2018D] data structures, dp, dsu, greedy, implementation, matrices
 [problem:CodeForces-2018C] brute force, data structures, dfs and similar, greedy, sortings, trees
 [problem:CodeForces-2018B] binary search, data structures, dp, greedy, implementation, two pointers
 [problem:CodeForces-2018A] brute force, greedy, implementation, math
+[problem:CodeForces-2011I] *special, data structures, divide and conquer
+[problem:CodeForces-2011H] *special, graphs, greedy
+[problem:CodeForces-2011G] *special
+[problem:CodeForces-2011F] *special, data structures, greedy
+[problem:CodeForces-2011E] *special, greedy, strings
+[problem:CodeForces-2011D] *special
+[problem:CodeForces-2011C] *special
+[problem:CodeForces-2011B] *special
+[problem:CodeForces-2011A] *special
 [problem:CodeForces-1953A] *special
 [problem:CodeForces-1952J] brute force, constructive algorithms, expression parsing, implementation, sortings
 [problem:CodeForces-1952I] bitmasks, geometry
