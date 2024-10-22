@@ -9726,20 +9726,36 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2030G2] combinatorics, math
+[problem:CodeForces-2030G1] combinatorics, greedy, math
+[problem:CodeForces-2030F] binary search, data structures, greedy, implementation, two pointers
+[problem:CodeForces-2030E] combinatorics, data structures, dp, greedy, implementation, math
+[problem:CodeForces-2030D] data structures, implementation, sortings
+[problem:CodeForces-2030C] brute force, games, greedy
+[problem:CodeForces-2030B] combinatorics, constructive algorithms, games, math
+[problem:CodeForces-2030A] constructive algorithms, greedy, math, sortings
 [problem:CodeForces-2025G] data structures, flows
-[problem:CodeForces-2025F] dfs and similar, dp, graphs, greedy, trees
+[problem:CodeForces-2025F] constructive algorithms, dfs and similar, dp, graphs, greedy, trees
 [problem:CodeForces-2025E] combinatorics, dp, fft, greedy, math
-[problem:CodeForces-2025D] brute force, data structures, dp, implementation
-[problem:CodeForces-2025C] binary search, brute force, greedy, implementation, two pointers
-[problem:CodeForces-2025B] math
+[problem:CodeForces-2025D] brute force, data structures, dp, implementation, math, two pointers
+[problem:CodeForces-2025C] binary search, brute force, greedy, implementation, sortings, two pointers
+[problem:CodeForces-2025B] combinatorics, dp, math
 [problem:CodeForces-2025A] binary search, greedy, strings, two pointers
-[problem:CodeForces-2022E2] binary search, combinatorics, data structures, dfs and similar, dsu, graphs
-[problem:CodeForces-2022E1] 2-sat, binary search, combinatorics, dfs and similar, dsu, graphs
-[problem:CodeForces-2022D2] constructive algorithms, interactive
-[problem:CodeForces-2022D1] binary search, constructive algorithms, implementation, interactive
+[problem:CodeForces-2024B] binary search, constructive algorithms, sortings
+[problem:CodeForces-2024A] greedy, math
+[problem:CodeForces-2023F] data structures, data structures, math, math
+[problem:CodeForces-2023E] dp, greedy, trees
+[problem:CodeForces-2023D] brute force, dp, math
+[problem:CodeForces-2023C] brute force, constructive algorithms, dfs and similar, graphs, greedy, hashing, implementation, math, strings
+[problem:CodeForces-2023B] data structures, dp, graphs, greedy, shortest paths
+[problem:CodeForces-2023A] 2-sat, constructive algorithms, graph matchings, greedy, math, sortings
+[problem:CodeForces-2022E2] binary search, combinatorics, data structures, dsu, graphs
+[problem:CodeForces-2022E1] 2-sat, binary search, combinatorics, constructive algorithms, dfs and similar, dsu, graphs
+[problem:CodeForces-2022D2] constructive algorithms, dp, interactive
+[problem:CodeForces-2022D1] binary search, brute force, constructive algorithms, implementation, interactive
 [problem:CodeForces-2022C] dp, implementation
-[problem:CodeForces-2022B] greedy, math
-[problem:CodeForces-2022A] greedy, implementation, math
+[problem:CodeForces-2022B] binary search, greedy, math
+[problem:CodeForces-2022A] constructive algorithms, greedy, implementation, math
 [problem:CodeForces-2011I] *special, data structures, divide and conquer
 [problem:CodeForces-2011H] *special, graphs, greedy
 [problem:CodeForces-2011G] *special
