@@ -9767,24 +9767,24 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Go Learn! (Hard Version)](https://codeforces.com/problemset/problem/2035/G2): divide and conquer dp
 * [Go Learn! (Easy Version)](https://codeforces.com/problemset/problem/2035/G1): dp trees
 * [Tree Operations](https://codeforces.com/problemset/problem/2035/F): binary search brute force dfs and similar dp trees
-* [Monster](https://codeforces.com/problemset/problem/2035/E): binary search brute force constructive algorithms implementation math
-* [Yet Another Real Number Problem](https://codeforces.com/problemset/problem/2035/D): data structures greedy math
+* [Monster](https://codeforces.com/problemset/problem/2035/E): binary search brute force constructive algorithms greedy implementation math ternary search
+* [Yet Another Real Number Problem](https://codeforces.com/problemset/problem/2035/D): binary search data structures greedy math
 * [Alya and Permutation](https://codeforces.com/problemset/problem/2035/C): bitmasks constructive algorithms math
 * [Everyone Loves Tres](https://codeforces.com/problemset/problem/2035/B): constructive algorithms greedy math number theory
 * [Sliding](https://codeforces.com/problemset/problem/2035/A): implementation math
 * [Bit Game (Hard Version)](https://codeforces.com/problemset/problem/2027/E2): bitmasks dp math
 * [Bit Game (Easy Version)](https://codeforces.com/problemset/problem/2027/E1): bitmasks brute force games math
 * [The Endspeaker (Hard Version)](https://codeforces.com/problemset/problem/2027/D2): binary search data structures dp greedy implementation two pointers
-* [The Endspeaker (Easy Version)](https://codeforces.com/problemset/problem/2027/D1): binary search dp graphs greedy implementation two pointers
+* [The Endspeaker (Easy Version)](https://codeforces.com/problemset/problem/2027/D1): binary search dp graphs greedy implementation shortest paths two pointers
 * [Add Zeros](https://codeforces.com/problemset/problem/2027/C): brute force data structures dfs and similar dp graphs greedy
 * [Stalin Sort](https://codeforces.com/problemset/problem/2027/B): brute force greedy
 * [Rectangle Arrangement](https://codeforces.com/problemset/problem/2027/A): geometry implementation math
 * [Bermart Ice Cream](https://codeforces.com/problemset/problem/2026/F): data structures dfs and similar divide and conquer dp implementation trees
-* [Best Subsequence](https://codeforces.com/problemset/problem/2026/E): bitmasks brute force dfs and similar flows graph matchings graphs
+* [Best Subsequence](https://codeforces.com/problemset/problem/2026/E): bitmasks dfs and similar flows graph matchings graphs
 * [Sums of Segments](https://codeforces.com/problemset/problem/2026/D): binary search data structures dp implementation math
-* [Action Figures](https://codeforces.com/problemset/problem/2026/C): data structures greedy
-* [Black Cells](https://codeforces.com/problemset/problem/2026/B): brute force greedy
-* [Perpendicular Segments](https://codeforces.com/problemset/problem/2026/A): brute force geometry math
+* [Action Figures](https://codeforces.com/problemset/problem/2026/C): binary search brute force constructive algorithms data structures greedy implementation number theory
+* [Black Cells](https://codeforces.com/problemset/problem/2026/B): binary search brute force constructive algorithms greedy
+* [Perpendicular Segments](https://codeforces.com/problemset/problem/2026/A): constructive algorithms geometry greedy math
 * [Stack and Queue](https://codeforces.com/problemset/problem/2011/I): *special data structures divide and conquer
 * [Strange Matrix](https://codeforces.com/problemset/problem/2011/H): *special graphs greedy
 * [Removal of a Permutation](https://codeforces.com/problemset/problem/2011/G): *special
