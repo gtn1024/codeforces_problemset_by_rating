@@ -8601,7 +8601,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2800
 
-* [Shohag Loves Counting (Easy Version)](https://codeforces.com/problemset/problem/2039/F1): brute force combinatorics dp math number theory
+* [Shohag Loves Counting (Easy Version)](https://codeforces.com/problemset/problem/2039/F1): combinatorics dp math number theory
 * [Royal Flush](https://codeforces.com/problemset/problem/2038/M): dp implementation
 * [Penchick and Even Medians](https://codeforces.com/problemset/problem/2031/F): binary search constructive algorithms interactive probabilities
 * [Bit Game (Easy Version)](https://codeforces.com/problemset/problem/2027/E1): bitmasks brute force games math
@@ -9203,7 +9203,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3100
 
-* [Trophic Balance Species](https://codeforces.com/problemset/problem/2041/K)
+* [Trophic Balance Species](https://codeforces.com/problemset/problem/2041/K): binary search brute force dfs and similar graphs
 * [Grid Game](https://codeforces.com/problemset/problem/2041/G)
 * [The Destruction of the Universe (Hard Version)](https://codeforces.com/problemset/problem/2030/G2): combinatorics math
 * [Bit Game (Hard Version)](https://codeforces.com/problemset/problem/2027/E2): bitmasks dp math
@@ -9354,7 +9354,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3200
 
-* [Shohag Loves Counting (Hard Version)](https://codeforces.com/problemset/problem/2039/F2): brute force dp number theory
+* [Shohag Loves Counting (Hard Version)](https://codeforces.com/problemset/problem/2039/F2): dp number theory
 * [Substring Compression](https://codeforces.com/problemset/problem/2004/G): data structures dp matrices
 * [Magic Trick II](https://codeforces.com/problemset/problem/1984/G): constructive algorithms implementation sortings
 * [Next and Prev](https://codeforces.com/problemset/problem/1967/F): brute force data structures implementation
@@ -9694,7 +9694,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3500
 
-* [Cool Swap Walk (Hard Version)](https://codeforces.com/problemset/problem/2039/H2): constructive algorithms constructive algorithms constructive algorithms implementation implementation sortings sortings
+* [Cool Swap Walk (Hard Version)](https://codeforces.com/problemset/problem/2039/H2): constructive algorithms constructive algorithms constructive algorithms implementation sortings
 * [Cool Swap Walk (Easy Version)](https://codeforces.com/problemset/problem/2039/H1): constructive algorithms implementation sortings
 * [Shohag Loves Pebae](https://codeforces.com/problemset/problem/2039/G): math number theory
 * [Peak Productivity Forces](https://codeforces.com/problemset/problem/2035/H): constructive algorithms
@@ -9865,6 +9865,16 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Rayan vs. Rayaneh](https://codeforces.com/problemset/problem/2034/H): dp number theory
+* [Simurgh's Watch (Hard Version)](https://codeforces.com/problemset/problem/2034/G2): greedy implementation
+* [Simurgh's Watch (Easy Version)](https://codeforces.com/problemset/problem/2034/G1): greedy implementation
+* [Khayyam's Royal Decree (Hard Version)](https://codeforces.com/problemset/problem/2034/F2): combinatorics dp math
+* [Khayyam's Royal Decree (Easy Version)](https://codeforces.com/problemset/problem/2034/F1): combinatorics dp math
+* [Permutations Harmony](https://codeforces.com/problemset/problem/2034/E): brute force combinatorics constructive algorithms greedy hashing implementation math
+* [Darius' Wisdom](https://codeforces.com/problemset/problem/2034/D): constructive algorithms implementation sortings two pointers
+* [Trapped in the Witch's Labyrinth](https://codeforces.com/problemset/problem/2034/C): constructive algorithms dfs and similar graphs implementation
+* [Rakhsh's Revival](https://codeforces.com/problemset/problem/2034/B): greedy implementation two pointers
+* [King Keykhosrow's Mystery](https://codeforces.com/problemset/problem/2034/A): brute force chinese remainder theorem math number theory
 * [Stack and Queue](https://codeforces.com/problemset/problem/2011/I): *special data structures divide and conquer
 * [Strange Matrix](https://codeforces.com/problemset/problem/2011/H): *special graphs greedy
 * [Removal of a Permutation](https://codeforces.com/problemset/problem/2011/G): *special
