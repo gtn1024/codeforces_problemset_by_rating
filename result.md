@@ -731,7 +731,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Adjacent Replacements](https://codeforces.com/problemset/problem/1006/A): implementation
 * [Tanya and Stairways](https://codeforces.com/problemset/problem/1005/A): implementation
 * [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A): implementation
-* [Generate superposition of all basis states](https://codeforces.com/problemset/problem/1002/A1)
+* [Generate superposition of all basis states](https://codeforces.com/problemset/problem/1002/A1): *special
 * [Mishka and Contest](https://codeforces.com/problemset/problem/999/A): brute force implementation
 * [Hit the Lottery](https://codeforces.com/problemset/problem/996/A): dp greedy
 * [Fingerprints](https://codeforces.com/problemset/problem/994/A): implementation
@@ -2226,7 +2226,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Planning The Expedition](https://codeforces.com/problemset/problem/1011/B): binary search brute force implementation
 * [Three Parts of the Array](https://codeforces.com/problemset/problem/1006/C): binary search data structures two pointers
 * [Polycarp's Practice](https://codeforces.com/problemset/problem/1006/B): greedy implementation sortings
-* [Oracle for f(x) = b * x mod 2](https://codeforces.com/problemset/problem/1002/D1)
+* [Oracle for f(x) = b * x mod 2](https://codeforces.com/problemset/problem/1002/D1): *special
 * [Oracle for f(x) = parity of the number of 1s in x](https://codeforces.com/problemset/problem/1001/H): *special
 * [Codehorses T-shirts](https://codeforces.com/problemset/problem/1000/A): greedy implementation
 * [Alphabetic Removals](https://codeforces.com/problemset/problem/999/C): implementation
@@ -2632,9 +2632,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Sonya and Exhibition](https://codeforces.com/problemset/problem/1004/B): constructive algorithms greedy implementation math
 * [Intense Heat](https://codeforces.com/problemset/problem/1003/C): brute force implementation math
 * [Binary String Constructing](https://codeforces.com/problemset/problem/1003/B): constructive algorithms
-* [Oracle for f(x) = b * x + (1 - b) * (1 - x) mod 2](https://codeforces.com/problemset/problem/1002/D2)
-* [Distinguish zero state and W state](https://codeforces.com/problemset/problem/1002/B1)
-* [Generate superposition of zero state and a basis state](https://codeforces.com/problemset/problem/1002/A2)
+* [Oracle for f(x) = b * x + (1 - b) * (1 - x) mod 2](https://codeforces.com/problemset/problem/1002/D2): *special
+* [Distinguish zero state and W state](https://codeforces.com/problemset/problem/1002/B1): *special
+* [Generate superposition of zero state and a basis state](https://codeforces.com/problemset/problem/1002/A2): *special
 * [Distinguish multi-qubit basis states](https://codeforces.com/problemset/problem/1001/F): *special
 * [World Cup](https://codeforces.com/problemset/problem/996/B): binary search math
 * [Bus of Characters](https://codeforces.com/problemset/problem/982/B): data structures greedy implementation
@@ -3457,8 +3457,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Photo of The Sky](https://codeforces.com/problemset/problem/1012/A): brute force implementation math sortings
 * [Fly](https://codeforces.com/problemset/problem/1010/A): binary search math
 * [Polycarp and Div 3](https://codeforces.com/problemset/problem/1005/D): dp greedy number theory
-* [Bernstein-Vazirani algorithm](https://codeforces.com/problemset/problem/1002/E1)
-* [Generate superposition of two basis states](https://codeforces.com/problemset/problem/1002/A3)
+* [Bernstein-Vazirani algorithm](https://codeforces.com/problemset/problem/1002/E1): *special
+* [Generate superposition of two basis states](https://codeforces.com/problemset/problem/1002/A3): *special
 * [Light It Up](https://codeforces.com/problemset/problem/1000/B): greedy
 * [Convert to Ones](https://codeforces.com/problemset/problem/997/A): brute force greedy implementation math
 * [Bishwock](https://codeforces.com/problemset/problem/991/D): dp greedy
@@ -3900,9 +3900,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Walking Between Houses](https://codeforces.com/problemset/problem/1015/D): constructive algorithms greedy
 * [Military Problem](https://codeforces.com/problemset/problem/1006/E): dfs and similar graphs trees
 * [Coins and Queries](https://codeforces.com/problemset/problem/1003/D): greedy
-* [Oracle for majority function](https://codeforces.com/problemset/problem/1002/D3)
-* [Distinguish four 2-qubit states](https://codeforces.com/problemset/problem/1002/B3)
-* [Distinguish GHZ state and W state](https://codeforces.com/problemset/problem/1002/B2)
+* [Oracle for majority function](https://codeforces.com/problemset/problem/1002/D3): *special
+* [Distinguish four 2-qubit states](https://codeforces.com/problemset/problem/1002/B3): *special
+* [Distinguish GHZ state and W state](https://codeforces.com/problemset/problem/1002/B2): *special
 * [Distinguish Bell states](https://codeforces.com/problemset/problem/1001/E): *special
 * [Two Squares](https://codeforces.com/problemset/problem/993/A): geometry implementation
 * [Nastya and a Wardrobe](https://codeforces.com/problemset/problem/992/C): math
@@ -4415,8 +4415,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Relatively Prime Graph](https://codeforces.com/problemset/problem/1009/D): brute force constructive algorithms graphs greedy math
 * [Annoying Present](https://codeforces.com/problemset/problem/1009/C): greedy math
 * [Two Strings Swaps](https://codeforces.com/problemset/problem/1006/D): implementation
-* [Distinguish zero state and plus state with minimum error](https://codeforces.com/problemset/problem/1002/C1)
-* [Distinguish four 2-qubit states - 2](https://codeforces.com/problemset/problem/1002/B4)
+* [Distinguish zero state and plus state with minimum error](https://codeforces.com/problemset/problem/1002/C1): *special
+* [Distinguish four 2-qubit states - 2](https://codeforces.com/problemset/problem/1002/B4): *special
 * [Deutsch-Jozsa algorithm](https://codeforces.com/problemset/problem/1001/I): *special
 * [Covered Points Count](https://codeforces.com/problemset/problem/1000/C): data structures implementation sortings
 * [Graph And Its Complement](https://codeforces.com/problemset/problem/990/D): constructive algorithms graphs implementation
@@ -4533,7 +4533,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Devu and his Brother](https://codeforces.com/problemset/problem/439/D): binary search sortings ternary search two pointers
 * [Devu and Partitioning of the Array](https://codeforces.com/problemset/problem/439/C): brute force constructive algorithms implementation number theory
 * [Checkposts](https://codeforces.com/problemset/problem/427/C): dfs and similar graphs two pointers
-* [Kicker](https://codeforces.com/problemset/problem/411/C): implementation
+* [Kicker](https://codeforces.com/problemset/problem/411/C): *special implementation
 * [Big Data](https://codeforces.com/problemset/problem/409/D): *special
 * [Magnum Opus](https://codeforces.com/problemset/problem/409/C): *special
 * [Mysterious Language](https://codeforces.com/problemset/problem/409/B): *special
@@ -4853,7 +4853,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Border](https://codeforces.com/problemset/problem/1010/C): number theory
 * [Rocket](https://codeforces.com/problemset/problem/1010/B): binary search interactive
 * [Median on Segments (Permutations Edition)](https://codeforces.com/problemset/problem/1005/E1): sortings
-* [Distinguish zero state and plus state without errors](https://codeforces.com/problemset/problem/1002/C2)
+* [Distinguish zero state and plus state without errors](https://codeforces.com/problemset/problem/1002/C2): *special
 * [Bus Number](https://codeforces.com/problemset/problem/991/E): brute force combinatorics math
 * [A Mist of Florescence](https://codeforces.com/problemset/problem/989/C): constructive algorithms graphs
 * [Points and Powers of Two](https://codeforces.com/problemset/problem/988/D): brute force math
@@ -5084,7 +5084,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1900
 
-* [Recommendations](https://codeforces.com/problemset/problem/2042/D): binary search data structures implementation sortings two pointers
+* [Recommendations](https://codeforces.com/problemset/problem/2042/D): data structures implementation sortings two pointers
 * [Guess One Character](https://codeforces.com/problemset/problem/2038/G): constructive algorithms implementation interactive
 * [XORificator 3000](https://codeforces.com/problemset/problem/2036/F): bitmasks dp number theory two pointers
 * [Cool Graph](https://codeforces.com/problemset/problem/2029/D): constructive algorithms data structures dfs and similar dsu graphs greedy trees
@@ -5338,8 +5338,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Stars Drawing (Hard Edition)](https://codeforces.com/problemset/problem/1015/E2): binary search dp greedy
 * [Hills](https://codeforces.com/problemset/problem/1012/C): dp
 * [Chemical table](https://codeforces.com/problemset/problem/1012/B): constructive algorithms dfs and similar dsu graphs matrices
-* [Another array reconstruction algorithm](https://codeforces.com/problemset/problem/1002/E2)
-* [Generate W state](https://codeforces.com/problemset/problem/1002/A4)
+* [Another array reconstruction algorithm](https://codeforces.com/problemset/problem/1002/E2): *special
+* [Generate W state](https://codeforces.com/problemset/problem/1002/A4): *special
 * [Yet Another Problem On a Subsequence](https://codeforces.com/problemset/problem/1000/D): combinatorics dp
 * [Equalize the Remainders](https://codeforces.com/problemset/problem/999/D): data structures greedy implementation
 * [Open Communication](https://codeforces.com/problemset/problem/993/B): bitmasks brute force
@@ -6020,7 +6020,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2100
 
-* [Adventurers](https://codeforces.com/problemset/problem/2046/C): binary search data structures greedy sortings two pointers
+* [Adventurers](https://codeforces.com/problemset/problem/2046/C): binary search data structures greedy sortings ternary search two pointers
 * [Microwavable Subsequence](https://codeforces.com/problemset/problem/2045/I): data structures
 * [Grid Walk](https://codeforces.com/problemset/problem/2038/K): brute force dp greedy math number theory
 * [Make It Equal](https://codeforces.com/problemset/problem/2038/B): binary search brute force greedy math
@@ -9728,8 +9728,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3500
 
-* [Yandex Cuneiform (Hard Version)](https://codeforces.com/problemset/problem/2046/F2): constructive algorithms data structures greedy
-* [Cheops and a Contest (Hard Version)](https://codeforces.com/problemset/problem/2046/E2): greedy
+* [Yandex Cuneiform (Hard Version)](https://codeforces.com/problemset/problem/2046/F2): constructive algorithms data structures greedy implementation
+* [Cheops and a Contest (Hard Version)](https://codeforces.com/problemset/problem/2046/E2): greedy implementation
 * [Aquatic Dragon](https://codeforces.com/problemset/problem/2045/D)
 * [Cool Swap Walk (Hard Version)](https://codeforces.com/problemset/problem/2039/H2): constructive algorithms constructive algorithms constructive algorithms implementation sortings
 * [Cool Swap Walk (Easy Version)](https://codeforces.com/problemset/problem/2039/H1): constructive algorithms implementation sortings
@@ -9905,12 +9905,18 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## Unrated
 
 * [Tree Destruction](https://codeforces.com/problemset/problem/2050/G): dfs and similar dp trees
-* [Maximum modulo equality](https://codeforces.com/problemset/problem/2050/F): data structures math number theory
+* [Maximum modulo equality](https://codeforces.com/problemset/problem/2050/F): data structures divide and conquer math number theory
 * [Three Strings](https://codeforces.com/problemset/problem/2050/E): dp implementation strings
 * [Digital string maximization](https://codeforces.com/problemset/problem/2050/D): brute force greedy math strings
 * [Uninteresting Number](https://codeforces.com/problemset/problem/2050/C): brute force dp math
 * [Transfusion](https://codeforces.com/problemset/problem/2050/B): brute force greedy math
 * [Line Breaks](https://codeforces.com/problemset/problem/2050/A): implementation
+* [Number of Cubes](https://codeforces.com/problemset/problem/2040/F): combinatorics dp math number theory
+* [Control of Randomness](https://codeforces.com/problemset/problem/2040/E): combinatorics dfs and similar dp graphs greedy math probabilities trees
+* [Non Prime Tree](https://codeforces.com/problemset/problem/2040/D): brute force constructive algorithms dfs and similar greedy number theory trees two pointers
+* [Ordered Permutations](https://codeforces.com/problemset/problem/2040/C): bitmasks combinatorics constructive algorithms greedy math two pointers
+* [Paint a Strip](https://codeforces.com/problemset/problem/2040/B): constructive algorithms greedy math
+* [Game of Division](https://codeforces.com/problemset/problem/2040/A): games math
 * [Stack and Queue](https://codeforces.com/problemset/problem/2011/I): *special data structures divide and conquer
 * [Strange Matrix](https://codeforces.com/problemset/problem/2011/H): *special graphs greedy
 * [Removal of a Permutation](https://codeforces.com/problemset/problem/2011/G): *special
@@ -9929,7 +9935,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Sweep Line](https://codeforces.com/problemset/problem/1952/E): combinatorics games math
 * [Are You a Procrastinator?](https://codeforces.com/problemset/problem/1952/D): implementation
 * [They Have Fooled](https://codeforces.com/problemset/problem/1952/C): brute force schedules
-* [Is it stated?](https://codeforces.com/problemset/problem/1952/B): strings
+* [Is it stated?](https://codeforces.com/problemset/problem/1952/B): *special strings
 * [Are You a Robot, Again?](https://codeforces.com/problemset/problem/1952/A): strings
 * [Almost Certainly](https://codeforces.com/problemset/problem/1940/D): *special constructive algorithms data structures sortings
 * [Burenka and Pether](https://codeforces.com/problemset/problem/1940/C): *special data structures dfs and similar divide and conquer dsu graphs sortings trees
@@ -10009,24 +10015,24 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Мониторинг](https://codeforces.com/problemset/problem/1531/B2): *special
 * [Мониторинг](https://codeforces.com/problemset/problem/1531/B1): *special *special
 * [Зингер | color](https://codeforces.com/problemset/problem/1531/A): *special implementation
-* [Root of quantum Fourier transform](https://codeforces.com/problemset/problem/1357/E2)
-* [Power of quantum Fourier transform](https://codeforces.com/problemset/problem/1357/E1)
-* [Quantum Classification - Dataset 7](https://codeforces.com/problemset/problem/1357/D5)
-* [Quantum Classification - Dataset 6](https://codeforces.com/problemset/problem/1357/D4)
-* [Quantum Classification - Dataset 5](https://codeforces.com/problemset/problem/1357/D3)
-* [Quantum Classification - Dataset 4](https://codeforces.com/problemset/problem/1357/D2)
-* [Quantum Classification - Dataset 3](https://codeforces.com/problemset/problem/1357/D1)
-* [Prepare superposition of basis states with the same parity](https://codeforces.com/problemset/problem/1357/C2)
-* [Prepare superposition of basis states with 0s](https://codeforces.com/problemset/problem/1357/C1)
-* ["Is the number divisible by 3?" oracle](https://codeforces.com/problemset/problem/1357/B2)
-* ["Is the bit string balanced?" oracle](https://codeforces.com/problemset/problem/1357/B1)
-* [Distinguish Y, XZ, -Y and -XZ](https://codeforces.com/problemset/problem/1357/A7)
-* [Distinguish four Pauli gates](https://codeforces.com/problemset/problem/1357/A6)
-* [Distinguish Rz(θ) from Ry(θ)](https://codeforces.com/problemset/problem/1357/A5)
-* [Distinguish Rz from R1](https://codeforces.com/problemset/problem/1357/A4)
-* [Distinguish H from X](https://codeforces.com/problemset/problem/1357/A3)
-* [Distinguish I, CNOTs and SWAP](https://codeforces.com/problemset/problem/1357/A2)
-* [Figure out direction of CNOT](https://codeforces.com/problemset/problem/1357/A1)
+* [Root of quantum Fourier transform](https://codeforces.com/problemset/problem/1357/E2): *special
+* [Power of quantum Fourier transform](https://codeforces.com/problemset/problem/1357/E1): *special
+* [Quantum Classification - Dataset 7](https://codeforces.com/problemset/problem/1357/D5): *special
+* [Quantum Classification - Dataset 6](https://codeforces.com/problemset/problem/1357/D4): *special
+* [Quantum Classification - Dataset 5](https://codeforces.com/problemset/problem/1357/D3): *special
+* [Quantum Classification - Dataset 4](https://codeforces.com/problemset/problem/1357/D2): *special
+* [Quantum Classification - Dataset 3](https://codeforces.com/problemset/problem/1357/D1): *special
+* [Prepare superposition of basis states with the same parity](https://codeforces.com/problemset/problem/1357/C2): *special
+* [Prepare superposition of basis states with 0s](https://codeforces.com/problemset/problem/1357/C1): *special
+* ["Is the number divisible by 3?" oracle](https://codeforces.com/problemset/problem/1357/B2): *special
+* ["Is the bit string balanced?" oracle](https://codeforces.com/problemset/problem/1357/B1): *special
+* [Distinguish Y, XZ, -Y and -XZ](https://codeforces.com/problemset/problem/1357/A7): *special
+* [Distinguish four Pauli gates](https://codeforces.com/problemset/problem/1357/A6): *special
+* [Distinguish Rz(θ) from Ry(θ)](https://codeforces.com/problemset/problem/1357/A5): *special
+* [Distinguish Rz from R1](https://codeforces.com/problemset/problem/1357/A4): *special
+* [Distinguish H from X](https://codeforces.com/problemset/problem/1357/A3): *special
+* [Distinguish I, CNOTs and SWAP](https://codeforces.com/problemset/problem/1357/A2): *special
+* [Figure out direction of CNOT](https://codeforces.com/problemset/problem/1357/A1): *special
 * [Quantum Classification - 2](https://codeforces.com/problemset/problem/1356/D2): *special
 * [Quantum Classification - 1](https://codeforces.com/problemset/problem/1356/D1): *special
 * [Prepare state |01⟩ + |10⟩ + |11⟩](https://codeforces.com/problemset/problem/1356/C): *special
@@ -10095,19 +10101,19 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Mystery Circuit](https://codeforces.com/problemset/problem/1145/C): bitmasks brute force
 * [Kanban Numbers](https://codeforces.com/problemset/problem/1145/B): brute force
 * [Thanos Sort](https://codeforces.com/problemset/problem/1145/A): implementation
-* [Hessenberg matrix](https://codeforces.com/problemset/problem/1116/D6)
-* [Creeper](https://codeforces.com/problemset/problem/1116/D5)
-* [TIE fighter](https://codeforces.com/problemset/problem/1116/D4)
-* [X-wing fighter](https://codeforces.com/problemset/problem/1116/D3)
-* [Pattern of increasing blocks](https://codeforces.com/problemset/problem/1116/D2)
-* [Block diagonal matrix](https://codeforces.com/problemset/problem/1116/D1)
-* [``Is the number of ones divisible by 3?'' oracle](https://codeforces.com/problemset/problem/1116/C3)
-* [``Is the bit string periodic?'' oracle](https://codeforces.com/problemset/problem/1116/C2)
-* [Alternating bits oracle](https://codeforces.com/problemset/problem/1116/C1)
-* [Not A, not B or not C?](https://codeforces.com/problemset/problem/1116/B2)
-* [Distinguish three-qubit states](https://codeforces.com/problemset/problem/1116/B1)
-* [Generate equal superposition of four basis states](https://codeforces.com/problemset/problem/1116/A2)
-* [Generate state |00⟩ + |01⟩ + |10⟩](https://codeforces.com/problemset/problem/1116/A1)
+* [Hessenberg matrix](https://codeforces.com/problemset/problem/1116/D6): *special
+* [Creeper](https://codeforces.com/problemset/problem/1116/D5): *special
+* [TIE fighter](https://codeforces.com/problemset/problem/1116/D4): *special
+* [X-wing fighter](https://codeforces.com/problemset/problem/1116/D3): *special
+* [Pattern of increasing blocks](https://codeforces.com/problemset/problem/1116/D2): *special
+* [Block diagonal matrix](https://codeforces.com/problemset/problem/1116/D1): *special
+* [``Is the number of ones divisible by 3?'' oracle](https://codeforces.com/problemset/problem/1116/C3): *special
+* [``Is the bit string periodic?'' oracle](https://codeforces.com/problemset/problem/1116/C2): *special
+* [Alternating bits oracle](https://codeforces.com/problemset/problem/1116/C1): *special
+* [Not A, not B or not C?](https://codeforces.com/problemset/problem/1116/B2): *special
+* [Distinguish three-qubit states](https://codeforces.com/problemset/problem/1116/B1): *special
+* [Generate equal superposition of four basis states](https://codeforces.com/problemset/problem/1116/A2): *special
+* [Generate state |00⟩ + |01⟩ + |10⟩](https://codeforces.com/problemset/problem/1116/A1): *special
 * [Red and Blue Balls](https://codeforces.com/problemset/problem/399/B)
 * [Pages](https://codeforces.com/problemset/problem/399/A): implementation
 * [Sorting Permutations](https://codeforces.com/problemset/problem/398/E)
