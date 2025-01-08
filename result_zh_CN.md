@@ -9955,11 +9955,20 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Coffee Break](https://codeforces.com/problemset/problem/2057/H): data structures greedy math
+* [Secret Message](https://codeforces.com/problemset/problem/2057/G): combinatorics constructive algorithms math
+* [Formation](https://codeforces.com/problemset/problem/2057/F): binary search data structures dp sortings two pointers
+* [Another Exercise on Graphs (hard version)](https://codeforces.com/problemset/problem/2057/E2): binary search dfs and similar dp dsu graphs shortest paths sortings
+* [Another Exercise on Graphs (Easy Version)](https://codeforces.com/problemset/problem/2057/E1): binary search brute force dp dsu graphs shortest paths
+* [Gifts Order](https://codeforces.com/problemset/problem/2057/D): data structures greedy implementation math
+* [Trip to the Olympiad](https://codeforces.com/problemset/problem/2057/C): bitmasks constructive algorithms greedy math
+* [Gorilla and the Exam](https://codeforces.com/problemset/problem/2057/B): greedy sortings
+* [MEX Table](https://codeforces.com/problemset/problem/2057/A): constructive algorithms math
 * [Affectionate Arrays (Hard Version)](https://codeforces.com/problemset/problem/2053/I2): data structures dp graphs greedy math shortest paths two pointers
 * [Affectionate Arrays (Easy Version)](https://codeforces.com/problemset/problem/2053/I1): data structures dp greedy
 * [Delicate Anti-monotonous Operations](https://codeforces.com/problemset/problem/2053/H): constructive algorithms implementation
 * [Naive String Splits](https://codeforces.com/problemset/problem/2053/G): binary search brute force greedy hashing math number theory strings
-* [Earnest Matrix Complement](https://codeforces.com/problemset/problem/2053/F): brute force data structures dp greedy
+* [Earnest Matrix Complement](https://codeforces.com/problemset/problem/2053/F): brute force data structures dp greedy implementation math
 * [Resourceful Caterpillar Sequence](https://codeforces.com/problemset/problem/2053/E): dfs and similar dp games graphs greedy trees
 * [Refined Product Optimality](https://codeforces.com/problemset/problem/2053/D): binary search data structures greedy math schedules sortings
 * [Bewitching Stargazer](https://codeforces.com/problemset/problem/2053/C): bitmasks divide and conquer dp math

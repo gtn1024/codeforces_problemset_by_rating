@@ -9955,11 +9955,20 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2057H] data structures, greedy, math
+[problem:CodeForces-2057G] combinatorics, constructive algorithms, math
+[problem:CodeForces-2057F] binary search, data structures, dp, sortings, two pointers
+[problem:CodeForces-2057E2] binary search, dfs and similar, dp, dsu, graphs, shortest paths, sortings
+[problem:CodeForces-2057E1] binary search, brute force, dp, dsu, graphs, shortest paths
+[problem:CodeForces-2057D] data structures, greedy, implementation, math
+[problem:CodeForces-2057C] bitmasks, constructive algorithms, greedy, math
+[problem:CodeForces-2057B] greedy, sortings
+[problem:CodeForces-2057A] constructive algorithms, math
 [problem:CodeForces-2053I2] data structures, dp, graphs, greedy, math, shortest paths, two pointers
 [problem:CodeForces-2053I1] data structures, dp, greedy
 [problem:CodeForces-2053H] constructive algorithms, implementation
 [problem:CodeForces-2053G] binary search, brute force, greedy, hashing, math, number theory, strings
-[problem:CodeForces-2053F] brute force, data structures, dp, greedy
+[problem:CodeForces-2053F] brute force, data structures, dp, greedy, implementation, math
 [problem:CodeForces-2053E] dfs and similar, dp, games, graphs, greedy, trees
 [problem:CodeForces-2053D] binary search, data structures, greedy, math, schedules, sortings
 [problem:CodeForces-2053C] bitmasks, divide and conquer, dp, math
