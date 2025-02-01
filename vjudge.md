@@ -5411,7 +5411,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-961E] data structures
 [problem:CodeForces-959E] bitmasks, dp, graphs, implementation, math
 [problem:CodeForces-959D] constructive algorithms, greedy, math, number theory
-[problem:CodeForces-952B] brute force, interactive
+[problem:CodeForces-952B] *special, brute force, interactive
 [problem:CodeForces-949C] dfs and similar, graphs
 [problem:CodeForces-935D] math, probabilities
 [problem:CodeForces-930C] data structures, dp
@@ -10027,11 +10027,11 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2063B] constructive algorithms, data structures, greedy, sortings
 [problem:CodeForces-2063A] math, number theory
 [problem:CodeForces-2062H] bitmasks, combinatorics, dp
-[problem:CodeForces-2062G] flows, graph matchings, graphs
-[problem:CodeForces-2062F] dp, graphs, greedy, math, sortings
-[problem:CodeForces-2062E2] data structures, dfs and similar, games, graphs, trees
+[problem:CodeForces-2062G] flows, geometry, graph matchings, graphs
+[problem:CodeForces-2062F] dp, geometry, graphs, greedy, math, sortings
+[problem:CodeForces-2062E2] data structures, dfs and similar, games, graphs, implementation, trees
 [problem:CodeForces-2062E1] data structures, dfs and similar, games, graphs, greedy, trees
-[problem:CodeForces-2062D] dfs and similar, dp, greedy, trees
+[problem:CodeForces-2062D] dfs and similar, dp, graphs, greedy, trees
 [problem:CodeForces-2062C] brute force, math
 [problem:CodeForces-2062B] greedy, math
 [problem:CodeForces-2062A] constructive algorithms, greedy, math, strings

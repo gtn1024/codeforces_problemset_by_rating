@@ -5411,7 +5411,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Tufurama](https://codeforces.com/problemset/problem/961/E): data structures
 * [Mahmoud and Ehab and the xor-MST](https://codeforces.com/problemset/problem/959/E): bitmasks dp graphs implementation math
 * [Mahmoud and Ehab and another array construction task](https://codeforces.com/problemset/problem/959/D): constructive algorithms greedy math number theory
-* [A Map of the Cat](https://codeforces.com/problemset/problem/952/B): brute force interactive
+* [A Map of the Cat](https://codeforces.com/problemset/problem/952/B): *special brute force interactive
 * [Data Center Maintenance](https://codeforces.com/problemset/problem/949/C): dfs and similar graphs
 * [Fafa and Ancient Alphabet](https://codeforces.com/problemset/problem/935/D): math probabilities
 * [Teodor is not a liar!](https://codeforces.com/problemset/problem/930/C): data structures dp
@@ -10027,11 +10027,11 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Subsequence Update](https://codeforces.com/problemset/problem/2063/B): constructive algorithms data structures greedy sortings
 * [Minimal Coprime](https://codeforces.com/problemset/problem/2063/A): math number theory
 * [Galaxy Generator](https://codeforces.com/problemset/problem/2062/H): bitmasks combinatorics dp
-* [Permutation Factory](https://codeforces.com/problemset/problem/2062/G): flows graph matchings graphs
-* [Traveling Salescat](https://codeforces.com/problemset/problem/2062/F): dp graphs greedy math sortings
-* [The Game (Hard Version)](https://codeforces.com/problemset/problem/2062/E2): data structures dfs and similar games graphs trees
+* [Permutation Factory](https://codeforces.com/problemset/problem/2062/G): flows geometry graph matchings graphs
+* [Traveling Salescat](https://codeforces.com/problemset/problem/2062/F): dp geometry graphs greedy math sortings
+* [The Game (Hard Version)](https://codeforces.com/problemset/problem/2062/E2): data structures dfs and similar games graphs implementation trees
 * [The Game (Easy Version)](https://codeforces.com/problemset/problem/2062/E1): data structures dfs and similar games graphs greedy trees
-* [Balanced Tree](https://codeforces.com/problemset/problem/2062/D): dfs and similar dp greedy trees
+* [Balanced Tree](https://codeforces.com/problemset/problem/2062/D): dfs and similar dp graphs greedy trees
 * [Cirno and Operations](https://codeforces.com/problemset/problem/2062/C): brute force math
 * [Clockwork](https://codeforces.com/problemset/problem/2062/B): greedy math
 * [String](https://codeforces.com/problemset/problem/2062/A): constructive algorithms greedy math strings
