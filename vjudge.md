@@ -10035,6 +10035,25 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2067C] brute force, dfs and similar, greedy, math
+[problem:CodeForces-2067B] brute force, dp, greedy, sortings
+[problem:CodeForces-2067A] brute force, constructive algorithms, math
+[problem:CodeForces-2066F] constructive algorithms, dp, math
+[problem:CodeForces-2066E] binary search, data structures, greedy, implementation
+[problem:CodeForces-2066D2] combinatorics, dp, math
+[problem:CodeForces-2066D1] combinatorics, dp, math
+[problem:CodeForces-2066C] bitmasks, combinatorics, dp, math
+[problem:CodeForces-2066B] constructive algorithms, data structures, dp, greedy, implementation
+[problem:CodeForces-2066A] graphs, greedy, implementation, interactive
+[problem:CodeForces-2065H] combinatorics, data structures, divide and conquer, dp, math, matrices
+[problem:CodeForces-2065G] combinatorics, math, number theory
+[problem:CodeForces-2065F] data structures, dfs and similar, graphs, greedy, trees
+[problem:CodeForces-2065E] constructive algorithms, greedy, strings
+[problem:CodeForces-2065D] sortings
+[problem:CodeForces-2065C2] binary search, greedy
+[problem:CodeForces-2065C1] binary search, dp, greedy
+[problem:CodeForces-2065B] strings
+[problem:CodeForces-2065A] brute force, constructive algorithms, greedy, implementation, strings
 [problem:CodeForces-2059E2] brute force, constructive algorithms, data structures, hashing, strings
 [problem:CodeForces-2059E1] brute force, constructive algorithms, greedy, hashing, strings
 [problem:CodeForces-2059D] data structures, graphs, greedy, shortest paths
@@ -10052,7 +10071,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2011A] *special
 [problem:CodeForces-1953A] *special
 [problem:CodeForces-1952J] *special, brute force, constructive algorithms, expression parsing, implementation, sortings
-[problem:CodeForces-1952I] bitmasks, geometry
+[problem:CodeForces-1952I] *special, bitmasks, geometry
 [problem:CodeForces-1952H] *special, implementation, strings
 [problem:CodeForces-1952G] *special, binary search, dfs and similar, math
 [problem:CodeForces-1952F] *special, brute force
