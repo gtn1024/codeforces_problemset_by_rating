@@ -40,6 +40,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [String](https://codeforces.com/problemset/problem/2062/A): constructive algorithms greedy math strings
 * [Kevin and Arithmetic](https://codeforces.com/problemset/problem/2061/A): math
 * [Fibonacciness](https://codeforces.com/problemset/problem/2060/A): brute force
+* [Milya and Two Arrays](https://codeforces.com/problemset/problem/2059/A): constructive algorithms greedy sortings
 * [MEX Table](https://codeforces.com/problemset/problem/2057/A): constructive algorithms math
 * [Shape Perimeter](https://codeforces.com/problemset/problem/2056/A): constructive algorithms math
 * [Two Frogs](https://codeforces.com/problemset/problem/2055/A): constructive algorithms games greedy math
@@ -2452,6 +2453,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1300
 
+* [Cost of the Array](https://codeforces.com/problemset/problem/2059/B): brute force constructive algorithms greedy math
 * [Find the Permutation](https://codeforces.com/problemset/problem/2056/B): brute force dfs and similar graphs implementation sortings
 * [Digital string maximization](https://codeforces.com/problemset/problem/2050/D): brute force greedy math strings
 * [pspspsps](https://codeforces.com/problemset/problem/2049/B): brute force constructive algorithms graph matchings implementation
@@ -3731,6 +3733,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Remove Exactly Two](https://codeforces.com/problemset/problem/2063/C): brute force data structures dfs and similar dp graphs greedy sortings trees
 * [Kevin and Numbers](https://codeforces.com/problemset/problem/2061/D): bitmasks data structures
 * [Kevin and Puzzle](https://codeforces.com/problemset/problem/2061/C): 2-sat combinatorics dp
+* [Customer Service](https://codeforces.com/problemset/problem/2059/C): brute force constructive algorithms graph matchings greedy math sortings
 * [Adrenaline Rush](https://codeforces.com/problemset/problem/2052/A): constructive algorithms
 * [Best Price](https://codeforces.com/problemset/problem/2051/E): binary search brute force data structures greedy sortings
 * [Kevin and Competition Memories](https://codeforces.com/problemset/problem/2048/D): binary search brute force data structures greedy sortings two pointers
@@ -5145,6 +5148,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1900
 
+* [Graph and Graph](https://codeforces.com/problemset/problem/2059/D): data structures graphs greedy shortest paths
 * [Resourceful Caterpillar Sequence](https://codeforces.com/problemset/problem/2053/E): dfs and similar dp games graphs greedy trees
 * [Expression Correction](https://codeforces.com/problemset/problem/2052/E): brute force expression parsing strings
 * [Tree Destruction](https://codeforces.com/problemset/problem/2050/G): dfs and similar dp trees
@@ -7755,6 +7759,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2500
 
+* [Stop Gaming (Easy Version)](https://codeforces.com/problemset/problem/2059/E1): brute force constructive algorithms greedy hashing strings
 * [Another Exercise on Graphs (hard version)](https://codeforces.com/problemset/problem/2057/E2): binary search dfs and similar dp dsu graphs shortest paths sortings
 * [Nested Segments](https://codeforces.com/problemset/problem/2056/E): combinatorics dfs and similar dp dsu math
 * [Kevin and Math Class](https://codeforces.com/problemset/problem/2048/F): brute force data structures divide and conquer dp implementation math trees
@@ -8958,6 +8963,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 * [Traveling Salescat](https://codeforces.com/problemset/problem/2062/F): constructive algorithms dp geometry graphs greedy math sortings
 * [Kevin and Teams](https://codeforces.com/problemset/problem/2061/G): constructive algorithms graphs interactive
+* [Stop Gaming (Hard Version)](https://codeforces.com/problemset/problem/2059/E2): brute force constructive algorithms data structures hashing strings
 * [Legacy Screensaver](https://codeforces.com/problemset/problem/2052/L)
 * [Cheops and a Contest (Easy Version)](https://codeforces.com/problemset/problem/2046/E1): constructive algorithms greedy
 * [GCDDCG](https://codeforces.com/problemset/problem/2045/K)
@@ -10035,6 +10041,12 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Graph Inclusion](https://codeforces.com/problemset/problem/2069/F): data structures divide and conquer dsu graphs
+* [A, B, AB and BA](https://codeforces.com/problemset/problem/2069/E): constructive algorithms greedy sortings strings
+* [Palindrome Shuffle](https://codeforces.com/problemset/problem/2069/D): binary search constructive algorithms greedy hashing implementation strings two pointers
+* [Beautiful Sequence](https://codeforces.com/problemset/problem/2069/C): combinatorics dp greedy two pointers
+* [Set of Strangers](https://codeforces.com/problemset/problem/2069/B): greedy matrices
+* [Was there an Array?](https://codeforces.com/problemset/problem/2069/A): greedy
 * [Devyatkino](https://codeforces.com/problemset/problem/2067/C): brute force dfs and similar greedy math
 * [Two Large Bags](https://codeforces.com/problemset/problem/2067/B): brute force dp greedy sortings
 * [Adjacent Digit Sums](https://codeforces.com/problemset/problem/2067/A): brute force constructive algorithms math
@@ -10049,17 +10061,17 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Skibidus and Capping](https://codeforces.com/problemset/problem/2065/G): combinatorics math number theory
 * [Skibidus and Slay](https://codeforces.com/problemset/problem/2065/F): data structures dfs and similar graphs greedy trees
 * [Skibidus and Rizz](https://codeforces.com/problemset/problem/2065/E): constructive algorithms greedy strings
-* [Skibidus and Sigma](https://codeforces.com/problemset/problem/2065/D): sortings
+* [Skibidus and Sigma](https://codeforces.com/problemset/problem/2065/D): greedy sortings
 * [Skibidus and Fanum Tax (hard version)](https://codeforces.com/problemset/problem/2065/C2): binary search greedy
 * [Skibidus and Fanum Tax (easy version)](https://codeforces.com/problemset/problem/2065/C1): binary search dp greedy
 * [Skibidus and Ohio](https://codeforces.com/problemset/problem/2065/B): strings
 * [Skibidus and Amog'u](https://codeforces.com/problemset/problem/2065/A): brute force constructive algorithms greedy implementation strings
-* [Stop Gaming (Hard Version)](https://codeforces.com/problemset/problem/2059/E2): brute force constructive algorithms data structures hashing strings
-* [Stop Gaming (Easy Version)](https://codeforces.com/problemset/problem/2059/E1): brute force constructive algorithms greedy hashing strings
-* [Graph and Graph](https://codeforces.com/problemset/problem/2059/D): data structures graphs greedy shortest paths
-* [Customer Service](https://codeforces.com/problemset/problem/2059/C): brute force constructive algorithms graph matchings greedy math sortings
-* [Cost of the Array](https://codeforces.com/problemset/problem/2059/B): brute force constructive algorithms greedy math
-* [Milya and Two Arrays](https://codeforces.com/problemset/problem/2059/A): constructive algorithms greedy sortings
+* [We Be Summing](https://codeforces.com/problemset/problem/2064/F): binary search combinatorics data structures two pointers
+* [Mycraft Sand Sort](https://codeforces.com/problemset/problem/2064/E): combinatorics data structures dsu greedy math sortings
+* [Eating](https://codeforces.com/problemset/problem/2064/D): binary search bitmasks brute force data structures dp greedy two pointers
+* [Remove the Ends](https://codeforces.com/problemset/problem/2064/C): brute force constructive algorithms dp greedy
+* [Variety is Discouraged](https://codeforces.com/problemset/problem/2064/B): binary search constructive algorithms greedy two pointers
+* [Brogramming Contest](https://codeforces.com/problemset/problem/2064/A): greedy strings
 * [Stack and Queue](https://codeforces.com/problemset/problem/2011/I): *special data structures divide and conquer
 * [Strange Matrix](https://codeforces.com/problemset/problem/2011/H): *special graphs greedy
 * [Removal of a Permutation](https://codeforces.com/problemset/problem/2011/G): *special
