@@ -10085,10 +10085,31 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2080D] *special, binary search
+[problem:CodeForces-2080C] *special
+[problem:CodeForces-2080B] *special
+[problem:CodeForces-2080A] *special, constructive algorithms, graphs
 [problem:CodeForces-2079D] *special, sortings
 [problem:CodeForces-2079C] *special
 [problem:CodeForces-2079B] *special, data structures, dp, greedy
 [problem:CodeForces-2079A] *special, data structures, dp, games
+[problem:CodeForces-2078D] dp, greedy, implementation
+[problem:CodeForces-2078B] constructive algorithms, graphs, greedy, implementation, math
+[problem:CodeForces-2078A] math
+[problem:CodeForces-2077G] bitmasks, chinese remainder theorem, dfs and similar, graphs, number theory
+[problem:CodeForces-2077F] bitmasks, constructive algorithms, dp
+[problem:CodeForces-2077E] combinatorics, data structures, divide and conquer, dp, greedy, math
+[problem:CodeForces-2077D] brute force, data structures, implementation, math
+[problem:CodeForces-2077C] combinatorics, data structures, dp, fft, math, matrices
+[problem:CodeForces-2077B] bitmasks, constructive algorithms, implementation, interactive, math
+[problem:CodeForces-2077A] constructive algorithms, greedy, math, sortings
+[problem:CodeForces-2074G] dp, geometry
+[problem:CodeForces-2074F] bitmasks, divide and conquer, geometry, greedy, implementation, math
+[problem:CodeForces-2074E] geometry, interactive, probabilities
+[problem:CodeForces-2074D] brute force, data structures, geometry, implementation, two pointers
+[problem:CodeForces-2074C] bitmasks, brute force, geometry, greedy, probabilities
+[problem:CodeForces-2074B] geometry, greedy, math
+[problem:CodeForces-2074A] geometry, implementation
 [problem:CodeForces-2073M]
 [problem:CodeForces-2073L]
 [problem:CodeForces-2073K]
@@ -10297,12 +10318,12 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-1170B] *special, implementation
 [problem:CodeForces-1170A] *special, math
 [problem:CodeForces-1160A2] *special
-[problem:CodeForces-1145G] interactive
-[problem:CodeForces-1145F]
+[problem:CodeForces-1145G] *special, interactive
+[problem:CodeForces-1145F] *special
 [problem:CodeForces-1145E]
-[problem:CodeForces-1145D] implementation
+[problem:CodeForces-1145D] *special, implementation
 [problem:CodeForces-1145C] bitmasks, brute force
-[problem:CodeForces-1145B] brute force
+[problem:CodeForces-1145B] *special, brute force
 [problem:CodeForces-1145A] implementation
 [problem:CodeForces-1116D6] *special
 [problem:CodeForces-1116D5] *special

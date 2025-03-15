@@ -10085,10 +10085,31 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Order Statistics](https://codeforces.com/problemset/problem/2080/D): *special binary search
+* [Card Flip](https://codeforces.com/problemset/problem/2080/C): *special
+* [Best Runner](https://codeforces.com/problemset/problem/2080/B): *special
+* [Strong Connectivity Strikes Back](https://codeforces.com/problemset/problem/2080/A): *special constructive algorithms graphs
 * [Cute Subsequences](https://codeforces.com/problemset/problem/2079/D): *special sortings
 * [Dreaming Is Not Harmful](https://codeforces.com/problemset/problem/2079/C): *special
 * [Arithmetic Exercise](https://codeforces.com/problemset/problem/2079/B): *special data structures dp greedy
 * [Alice, Bob, And Two Arrays](https://codeforces.com/problemset/problem/2079/A): *special data structures dp games
+* [Scammy Game Ad](https://codeforces.com/problemset/problem/2078/D): dp greedy implementation
+* [Vicious Labyrinth](https://codeforces.com/problemset/problem/2078/B): constructive algorithms graphs greedy implementation math
+* [Final Verdict](https://codeforces.com/problemset/problem/2078/A): math
+* [RGB Walking](https://codeforces.com/problemset/problem/2077/G): bitmasks chinese remainder theorem dfs and similar graphs number theory
+* [AND x OR](https://codeforces.com/problemset/problem/2077/F): bitmasks constructive algorithms dp
+* [Another Folding Strip](https://codeforces.com/problemset/problem/2077/E): combinatorics data structures divide and conquer dp greedy math
+* [Maximum Polygon](https://codeforces.com/problemset/problem/2077/D): brute force data structures implementation math
+* [Binary Subsequence Value Sum](https://codeforces.com/problemset/problem/2077/C): combinatorics data structures dp fft math matrices
+* [Finding OR Sum](https://codeforces.com/problemset/problem/2077/B): bitmasks constructive algorithms implementation interactive math
+* [Breach of Faith](https://codeforces.com/problemset/problem/2077/A): constructive algorithms greedy math sortings
+* [Game With Triangles: Season 2](https://codeforces.com/problemset/problem/2074/G): dp geometry
+* [Counting Necessary Nodes](https://codeforces.com/problemset/problem/2074/F): bitmasks divide and conquer geometry greedy implementation math
+* [Empty Triangle](https://codeforces.com/problemset/problem/2074/E): geometry interactive probabilities
+* [Counting Points](https://codeforces.com/problemset/problem/2074/D): brute force data structures geometry implementation two pointers
+* [XOR and Triangle](https://codeforces.com/problemset/problem/2074/C): bitmasks brute force geometry greedy probabilities
+* [The Third Side](https://codeforces.com/problemset/problem/2074/B): geometry greedy math
+* [Draw a Square](https://codeforces.com/problemset/problem/2074/A): geometry implementation
 * [Can You Reach There?](https://codeforces.com/problemset/problem/2073/M)
 * [Boarding Queue](https://codeforces.com/problemset/problem/2073/L)
 * [Book Sorting](https://codeforces.com/problemset/problem/2073/K)
@@ -10297,12 +10318,12 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Bad Days](https://codeforces.com/problemset/problem/1170/B): *special implementation
 * [Three Integers Again](https://codeforces.com/problemset/problem/1170/A): *special math
 * [Collaboration](https://codeforces.com/problemset/problem/1160/A2): *special
-* [AI Takeover](https://codeforces.com/problemset/problem/1145/G): interactive
-* [Neat Words](https://codeforces.com/problemset/problem/1145/F)
+* [AI Takeover](https://codeforces.com/problemset/problem/1145/G): *special interactive
+* [Neat Words](https://codeforces.com/problemset/problem/1145/F): *special
 * [Fourier Doodles](https://codeforces.com/problemset/problem/1145/E)
-* [Pigeon d'Or](https://codeforces.com/problemset/problem/1145/D): implementation
+* [Pigeon d'Or](https://codeforces.com/problemset/problem/1145/D): *special implementation
 * [Mystery Circuit](https://codeforces.com/problemset/problem/1145/C): bitmasks brute force
-* [Kanban Numbers](https://codeforces.com/problemset/problem/1145/B): brute force
+* [Kanban Numbers](https://codeforces.com/problemset/problem/1145/B): *special brute force
 * [Thanos Sort](https://codeforces.com/problemset/problem/1145/A): implementation
 * [Hessenberg matrix](https://codeforces.com/problemset/problem/1116/D6): *special
 * [Creeper](https://codeforces.com/problemset/problem/1116/D5): *special
