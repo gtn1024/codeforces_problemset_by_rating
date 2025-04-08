@@ -10187,6 +10187,40 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2095J] *special
+[problem:CodeForces-2095I] *special, expression parsing, number theory
+[problem:CodeForces-2095H] *special, fft, math
+[problem:CodeForces-2095G] *special, geometry
+[problem:CodeForces-2095F] *special, math
+[problem:CodeForces-2095E] *special, number theory
+[problem:CodeForces-2095D] *special, geometry
+[problem:CodeForces-2095C] *special, binary search, brute force
+[problem:CodeForces-2095B] *special, games, interactive
+[problem:CodeForces-2095A] *special, string suffix structures
+[problem:CodeForces-2087I] *special, *special
+[problem:CodeForces-2087H] *special, *special
+[problem:CodeForces-2087G] *special, *special, greedy, greedy
+[problem:CodeForces-2087F] *special, *special, dp, dp
+[problem:CodeForces-2087E] *special, *special, dp, dp
+[problem:CodeForces-2087D] *special, *special, interactive
+[problem:CodeForces-2087C] *special, greedy
+[problem:CodeForces-2087B] *special
+[problem:CodeForces-2087A] *special
+[problem:CodeForces-2086F] brute force, constructive algorithms, interactive
+[problem:CodeForces-2086E] bitmasks, brute force, constructive algorithms, dfs and similar, dp, greedy, math
+[problem:CodeForces-2086D] combinatorics, dp, math, strings
+[problem:CodeForces-2086C] dfs and similar, dsu, graphs, greedy, implementation
+[problem:CodeForces-2086B] binary search, brute force, greedy
+[problem:CodeForces-2086A] math
+[problem:CodeForces-2084H] dp, greedy
+[problem:CodeForces-2084G2] data structures, dp
+[problem:CodeForces-2084G1] dp, games
+[problem:CodeForces-2084F] constructive algorithms, data structures, greedy
+[problem:CodeForces-2084E] brute force, combinatorics, dp, implementation, math
+[problem:CodeForces-2084D] binary search, brute force, constructive algorithms, greedy, math
+[problem:CodeForces-2084C] constructive algorithms, greedy, implementation
+[problem:CodeForces-2084B] greedy, math, number theory
+[problem:CodeForces-2084A] constructive algorithms, math
 [problem:CodeForces-2011I] *special, data structures, divide and conquer
 [problem:CodeForces-2011H] *special, graphs, greedy
 [problem:CodeForces-2011G] *special
