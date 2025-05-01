@@ -10226,16 +10226,16 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## Unrated
 
 [problem:CodeForces-2106G2] binary search, dfs and similar, divide and conquer, implementation, interactive, trees
-[problem:CodeForces-2106G1] binary search, divide and conquer, greedy, interactive, trees
+[problem:CodeForces-2106G1] binary search, constructive algorithms, divide and conquer, greedy, interactive, trees
 [problem:CodeForces-2106F] dfs and similar, dp, dsu, greedy, math
 [problem:CodeForces-2106E] binary search, greedy, math
 [problem:CodeForces-2106D] binary search, dp, greedy, two pointers
 [problem:CodeForces-2106C] greedy, math, sortings
 [problem:CodeForces-2106B] constructive algorithms, greedy, math
 [problem:CodeForces-2106A] brute force, math
-[problem:CodeForces-2104G] data structures, divide and conquer, dsu
-[problem:CodeForces-2104F] brute force, dfs and similar, math
-[problem:CodeForces-2104E] binary search, data structures, dp, greedy
+[problem:CodeForces-2104G] data structures, divide and conquer, dsu, graphs, trees
+[problem:CodeForces-2104F] binary search, brute force, dfs and similar, dp, implementation, math
+[problem:CodeForces-2104E] binary search, data structures, dp, greedy, strings
 [problem:CodeForces-2104D] binary search, greedy, math, number theory
 [problem:CodeForces-2104C] brute force, games, greedy, math
 [problem:CodeForces-2104B] brute force, data structures, dp, greedy
@@ -10249,11 +10249,11 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2098B] math, sortings
 [problem:CodeForces-2098A] brute force, greedy
 [problem:CodeForces-2097F] dp, flows
-[problem:CodeForces-2097E] data structures
+[problem:CodeForces-2097E] data structures, dfs and similar, dp, greedy
 [problem:CodeForces-2097D] bitmasks, math, matrices
 [problem:CodeForces-2097C] chinese remainder theorem, geometry, math, number theory
 [problem:CodeForces-2097B] combinatorics, dfs and similar, dp, dsu, graphs, implementation, math, trees
-[problem:CodeForces-2097A] brute force, math, sortings
+[problem:CodeForces-2097A] 2-sat, brute force, math, sortings
 [problem:CodeForces-2095J] *special
 [problem:CodeForces-2095I] *special, expression parsing, number theory
 [problem:CodeForces-2095H] *special, fft, math

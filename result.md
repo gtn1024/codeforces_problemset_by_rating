@@ -10226,16 +10226,16 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## Unrated
 
 * [Baudelaire (hard version)](https://codeforces.com/problemset/problem/2106/G2): binary search dfs and similar divide and conquer implementation interactive trees
-* [Baudelaire (easy version)](https://codeforces.com/problemset/problem/2106/G1): binary search divide and conquer greedy interactive trees
+* [Baudelaire (easy version)](https://codeforces.com/problemset/problem/2106/G1): binary search constructive algorithms divide and conquer greedy interactive trees
 * [Goblin](https://codeforces.com/problemset/problem/2106/F): dfs and similar dp dsu greedy math
 * [Wolf](https://codeforces.com/problemset/problem/2106/E): binary search greedy math
 * [Flower Boy](https://codeforces.com/problemset/problem/2106/D): binary search dp greedy two pointers
 * [Cherry Bomb](https://codeforces.com/problemset/problem/2106/C): greedy math sortings
 * [St. Chroma](https://codeforces.com/problemset/problem/2106/B): constructive algorithms greedy math
 * [Dr. TC](https://codeforces.com/problemset/problem/2106/A): brute force math
-* [Modulo 3](https://codeforces.com/problemset/problem/2104/G): data structures divide and conquer dsu
-* [Numbers and Strings](https://codeforces.com/problemset/problem/2104/F): brute force dfs and similar math
-* [Unpleasant Strings](https://codeforces.com/problemset/problem/2104/E): binary search data structures dp greedy
+* [Modulo 3](https://codeforces.com/problemset/problem/2104/G): data structures divide and conquer dsu graphs trees
+* [Numbers and Strings](https://codeforces.com/problemset/problem/2104/F): binary search brute force dfs and similar dp implementation math
+* [Unpleasant Strings](https://codeforces.com/problemset/problem/2104/E): binary search data structures dp greedy strings
 * [Array and GCD](https://codeforces.com/problemset/problem/2104/D): binary search greedy math number theory
 * [Card Game](https://codeforces.com/problemset/problem/2104/C): brute force games greedy math
 * [Move to the End](https://codeforces.com/problemset/problem/2104/B): brute force data structures dp greedy
@@ -10249,11 +10249,11 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Sasha and the Apartment Purchase](https://codeforces.com/problemset/problem/2098/B): math sortings
 * [Vadim's Collection](https://codeforces.com/problemset/problem/2098/A): brute force greedy
 * [Lost Luggage](https://codeforces.com/problemset/problem/2097/F): dp flows
-* [Clearing the Snowdrift](https://codeforces.com/problemset/problem/2097/E): data structures
+* [Clearing the Snowdrift](https://codeforces.com/problemset/problem/2097/E): data structures dfs and similar dp greedy
 * [Homework](https://codeforces.com/problemset/problem/2097/D): bitmasks math matrices
 * [Bermuda Triangle](https://codeforces.com/problemset/problem/2097/C): chinese remainder theorem geometry math number theory
 * [Baggage Claim](https://codeforces.com/problemset/problem/2097/B): combinatorics dfs and similar dp dsu graphs implementation math trees
-* [Sports Betting](https://codeforces.com/problemset/problem/2097/A): brute force math sortings
+* [Sports Betting](https://codeforces.com/problemset/problem/2097/A): 2-sat brute force math sortings
 * [Premiere at a Wrong Time](https://codeforces.com/problemset/problem/2095/J): *special
 * [Mysterious Script](https://codeforces.com/problemset/problem/2095/I): *special expression parsing number theory
 * [Blurry Vision](https://codeforces.com/problemset/problem/2095/H): *special fft math
