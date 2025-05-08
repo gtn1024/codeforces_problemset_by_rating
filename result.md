@@ -10225,6 +10225,19 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Fallen Towers](https://codeforces.com/problemset/problem/2108/F): binary search greedy
+* [Spruce Dispute](https://codeforces.com/problemset/problem/2108/E): constructive algorithms dfs and similar graphs greedy implementation shortest paths trees
+* [Needle in a Numstack](https://codeforces.com/problemset/problem/2108/D): binary search brute force implementation interactive
+* [Neo's Escape](https://codeforces.com/problemset/problem/2108/C): binary search brute force data structures dp dsu graphs greedy implementation
+* [SUMdamental Decomposition](https://codeforces.com/problemset/problem/2108/B): bitmasks constructive algorithms greedy implementation math
+* [Permutation Warm-Up](https://codeforces.com/problemset/problem/2108/A): combinatorics greedy math
+* [Cycling (Hard Version)](https://codeforces.com/problemset/problem/2107/F2): binary search brute force data structures dp geometry greedy
+* [Cycling (Easy Version)](https://codeforces.com/problemset/problem/2107/F1): dp greedy
+* [Ain and Apple Tree](https://codeforces.com/problemset/problem/2107/E): binary search constructive algorithms greedy math trees
+* [Apple Tree Traversing](https://codeforces.com/problemset/problem/2107/D): brute force dfs and similar greedy implementation trees
+* [Maximum Subarray Sum](https://codeforces.com/problemset/problem/2107/C): binary search constructive algorithms dp implementation math
+* [Apples in Boxes](https://codeforces.com/problemset/problem/2107/B): games greedy math
+* [LRC and VIP](https://codeforces.com/problemset/problem/2107/A): greedy number theory
 * [Baudelaire (hard version)](https://codeforces.com/problemset/problem/2106/G2): binary search dfs and similar divide and conquer implementation interactive trees
 * [Baudelaire (easy version)](https://codeforces.com/problemset/problem/2106/G1): binary search constructive algorithms divide and conquer greedy interactive trees
 * [Goblin](https://codeforces.com/problemset/problem/2106/F): dfs and similar dp dsu greedy math
@@ -10235,10 +10248,10 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Dr. TC](https://codeforces.com/problemset/problem/2106/A): brute force math
 * [Modulo 3](https://codeforces.com/problemset/problem/2104/G): data structures divide and conquer dsu graphs trees
 * [Numbers and Strings](https://codeforces.com/problemset/problem/2104/F): binary search brute force dfs and similar dp implementation math
-* [Unpleasant Strings](https://codeforces.com/problemset/problem/2104/E): binary search data structures dp greedy strings
+* [Unpleasant Strings](https://codeforces.com/problemset/problem/2104/E): binary search dp greedy strings
 * [Array and GCD](https://codeforces.com/problemset/problem/2104/D): binary search greedy math number theory
-* [Card Game](https://codeforces.com/problemset/problem/2104/C): brute force games greedy math
-* [Move to the End](https://codeforces.com/problemset/problem/2104/B): brute force data structures dp greedy
+* [Card Game](https://codeforces.com/problemset/problem/2104/C): brute force constructive algorithms games greedy math
+* [Move to the End](https://codeforces.com/problemset/problem/2104/B): brute force data structures dp greedy implementation
 * [Three Decks](https://codeforces.com/problemset/problem/2104/A): math
 * [Maximize Nor](https://codeforces.com/problemset/problem/2103/F): bitmasks data structures dp implementation sortings
 * [Keep the Sum](https://codeforces.com/problemset/problem/2103/E): constructive algorithms implementation two pointers
@@ -10251,7 +10264,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Lost Luggage](https://codeforces.com/problemset/problem/2097/F): dp flows
 * [Clearing the Snowdrift](https://codeforces.com/problemset/problem/2097/E): data structures dfs and similar dp greedy
 * [Homework](https://codeforces.com/problemset/problem/2097/D): bitmasks math matrices
-* [Bermuda Triangle](https://codeforces.com/problemset/problem/2097/C): chinese remainder theorem geometry math number theory
+* [Bermuda Triangle](https://codeforces.com/problemset/problem/2097/C): chinese remainder theorem geometry implementation math number theory
 * [Baggage Claim](https://codeforces.com/problemset/problem/2097/B): combinatorics dfs and similar dp dsu graphs implementation math trees
 * [Sports Betting](https://codeforces.com/problemset/problem/2097/A): 2-sat brute force math sortings
 * [Premiere at a Wrong Time](https://codeforces.com/problemset/problem/2095/J): *special
