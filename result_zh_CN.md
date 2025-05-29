@@ -10275,6 +10275,19 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Build an Array](https://codeforces.com/problemset/problem/2114/G): constructive algorithms dp greedy math number theory
+* [Small Operations](https://codeforces.com/problemset/problem/2114/F): binary search brute force dfs and similar dp math number theory sortings
+* [Kirei Attacks the Estate](https://codeforces.com/problemset/problem/2114/E): dfs and similar dp trees
+* [Come a Little Closer](https://codeforces.com/problemset/problem/2114/D): brute force greedy implementation math
+* [Need More Arrays](https://codeforces.com/problemset/problem/2114/C): greedy greedy
+* [Not Quite a Palindromic String](https://codeforces.com/problemset/problem/2114/B): greedy greedy math math
+* [Square Year](https://codeforces.com/problemset/problem/2114/A): binary search brute force math
+* [Faculty](https://codeforces.com/problemset/problem/2110/F): brute force math number theory
+* [Melody](https://codeforces.com/problemset/problem/2110/E): dfs and similar graphs implementation
+* [Fewer Batteries](https://codeforces.com/problemset/problem/2110/D): binary search dfs and similar dp graphs greedy
+* [Racing](https://codeforces.com/problemset/problem/2110/C): constructive algorithms greedy
+* [Down with Brackets](https://codeforces.com/problemset/problem/2110/B): strings
+* [Fashionable Array](https://codeforces.com/problemset/problem/2110/A): implementation sortings
 * [Penguin Steps](https://codeforces.com/problemset/problem/2109/F): binary search dfs and similar flows graphs shortest paths
 * [Binary String Wowee](https://codeforces.com/problemset/problem/2109/E): combinatorics dp strings
 * [D/D/D](https://codeforces.com/problemset/problem/2109/D): dfs and similar graphs greedy shortest paths
