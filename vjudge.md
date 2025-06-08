@@ -10296,15 +10296,22 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-[problem:CodeForces-2116B] greedy
-[problem:CodeForces-2116A] greedy
+[problem:CodeForces-2116B] greedy, math, sortings
+[problem:CodeForces-2116A] games, greedy
 [problem:CodeForces-2115F2] data structures
 [problem:CodeForces-2115F1] data structures
 [problem:CodeForces-2115E] dp, graphs
-[problem:CodeForces-2115D] bitmasks, math
-[problem:CodeForces-2115C] combinatorics, dp, math, probabilities
-[problem:CodeForces-2115B] constructive algorithms, dfs and similar, dp, graphs, greedy
-[problem:CodeForces-2115A] brute force, constructive algorithms, dp, greedy, math, number theory, shortest paths
+[problem:CodeForces-2115D] bitmasks, dp, games, greedy, math
+[problem:CodeForces-2115C] combinatorics, dp, greedy, math, probabilities
+[problem:CodeForces-2115B] brute force, constructive algorithms, dfs and similar, dp, graphs, greedy, trees
+[problem:CodeForces-2115A] constructive algorithms, dp, math, number theory
+[problem:CodeForces-2111G] binary search, bitmasks, brute force, data structures, interactive
+[problem:CodeForces-2111F] brute force, constructive algorithms, greedy, math
+[problem:CodeForces-2111E] binary search, data structures, greedy, implementation, sortings, strings
+[problem:CodeForces-2111D] constructive algorithms, data structures, greedy, implementation, sortings
+[problem:CodeForces-2111C] brute force, greedy, two pointers
+[problem:CodeForces-2111B] brute force, dp, implementation, math
+[problem:CodeForces-2111A] greedy, implementation, math
 [problem:CodeForces-2095J] *special
 [problem:CodeForces-2095I] *special, expression parsing, number theory
 [problem:CodeForces-2095H] *special, fft, math

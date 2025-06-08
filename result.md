@@ -10296,15 +10296,22 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Gellyfish and Baby's Breath](https://codeforces.com/problemset/problem/2116/B): greedy
-* [Gellyfish and Tricolor Pansy](https://codeforces.com/problemset/problem/2116/A): greedy
+* [Gellyfish and Baby's Breath](https://codeforces.com/problemset/problem/2116/B): greedy math sortings
+* [Gellyfish and Tricolor Pansy](https://codeforces.com/problemset/problem/2116/A): games greedy
 * [Gellyfish and Lycoris Radiata (Hard Version)](https://codeforces.com/problemset/problem/2115/F2): data structures
 * [Gellyfish and Lycoris Radiata (Easy Version)](https://codeforces.com/problemset/problem/2115/F1): data structures
 * [Gellyfish and Mayflower](https://codeforces.com/problemset/problem/2115/E): dp graphs
-* [Gellyfish and Forget-Me-Not](https://codeforces.com/problemset/problem/2115/D): bitmasks math
-* [Gellyfish and Eternal Violet](https://codeforces.com/problemset/problem/2115/C): combinatorics dp math probabilities
-* [Gellyfish and Camellia Japonica](https://codeforces.com/problemset/problem/2115/B): constructive algorithms dfs and similar dp graphs greedy
-* [Gellyfish and Flaming Peony](https://codeforces.com/problemset/problem/2115/A): brute force constructive algorithms dp greedy math number theory shortest paths
+* [Gellyfish and Forget-Me-Not](https://codeforces.com/problemset/problem/2115/D): bitmasks dp games greedy math
+* [Gellyfish and Eternal Violet](https://codeforces.com/problemset/problem/2115/C): combinatorics dp greedy math probabilities
+* [Gellyfish and Camellia Japonica](https://codeforces.com/problemset/problem/2115/B): brute force constructive algorithms dfs and similar dp graphs greedy trees
+* [Gellyfish and Flaming Peony](https://codeforces.com/problemset/problem/2115/A): constructive algorithms dp math number theory
+* [Divisible Subarrays](https://codeforces.com/problemset/problem/2111/G): binary search bitmasks brute force data structures interactive
+* [Puzzle](https://codeforces.com/problemset/problem/2111/F): brute force constructive algorithms greedy math
+* [Changing the String](https://codeforces.com/problemset/problem/2111/E): binary search data structures greedy implementation sortings strings
+* [Creating a Schedule](https://codeforces.com/problemset/problem/2111/D): constructive algorithms data structures greedy implementation sortings
+* [Equal Values](https://codeforces.com/problemset/problem/2111/C): brute force greedy two pointers
+* [Fibonacci Cubes](https://codeforces.com/problemset/problem/2111/B): brute force dp implementation math
+* [Energy Crystals](https://codeforces.com/problemset/problem/2111/A): greedy implementation math
 * [Premiere at a Wrong Time](https://codeforces.com/problemset/problem/2095/J): *special
 * [Mysterious Script](https://codeforces.com/problemset/problem/2095/I): *special expression parsing number theory
 * [Blurry Vision](https://codeforces.com/problemset/problem/2095/H): *special fft math
