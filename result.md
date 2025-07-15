@@ -10362,21 +10362,21 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## Unrated
 
 * [Lexicographic Partition](https://codeforces.com/problemset/problem/2124/I): constructive algorithms math trees
-* [Longest Good Subsequence](https://codeforces.com/problemset/problem/2124/H): dp math
+* [Longest Good Subsequence](https://codeforces.com/problemset/problem/2124/H): dp math trees
 * [Maximise Sum](https://codeforces.com/problemset/problem/2124/G): binary search data structures
 * [Appending Permutations (Hard Version)](https://codeforces.com/problemset/problem/2124/F2): combinatorics dp
 * [Appending Permutations (Easy Version)](https://codeforces.com/problemset/problem/2124/F1): combinatorics dp
 * [Make it Zero](https://codeforces.com/problemset/problem/2124/E): constructive algorithms greedy math
-* [Make a Palindrome](https://codeforces.com/problemset/problem/2124/D): expression parsing greedy sortings
-* [Subset Multiplication](https://codeforces.com/problemset/problem/2124/C): constructive algorithms math number theory
+* [Make a Palindrome](https://codeforces.com/problemset/problem/2124/D): greedy sortings two pointers
+* [Subset Multiplication](https://codeforces.com/problemset/problem/2124/C): constructive algorithms greedy math number theory
 * [Minimise Sum](https://codeforces.com/problemset/problem/2124/B): greedy
-* [Deranged Deletions](https://codeforces.com/problemset/problem/2124/A): constructive algorithms sortings
+* [Deranged Deletions](https://codeforces.com/problemset/problem/2124/A): greedy sortings
 * [Volcanic Eruptions](https://codeforces.com/problemset/problem/2119/F): dfs and similar dp greedy shortest paths trees
 * [And Constraint](https://codeforces.com/problemset/problem/2119/E): bitmasks dp greedy
 * [Token Removing](https://codeforces.com/problemset/problem/2119/D): combinatorics dp math
 * [A Good Problem](https://codeforces.com/problemset/problem/2119/C): bitmasks constructive algorithms math
 * [Line Segments](https://codeforces.com/problemset/problem/2119/B): geometry greedy math
-* [Add or XOR](https://codeforces.com/problemset/problem/2119/A): greedy math
+* [Add or XOR](https://codeforces.com/problemset/problem/2119/A): bitmasks greedy math
 * [Premiere at a Wrong Time](https://codeforces.com/problemset/problem/2095/J): *special
 * [Mysterious Script](https://codeforces.com/problemset/problem/2095/I): *special expression parsing number theory
 * [Blurry Vision](https://codeforces.com/problemset/problem/2095/H): *special fft math

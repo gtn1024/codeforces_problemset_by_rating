@@ -10362,21 +10362,21 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 ## Unrated
 
 [problem:CodeForces-2124I] constructive algorithms, math, trees
-[problem:CodeForces-2124H] dp, math
+[problem:CodeForces-2124H] dp, math, trees
 [problem:CodeForces-2124G] binary search, data structures
 [problem:CodeForces-2124F2] combinatorics, dp
 [problem:CodeForces-2124F1] combinatorics, dp
 [problem:CodeForces-2124E] constructive algorithms, greedy, math
-[problem:CodeForces-2124D] expression parsing, greedy, sortings
-[problem:CodeForces-2124C] constructive algorithms, math, number theory
+[problem:CodeForces-2124D] greedy, sortings, two pointers
+[problem:CodeForces-2124C] constructive algorithms, greedy, math, number theory
 [problem:CodeForces-2124B] greedy
-[problem:CodeForces-2124A] constructive algorithms, sortings
+[problem:CodeForces-2124A] greedy, sortings
 [problem:CodeForces-2119F] dfs and similar, dp, greedy, shortest paths, trees
 [problem:CodeForces-2119E] bitmasks, dp, greedy
 [problem:CodeForces-2119D] combinatorics, dp, math
 [problem:CodeForces-2119C] bitmasks, constructive algorithms, math
 [problem:CodeForces-2119B] geometry, greedy, math
-[problem:CodeForces-2119A] greedy, math
+[problem:CodeForces-2119A] bitmasks, greedy, math
 [problem:CodeForces-2095J] *special
 [problem:CodeForces-2095I] *special, expression parsing, number theory
 [problem:CodeForces-2095H] *special, fft, math
