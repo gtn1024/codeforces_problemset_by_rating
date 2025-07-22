@@ -10361,6 +10361,14 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Big Wins!  (hard version)](https://codeforces.com/problemset/problem/2126/G2): binary search data structures divide and conquer dsu trees two pointers
+* [Big Wins! (easy version)](https://codeforces.com/problemset/problem/2126/G1): binary search data structures dp dsu two pointers
+* [1-1-1, Free Tree!](https://codeforces.com/problemset/problem/2126/F): brute force data structures dfs and similar graphs implementation trees
+* [G-C-D, Unlucky!](https://codeforces.com/problemset/problem/2126/E): math number theory
+* [This Is the Last Time](https://codeforces.com/problemset/problem/2126/D): data structures greedy sortings
+* [I Will Definitely Make It](https://codeforces.com/problemset/problem/2126/C): greedy sortings
+* [No Casino in the Mountains](https://codeforces.com/problemset/problem/2126/B): dp greedy
+* [Only One Digit](https://codeforces.com/problemset/problem/2126/A): brute force implementation math
 * [Lexicographic Partition](https://codeforces.com/problemset/problem/2124/I): constructive algorithms math trees
 * [Longest Good Subsequence](https://codeforces.com/problemset/problem/2124/H): dp math trees
 * [Maximise Sum](https://codeforces.com/problemset/problem/2124/G): binary search data structures
@@ -10371,6 +10379,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Subset Multiplication](https://codeforces.com/problemset/problem/2124/C): constructive algorithms greedy math number theory
 * [Minimise Sum](https://codeforces.com/problemset/problem/2124/B): greedy
 * [Deranged Deletions](https://codeforces.com/problemset/problem/2124/A): greedy sortings
+* [Tree Parking](https://codeforces.com/problemset/problem/2122/G): combinatorics fft math trees
+* [Colorful Polygon](https://codeforces.com/problemset/problem/2122/F): constructive algorithms divide and conquer geometry
+* [Greedy Grid Counting](https://codeforces.com/problemset/problem/2122/E): combinatorics dp greedy math
+* [Traffic Lights](https://codeforces.com/problemset/problem/2122/D): brute force data structures divide and conquer dp graphs shortest paths
+* [Manhattan Pairs](https://codeforces.com/problemset/problem/2122/C): constructive algorithms geometry greedy math sortings
+* [Pile Shuffling](https://codeforces.com/problemset/problem/2122/B): greedy math
+* [Greedy Grid](https://codeforces.com/problemset/problem/2122/A): constructive algorithms greedy
 * [Volcanic Eruptions](https://codeforces.com/problemset/problem/2119/F): dfs and similar dp greedy shortest paths trees
 * [And Constraint](https://codeforces.com/problemset/problem/2119/E): bitmasks dp greedy
 * [Token Removing](https://codeforces.com/problemset/problem/2119/D): combinatorics dp math
