@@ -10385,11 +10385,22 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Strict Triangle](https://codeforces.com/problemset/problem/2128/F): graphs shortest paths
+* [Pathless](https://codeforces.com/problemset/problem/2130/B)
+* [Submission is All You Need](https://codeforces.com/problemset/problem/2130/A): greedy math
+* [Top-K Tracker (Hard Version)](https://codeforces.com/problemset/problem/2129/F2): interactive interactive
+* [Top-K Tracker (Easy Version)](https://codeforces.com/problemset/problem/2129/F1): interactive
+* [Induced Subgraph Queries](https://codeforces.com/problemset/problem/2129/E): data structures graphs sortings
+* [Permutation Blackhole](https://codeforces.com/problemset/problem/2129/D): combinatorics dp
+* [Interactive RBS (Hard Version)](https://codeforces.com/problemset/problem/2129/C3): binary search bitmasks constructive algorithms dp interactive
+* [Interactive RBS (Medium Version)](https://codeforces.com/problemset/problem/2129/C2): binary search bitmasks interactive
+* [Interactive RBS (Easy Version)](https://codeforces.com/problemset/problem/2129/C1): binary search interactive
+* [Stay or Mirror](https://codeforces.com/problemset/problem/2129/B): data structures greedy
+* [Double Perspective](https://codeforces.com/problemset/problem/2129/A): constructive algorithms dfs and similar dp dsu greedy math
+* [Strict Triangle](https://codeforces.com/problemset/problem/2128/F): graphs greedy shortest paths
 * [Submedians (Hard Version)](https://codeforces.com/problemset/problem/2128/E2): binary search constructive algorithms data structures two pointers
-* [Submedians (Easy Version)](https://codeforces.com/problemset/problem/2128/E1): binary search data structures dp greedy
-* [Sum of LDS](https://codeforces.com/problemset/problem/2128/D): combinatorics dp greedy math
-* [Leftmost Below](https://codeforces.com/problemset/problem/2128/C): greedy
+* [Submedians (Easy Version)](https://codeforces.com/problemset/problem/2128/E1): binary search data structures dp greedy math
+* [Sum of LDS](https://codeforces.com/problemset/problem/2128/D): brute force combinatorics dp greedy math
+* [Leftmost Below](https://codeforces.com/problemset/problem/2128/C): greedy math
 * [Deque Process](https://codeforces.com/problemset/problem/2128/B): constructive algorithms greedy sortings two pointers
 * [Recycling Center](https://codeforces.com/problemset/problem/2128/A): greedy sortings
 * [Timofey and Docker](https://codeforces.com/problemset/problem/2125/F): binary search divide and conquer dp

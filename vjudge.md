@@ -10385,11 +10385,22 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-[problem:CodeForces-2128F] graphs, shortest paths
+[problem:CodeForces-2130B]
+[problem:CodeForces-2130A] greedy, math
+[problem:CodeForces-2129F2] interactive, interactive
+[problem:CodeForces-2129F1] interactive
+[problem:CodeForces-2129E] data structures, graphs, sortings
+[problem:CodeForces-2129D] combinatorics, dp
+[problem:CodeForces-2129C3] binary search, bitmasks, constructive algorithms, dp, interactive
+[problem:CodeForces-2129C2] binary search, bitmasks, interactive
+[problem:CodeForces-2129C1] binary search, interactive
+[problem:CodeForces-2129B] data structures, greedy
+[problem:CodeForces-2129A] constructive algorithms, dfs and similar, dp, dsu, greedy, math
+[problem:CodeForces-2128F] graphs, greedy, shortest paths
 [problem:CodeForces-2128E2] binary search, constructive algorithms, data structures, two pointers
-[problem:CodeForces-2128E1] binary search, data structures, dp, greedy
-[problem:CodeForces-2128D] combinatorics, dp, greedy, math
-[problem:CodeForces-2128C] greedy
+[problem:CodeForces-2128E1] binary search, data structures, dp, greedy, math
+[problem:CodeForces-2128D] brute force, combinatorics, dp, greedy, math
+[problem:CodeForces-2128C] greedy, math
 [problem:CodeForces-2128B] constructive algorithms, greedy, sortings, two pointers
 [problem:CodeForces-2128A] greedy, sortings
 [problem:CodeForces-2125F] binary search, divide and conquer, dp
