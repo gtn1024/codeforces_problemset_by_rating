@@ -7223,7 +7223,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2300
 
-* [Power Boxes](https://codeforces.com/problemset/problem/2134/E): constructive algorithms implementation interactive
+* [Power Boxes](https://codeforces.com/problemset/problem/2134/E): constructive algorithms dp implementation interactive
 * [Sliding Tree](https://codeforces.com/problemset/problem/2134/D): constructive algorithms dfs and similar greedy implementation trees
 * [Interactive RBS (Hard Version)](https://codeforces.com/problemset/problem/2129/C3): binary search bitmasks constructive algorithms dp interactive
 * [Appending Permutations (Easy Version)](https://codeforces.com/problemset/problem/2124/F1): combinatorics dp
@@ -10453,14 +10453,21 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Cry Me a River](https://codeforces.com/problemset/problem/2137/G): dfs and similar dp games graphs
+* [Prefix Maximum Invariance](https://codeforces.com/problemset/problem/2137/F): binary search data structures sortings
+* [Mexification](https://codeforces.com/problemset/problem/2137/E): implementation math
+* [Replace with Occurrences](https://codeforces.com/problemset/problem/2137/D): constructive algorithms
+* [Maximum Even Sum](https://codeforces.com/problemset/problem/2137/C): brute force greedy implementation math
+* [Fun Permutation](https://codeforces.com/problemset/problem/2137/B): constructive algorithms math number theory
+* [Collatz Conjecture](https://codeforces.com/problemset/problem/2137/A): constructive algorithms math
 * [Like the Bitset](https://codeforces.com/problemset/problem/2136/B): constructive algorithms greedy two pointers
 * [In the Dream](https://codeforces.com/problemset/problem/2136/A): greedy math
 * [To the Infinity](https://codeforces.com/problemset/problem/2135/F): data structures hashing math trees
 * [Beyond the Palindrome (Hard Version)](https://codeforces.com/problemset/problem/2135/E2): combinatorics dp math number theory
 * [Beyond the Palindrome (Easy Version)](https://codeforces.com/problemset/problem/2135/E1): combinatorics dp math
-* [From the Unknown (Hard Version)](https://codeforces.com/problemset/problem/2135/D2): binary search brute force constructive algorithms divide and conquer interactive math probabilities
+* [From the Unknown (Hard Version)](https://codeforces.com/problemset/problem/2135/D2): brute force constructive algorithms interactive math
 * [From the Unknown (Easy Version)](https://codeforces.com/problemset/problem/2135/D1): constructive algorithms interactive math
-* [By the Assignment](https://codeforces.com/problemset/problem/2135/C): bitmasks dfs and similar dsu graphs
+* [By the Assignment](https://codeforces.com/problemset/problem/2135/C): binary search bitmasks combinatorics dfs and similar dsu graphs math
 * [For the Champion](https://codeforces.com/problemset/problem/2135/B): constructive algorithms interactive math
 * [Against the Difference](https://codeforces.com/problemset/problem/2135/A): data structures dp
 * [Premiere at a Wrong Time](https://codeforces.com/problemset/problem/2095/J): *special
