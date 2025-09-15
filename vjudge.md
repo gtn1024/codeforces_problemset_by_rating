@@ -10453,9 +10453,42 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2148G] binary search, brute force, data structures, math, number theory
+[problem:CodeForces-2148F] greedy, implementation, sortings
+[problem:CodeForces-2148E] binary search, data structures, two pointers
+[problem:CodeForces-2148D] greedy, sortings
+[problem:CodeForces-2148C] greedy, math
+[problem:CodeForces-2148B] geometry
+[problem:CodeForces-2148A] brute force, math
+[problem:CodeForces-2141I] *special
+[problem:CodeForces-2141H] *special, dfs and similar, dsu, graphs
+[problem:CodeForces-2141G] *special, data structures, geometry, sortings
+[problem:CodeForces-2141F] *special, greedy
+[problem:CodeForces-2141E] *special, dp, greedy
+[problem:CodeForces-2141D] *special, greedy, math
+[problem:CodeForces-2141C] *special, brute force
+[problem:CodeForces-2141B] *special, greedy
+[problem:CodeForces-2141A] *special, implementation
+[problem:CodeForces-2140F] number theory
+[problem:CodeForces-2140E2] bitmasks, combinatorics, dp, probabilities
+[problem:CodeForces-2140E1] bitmasks, combinatorics, dp
+[problem:CodeForces-2140D] data structures, greedy, sortings
+[problem:CodeForces-2140C] data structures, games, greedy
+[problem:CodeForces-2140B] constructive algorithms, math, number theory
+[problem:CodeForces-2140A] greedy, sortings
+[problem:CodeForces-2139B] greedy
+[problem:CodeForces-2139A] greedy, math
+[problem:CodeForces-2138F] constructive algorithms, geometry
+[problem:CodeForces-2138E2] brute force, constructive algorithms, math, matrices, number theory
+[problem:CodeForces-2138E1] brute force, constructive algorithms, math, matrices, number theory
+[problem:CodeForces-2138D] brute force, combinatorics, implementation, math, sortings
+[problem:CodeForces-2138C2] bitmasks, brute force, dfs and similar, dp, fft, trees
+[problem:CodeForces-2138C1] brute force, dfs and similar, dp, graphs, trees
+[problem:CodeForces-2138B] data structures, greedy, two pointers
+[problem:CodeForces-2138A] bitmasks, constructive algorithms, greedy
 [problem:CodeForces-2137G] dfs and similar, dp, games, graphs
-[problem:CodeForces-2137F] binary search, data structures, sortings
-[problem:CodeForces-2137E] implementation, math
+[problem:CodeForces-2137F] binary search, combinatorics, data structures, sortings
+[problem:CodeForces-2137E] brute force, implementation, math
 [problem:CodeForces-2137D] constructive algorithms
 [problem:CodeForces-2137C] brute force, greedy, implementation, math
 [problem:CodeForces-2137B] constructive algorithms, math, number theory
