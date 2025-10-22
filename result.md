@@ -10573,6 +10573,14 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Beautiful Problem](https://codeforces.com/problemset/problem/2162/H): dp
+* [Beautiful Tree](https://codeforces.com/problemset/problem/2162/G): constructive algorithms math probabilities trees
+* [Beautiful Intervals](https://codeforces.com/problemset/problem/2162/F): constructive algorithms greedy
+* [Beautiful Palindromes](https://codeforces.com/problemset/problem/2162/E): constructive algorithms greedy schedules
+* [Beautiful Permutation](https://codeforces.com/problemset/problem/2162/D): binary search interactive
+* [Beautiful XOR](https://codeforces.com/problemset/problem/2162/C): bitmasks constructive algorithms greedy
+* [Beautiful String](https://codeforces.com/problemset/problem/2162/B): brute force constructive algorithms
+* [Beautiful Average](https://codeforces.com/problemset/problem/2162/A): brute force greedy
 * [Reverse XOR](https://codeforces.com/problemset/problem/2160/C): bitmasks
 * [Distinct Elements](https://codeforces.com/problemset/problem/2160/B): greedy math
 * [MEX Partition](https://codeforces.com/problemset/problem/2160/A): math
@@ -10580,9 +10588,17 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Super-Short-Polynomial-San](https://codeforces.com/problemset/problem/2159/E): math meet-in-the-middle
 * [Inverse Minimum Partition (Hard Version)](https://codeforces.com/problemset/problem/2159/D2): dp greedy math
 * [Inverse Minimum Partition (Easy Version)](https://codeforces.com/problemset/problem/2159/D1): binary search brute force dp geometry greedy math two pointers
-* [Twin Polynomials](https://codeforces.com/problemset/problem/2159/C): combinatorics graph matchings graphs math
-* [Rectangles](https://codeforces.com/problemset/problem/2159/B): data structures dp dsu greedy implementation two pointers
+* [Twin Polynomials](https://codeforces.com/problemset/problem/2159/C): combinatorics graph matchings math
+* [Rectangles](https://codeforces.com/problemset/problem/2159/B): brute force data structures dp dsu greedy implementation two pointers
 * [MAD Interactive Problem](https://codeforces.com/problemset/problem/2159/A): constructive algorithms implementation interactive
+* [Bombing (Hard Version)](https://codeforces.com/problemset/problem/2154/F2): combinatorics dp
+* [Bombing (Easy Version)](https://codeforces.com/problemset/problem/2154/F1): brute force combinatorics constructive algorithms greedy
+* [No Mind To Think](https://codeforces.com/problemset/problem/2154/E): binary search greedy sortings ternary search two pointers
+* [Catshock](https://codeforces.com/problemset/problem/2154/D): constructive algorithms dfs and similar graphs trees
+* [No Cost Too Great (Hard Version)](https://codeforces.com/problemset/problem/2154/C2): greedy math number theory
+* [No Cost Too Great (Easy Version)](https://codeforces.com/problemset/problem/2154/C1): greedy implementation math number theory
+* [Make it Zigzag](https://codeforces.com/problemset/problem/2154/B): constructive algorithms greedy
+* [Notelock](https://codeforces.com/problemset/problem/2154/A): greedy two pointers
 * [Odd Queries on Odd Array](https://codeforces.com/problemset/problem/2153/F): bitmasks brute force data structures implementation trees
 * [Zero Trailing Factorial](https://codeforces.com/problemset/problem/2153/E): brute force math number theory
 * [Not Alone](https://codeforces.com/problemset/problem/2153/D): dp greedy

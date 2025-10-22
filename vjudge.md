@@ -10573,6 +10573,14 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2162H] dp
+[problem:CodeForces-2162G] constructive algorithms, math, probabilities, trees
+[problem:CodeForces-2162F] constructive algorithms, greedy
+[problem:CodeForces-2162E] constructive algorithms, greedy, schedules
+[problem:CodeForces-2162D] binary search, interactive
+[problem:CodeForces-2162C] bitmasks, constructive algorithms, greedy
+[problem:CodeForces-2162B] brute force, constructive algorithms
+[problem:CodeForces-2162A] brute force, greedy
 [problem:CodeForces-2160C] bitmasks
 [problem:CodeForces-2160B] greedy, math
 [problem:CodeForces-2160A] math
@@ -10580,9 +10588,17 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2159E] math, meet-in-the-middle
 [problem:CodeForces-2159D2] dp, greedy, math
 [problem:CodeForces-2159D1] binary search, brute force, dp, geometry, greedy, math, two pointers
-[problem:CodeForces-2159C] combinatorics, graph matchings, graphs, math
-[problem:CodeForces-2159B] data structures, dp, dsu, greedy, implementation, two pointers
+[problem:CodeForces-2159C] combinatorics, graph matchings, math
+[problem:CodeForces-2159B] brute force, data structures, dp, dsu, greedy, implementation, two pointers
 [problem:CodeForces-2159A] constructive algorithms, implementation, interactive
+[problem:CodeForces-2154F2] combinatorics, dp
+[problem:CodeForces-2154F1] brute force, combinatorics, constructive algorithms, greedy
+[problem:CodeForces-2154E] binary search, greedy, sortings, ternary search, two pointers
+[problem:CodeForces-2154D] constructive algorithms, dfs and similar, graphs, trees
+[problem:CodeForces-2154C2] greedy, math, number theory
+[problem:CodeForces-2154C1] greedy, implementation, math, number theory
+[problem:CodeForces-2154B] constructive algorithms, greedy
+[problem:CodeForces-2154A] greedy, two pointers
 [problem:CodeForces-2153F] bitmasks, brute force, data structures, implementation, trees
 [problem:CodeForces-2153E] brute force, math, number theory
 [problem:CodeForces-2153D] dp, greedy
