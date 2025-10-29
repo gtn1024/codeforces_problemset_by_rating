@@ -10573,6 +10573,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2167G] data structures, dp
+[problem:CodeForces-2167F] data structures, dp, trees
+[problem:CodeForces-2167E] binary search, data structures, geometry, implementation, math
+[problem:CodeForces-2167D] brute force, math, number theory
+[problem:CodeForces-2167C] constructive algorithms, greedy, implementation, sortings
+[problem:CodeForces-2167B] sortings, strings
+[problem:CodeForces-2167A] math
 [problem:CodeForces-2162H] dp
 [problem:CodeForces-2162G] constructive algorithms, math, probabilities, trees
 [problem:CodeForces-2162F] constructive algorithms, greedy
@@ -10591,10 +10598,17 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2159C] combinatorics, graph matchings, math
 [problem:CodeForces-2159B] brute force, data structures, dp, dsu, greedy, implementation, two pointers
 [problem:CodeForces-2159A] constructive algorithms, implementation, interactive
+[problem:CodeForces-2156F2] data structures, greedy, trees
+[problem:CodeForces-2156F1] brute force, data structures, greedy, implementation
+[problem:CodeForces-2156E] binary search, brute force, data structures, games, graphs, greedy
+[problem:CodeForces-2156D] bitmasks, constructive algorithms, interactive
+[problem:CodeForces-2156C] greedy, math, number theory
+[problem:CodeForces-2156B] binary search, brute force, greedy, implementation
+[problem:CodeForces-2156A] brute force, constructive algorithms, greedy
 [problem:CodeForces-2154F2] combinatorics, dp
-[problem:CodeForces-2154F1] brute force, combinatorics, constructive algorithms, greedy
-[problem:CodeForces-2154E] binary search, greedy, sortings, ternary search, two pointers
-[problem:CodeForces-2154D] constructive algorithms, dfs and similar, graphs, trees
+[problem:CodeForces-2154F1] brute force, combinatorics, constructive algorithms, implementation, math
+[problem:CodeForces-2154E] binary search, divide and conquer, greedy, sortings, ternary search, two pointers
+[problem:CodeForces-2154D] constructive algorithms, dfs and similar, graphs, trees, two pointers
 [problem:CodeForces-2154C2] greedy, math, number theory
 [problem:CodeForces-2154C1] greedy, implementation, math, number theory
 [problem:CodeForces-2154B] constructive algorithms, greedy
