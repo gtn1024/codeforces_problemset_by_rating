@@ -10605,16 +10605,29 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Intercepting Butterflies](https://codeforces.com/problemset/problem/2168/C): bitmasks constructive algorithms graphs interactive
+* [Locate](https://codeforces.com/problemset/problem/2168/B): binary search constructive algorithms greedy interactive
+* [Encode and Decode (Hard Version)](https://codeforces.com/problemset/problem/2168/A2): bitmasks interactive math
+* [Encode and Decode (Easy Version)](https://codeforces.com/problemset/problem/2168/A1): constructive algorithms interactive
 * [Mukhammadali and the Smooth Array](https://codeforces.com/problemset/problem/2167/G): data structures dp
-* [Tree, TREE!!!](https://codeforces.com/problemset/problem/2167/F): data structures dfs and similar dp trees
-* [khba Loves to Sleep!](https://codeforces.com/problemset/problem/2167/E): binary search data structures geometry implementation math
-* [Yet Another Array Problem](https://codeforces.com/problemset/problem/2167/D): brute force math number theory
+* [Tree, TREE!!!](https://codeforces.com/problemset/problem/2167/F): dfs and similar dp math trees
+* [khba Loves to Sleep!](https://codeforces.com/problemset/problem/2167/E): binary search data structures geometry greedy implementation
+* [Yet Another Array Problem](https://codeforces.com/problemset/problem/2167/D): brute force implementation math number theory
 * [Isamatdin and His Magic Wand!](https://codeforces.com/problemset/problem/2167/C): constructive algorithms greedy implementation sortings
 * [Your Name](https://codeforces.com/problemset/problem/2167/B): sortings strings
-* [Square?](https://codeforces.com/problemset/problem/2167/A): math
-* [Cycle Sort](https://codeforces.com/problemset/problem/2161/H)
-* [Bitwise And Equals](https://codeforces.com/problemset/problem/2161/G): bitmasks
-* [SubMST](https://codeforces.com/problemset/problem/2161/F): combinatorics dfs and similar graphs trees
+* [Square?](https://codeforces.com/problemset/problem/2167/A): math sortings
+* [PalindromePalindrome](https://codeforces.com/problemset/problem/2164/H): data structures strings
+* [Pointless Machine](https://codeforces.com/problemset/problem/2164/G): interactive
+* [Chain Prefix Rank (Hard Version)](https://codeforces.com/problemset/problem/2164/F2): combinatorics data structures dp graphs math
+* [Chain Prefix Rank (Easy Version)](https://codeforces.com/problemset/problem/2164/F1): combinatorics dfs and similar dp graphs math
+* [Journey](https://codeforces.com/problemset/problem/2164/E): dfs and similar dsu graphs greedy
+* [Copy String](https://codeforces.com/problemset/problem/2164/D): binary search dp greedy implementation strings two pointers
+* [Dungeon](https://codeforces.com/problemset/problem/2164/C): binary search brute force data structures greedy sortings
+* [Even Modulo Pair](https://codeforces.com/problemset/problem/2164/B): brute force number theory probabilities
+* [Sequence Game](https://codeforces.com/problemset/problem/2164/A): brute force greedy
+* [Cycle Sort](https://codeforces.com/problemset/problem/2161/H): data structures
+* [Bitwise And Equals](https://codeforces.com/problemset/problem/2161/G): bitmasks greedy
+* [SubMST](https://codeforces.com/problemset/problem/2161/F): combinatorics graphs trees
 * [Left is Always Right](https://codeforces.com/problemset/problem/2161/E): combinatorics implementation math
 * [Locked Out](https://codeforces.com/problemset/problem/2161/D): binary search data structures dp greedy
 * [Loyalty](https://codeforces.com/problemset/problem/2161/C): constructive algorithms greedy sortings two pointers

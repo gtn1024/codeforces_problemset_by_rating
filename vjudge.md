@@ -10605,16 +10605,29 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2168C] bitmasks, constructive algorithms, graphs, interactive
+[problem:CodeForces-2168B] binary search, constructive algorithms, greedy, interactive
+[problem:CodeForces-2168A2] bitmasks, interactive, math
+[problem:CodeForces-2168A1] constructive algorithms, interactive
 [problem:CodeForces-2167G] data structures, dp
-[problem:CodeForces-2167F] data structures, dfs and similar, dp, trees
-[problem:CodeForces-2167E] binary search, data structures, geometry, implementation, math
-[problem:CodeForces-2167D] brute force, math, number theory
+[problem:CodeForces-2167F] dfs and similar, dp, math, trees
+[problem:CodeForces-2167E] binary search, data structures, geometry, greedy, implementation
+[problem:CodeForces-2167D] brute force, implementation, math, number theory
 [problem:CodeForces-2167C] constructive algorithms, greedy, implementation, sortings
 [problem:CodeForces-2167B] sortings, strings
-[problem:CodeForces-2167A] math
-[problem:CodeForces-2161H]
-[problem:CodeForces-2161G] bitmasks
-[problem:CodeForces-2161F] combinatorics, dfs and similar, graphs, trees
+[problem:CodeForces-2167A] math, sortings
+[problem:CodeForces-2164H] data structures, strings
+[problem:CodeForces-2164G] interactive
+[problem:CodeForces-2164F2] combinatorics, data structures, dp, graphs, math
+[problem:CodeForces-2164F1] combinatorics, dfs and similar, dp, graphs, math
+[problem:CodeForces-2164E] dfs and similar, dsu, graphs, greedy
+[problem:CodeForces-2164D] binary search, dp, greedy, implementation, strings, two pointers
+[problem:CodeForces-2164C] binary search, brute force, data structures, greedy, sortings
+[problem:CodeForces-2164B] brute force, number theory, probabilities
+[problem:CodeForces-2164A] brute force, greedy
+[problem:CodeForces-2161H] data structures
+[problem:CodeForces-2161G] bitmasks, greedy
+[problem:CodeForces-2161F] combinatorics, graphs, trees
 [problem:CodeForces-2161E] combinatorics, implementation, math
 [problem:CodeForces-2161D] binary search, data structures, dp, greedy
 [problem:CodeForces-2161C] constructive algorithms, greedy, sortings, two pointers
