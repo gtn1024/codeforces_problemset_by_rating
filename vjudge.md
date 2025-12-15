@@ -10689,18 +10689,24 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-[problem:CodeForces-2175B] math
+[problem:CodeForces-2176F] bitmasks, combinatorics, dp, math, number theory
+[problem:CodeForces-2176E] data structures, dfs and similar, dp, dsu, greedy, implementation, trees
+[problem:CodeForces-2176D] data structures, dp, graphs, sortings
+[problem:CodeForces-2176C] greedy, sortings
+[problem:CodeForces-2176B] bitmasks, greedy, strings
+[problem:CodeForces-2176A] greedy, implementation, math
+[problem:CodeForces-2175B] constructive algorithms, math
 [problem:CodeForces-2175A] implementation
-[problem:CodeForces-2174F] combinatorics, dp, fft, math, number theory, trees
-[problem:CodeForces-2174E2] chinese remainder theorem, interactive, math
+[problem:CodeForces-2174F] combinatorics, dp, fft, math, trees
+[problem:CodeForces-2174E2] binary search, chinese remainder theorem, dfs and similar, interactive, math
 [problem:CodeForces-2174E1] chinese remainder theorem, constructive algorithms, interactive, math
-[problem:CodeForces-2174D] data structures, greedy, trees
-[problem:CodeForces-2174C2] math, probabilities
-[problem:CodeForces-2174C1] math, probabilities
+[problem:CodeForces-2174D] data structures, dp, greedy, trees
+[problem:CodeForces-2174C2] combinatorics, math, probabilities
+[problem:CodeForces-2174C1] combinatorics, math, probabilities
 [problem:CodeForces-2174B] dp
 [problem:CodeForces-2174A] greedy, strings, two pointers
-[problem:CodeForces-2173F] binary search, data structures, divide and conquer, math
-[problem:CodeForces-2173E] greedy, interactive, probabilities, sortings
+[problem:CodeForces-2173F] binary search, brute force, data structures, divide and conquer, math
+[problem:CodeForces-2173E] constructive algorithms, greedy, interactive, probabilities, sortings
 [problem:CodeForces-2173D] bitmasks, brute force, dp, greedy, math
 [problem:CodeForces-2173C] brute force, constructive algorithms, greedy, number theory
 [problem:CodeForces-2173B] dp, greedy, math

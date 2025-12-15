@@ -10689,18 +10689,24 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [XOR Array](https://codeforces.com/problemset/problem/2175/B): math
+* [Omega Numbers](https://codeforces.com/problemset/problem/2176/F): bitmasks combinatorics dp math number theory
+* [Remove at the lowest cost](https://codeforces.com/problemset/problem/2176/E): data structures dfs and similar dp dsu greedy implementation trees
+* [Fibonacci Paths](https://codeforces.com/problemset/problem/2176/D): data structures dp graphs sortings
+* [Odd Process](https://codeforces.com/problemset/problem/2176/C): greedy sortings
+* [Optimal Shifts](https://codeforces.com/problemset/problem/2176/B): bitmasks greedy strings
+* [Operations with Inversions](https://codeforces.com/problemset/problem/2176/A): greedy implementation math
+* [XOR Array](https://codeforces.com/problemset/problem/2175/B): constructive algorithms math
 * [Little Fairy's Painting](https://codeforces.com/problemset/problem/2175/A): implementation
-* [Mosaic Tree](https://codeforces.com/problemset/problem/2174/F): combinatorics dp fft math number theory trees
-* [Game of Scientists (Version 2)](https://codeforces.com/problemset/problem/2174/E2): chinese remainder theorem interactive math
+* [Mosaic Tree](https://codeforces.com/problemset/problem/2174/F): combinatorics dp fft math trees
+* [Game of Scientists (Version 2)](https://codeforces.com/problemset/problem/2174/E2): binary search chinese remainder theorem dfs and similar interactive math
 * [Game of Scientists (Version 1)](https://codeforces.com/problemset/problem/2174/E1): chinese remainder theorem constructive algorithms interactive math
-* [Secret Message](https://codeforces.com/problemset/problem/2174/D): data structures greedy trees
-* [Beautiful Patterns (Hard Version)](https://codeforces.com/problemset/problem/2174/C2): math probabilities
-* [Beautiful Patterns (Easy Version)](https://codeforces.com/problemset/problem/2174/C1): math probabilities
+* [Secret Message](https://codeforces.com/problemset/problem/2174/D): data structures dp greedy trees
+* [Beautiful Patterns (Hard Version)](https://codeforces.com/problemset/problem/2174/C2): combinatorics math probabilities
+* [Beautiful Patterns (Easy Version)](https://codeforces.com/problemset/problem/2174/C1): combinatorics math probabilities
 * [Wishing Cards](https://codeforces.com/problemset/problem/2174/B): dp
 * [Needle in a Haystack](https://codeforces.com/problemset/problem/2174/A): greedy strings two pointers
-* [Isla's Memory Thresholds](https://codeforces.com/problemset/problem/2173/F): binary search data structures divide and conquer math
-* [Shiro's Mirror Duel](https://codeforces.com/problemset/problem/2173/E): greedy interactive probabilities sortings
+* [Isla's Memory Thresholds](https://codeforces.com/problemset/problem/2173/F): binary search brute force data structures divide and conquer math
+* [Shiro's Mirror Duel](https://codeforces.com/problemset/problem/2173/E): constructive algorithms greedy interactive probabilities sortings
 * [Taiga's Carry Chains](https://codeforces.com/problemset/problem/2173/D): bitmasks brute force dp greedy math
 * [Kanade's Perfect Multiples](https://codeforces.com/problemset/problem/2173/C): brute force constructive algorithms greedy number theory
 * [Niko's Tactical Cards](https://codeforces.com/problemset/problem/2173/B): dp greedy math
