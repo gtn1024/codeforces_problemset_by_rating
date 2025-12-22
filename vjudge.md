@@ -10689,6 +10689,29 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2181M] dp, strings
+[problem:CodeForces-2181L] math
+[problem:CodeForces-2181K]
+[problem:CodeForces-2181J] brute force, dp, math, probabilities
+[problem:CodeForces-2181I] geometry
+[problem:CodeForces-2181H] brute force, math, number theory
+[problem:CodeForces-2181G] binary search, dp, graphs, greedy, math
+[problem:CodeForces-2181F] games
+[problem:CodeForces-2181E] brute force, constructive algorithms, greedy, sortings
+[problem:CodeForces-2181D] binary search, data structures, sortings
+[problem:CodeForces-2181C] binary search, interactive, math
+[problem:CodeForces-2181B] data structures, games, greedy
+[problem:CodeForces-2181A] binary search, math, strings
+[problem:CodeForces-2180H2] games
+[problem:CodeForces-2180H1] games
+[problem:CodeForces-2180G] combinatorics, math
+[problem:CodeForces-2180F2] combinatorics, dp, probabilities
+[problem:CodeForces-2180F1] combinatorics, dp, implementation, probabilities
+[problem:CodeForces-2180E] bitmasks, divide and conquer, dp, math
+[problem:CodeForces-2180D] data structures, dp, geometry, greedy, math
+[problem:CodeForces-2180C] bitmasks, constructive algorithms, dp, greedy, number theory
+[problem:CodeForces-2180B] greedy, strings
+[problem:CodeForces-2180A] brute force, number theory
 [problem:CodeForces-2176F] bitmasks, combinatorics, dp, math, number theory
 [problem:CodeForces-2176E] data structures, dfs and similar, dp, dsu, greedy, implementation, trees
 [problem:CodeForces-2176D] data structures, dp, graphs, sortings

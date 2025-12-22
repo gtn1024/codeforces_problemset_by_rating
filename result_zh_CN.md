@@ -10689,6 +10689,29 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Medical Parity](https://codeforces.com/problemset/problem/2181/M): dp strings
+* [LLM Training](https://codeforces.com/problemset/problem/2181/L): math
+* [Knit the Grid](https://codeforces.com/problemset/problem/2181/K)
+* [Jinx or Jackpot](https://codeforces.com/problemset/problem/2181/J): brute force dp math probabilities
+* [Irrigation Interlock](https://codeforces.com/problemset/problem/2181/I): geometry
+* [Honey Cake](https://codeforces.com/problemset/problem/2181/H): brute force math number theory
+* [Greta's Game](https://codeforces.com/problemset/problem/2181/G): binary search dp graphs greedy math
+* [Fragmented Nim](https://codeforces.com/problemset/problem/2181/F): games
+* [Elevator Against Humanity](https://codeforces.com/problemset/problem/2181/E): brute force constructive algorithms greedy sortings
+* [Doorway](https://codeforces.com/problemset/problem/2181/D): binary search data structures sortings
+* [Cacti Classification](https://codeforces.com/problemset/problem/2181/C): binary search interactive math
+* [Battle of Arrays](https://codeforces.com/problemset/problem/2181/B): data structures games greedy
+* [Alphabet City](https://codeforces.com/problemset/problem/2181/A): binary search math strings
+* [Bug Is Feature (Conditional Version)](https://codeforces.com/problemset/problem/2180/H2): games
+* [Bug Is Feature (Unconditional Version)](https://codeforces.com/problemset/problem/2180/H1): games
+* [Balance](https://codeforces.com/problemset/problem/2180/G): combinatorics math
+* [Control Car (Hard Version)](https://codeforces.com/problemset/problem/2180/F2): combinatorics dp probabilities
+* [Control Car (Easy Version)](https://codeforces.com/problemset/problem/2180/F1): combinatorics dp implementation probabilities
+* [No Effect XOR](https://codeforces.com/problemset/problem/2180/E): bitmasks divide and conquer dp math
+* [Insolvable Disks](https://codeforces.com/problemset/problem/2180/D): data structures dp geometry greedy math
+* [XOR-factorization](https://codeforces.com/problemset/problem/2180/C): bitmasks constructive algorithms dp greedy number theory
+* [Ashmal](https://codeforces.com/problemset/problem/2180/B): greedy strings
+* [Carnival Wheel](https://codeforces.com/problemset/problem/2180/A): brute force number theory
 * [Omega Numbers](https://codeforces.com/problemset/problem/2176/F): bitmasks combinatorics dp math number theory
 * [Remove at the lowest cost](https://codeforces.com/problemset/problem/2176/E): data structures dfs and similar dp dsu greedy implementation trees
 * [Fibonacci Paths](https://codeforces.com/problemset/problem/2176/D): data structures dp graphs sortings
