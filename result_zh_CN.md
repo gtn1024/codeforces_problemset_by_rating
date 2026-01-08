@@ -10747,13 +10747,24 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Pairs Flipping (Hard Version)](https://codeforces.com/problemset/problem/2183/I2): constructive algorithms
+* [Pairs Flipping (Easy Version)](https://codeforces.com/problemset/problem/2183/I1): constructive algorithms
+* [Minimise Cost](https://codeforces.com/problemset/problem/2183/H): dp
+* [Snake Instructions](https://codeforces.com/problemset/problem/2183/G): interactive
+* [Jumping Man](https://codeforces.com/problemset/problem/2183/F): combinatorics dp trees
+* [LCM is Legendary Counting Master](https://codeforces.com/problemset/problem/2183/E): dp math number theory
+* [Tree Coloring (Hard Version)](https://codeforces.com/problemset/problem/2183/D2): constructive algorithms dfs and similar greedy trees
+* [Tree Coloring (Easy Version)](https://codeforces.com/problemset/problem/2183/D1): constructive algorithms dfs and similar greedy trees
+* [War Strategy](https://codeforces.com/problemset/problem/2183/C): binary search greedy math two pointers
+* [Yet Another MEX Problem](https://codeforces.com/problemset/problem/2183/B): constructive algorithms greedy
+* [Binary Array Game](https://codeforces.com/problemset/problem/2183/A): games
 * [Short Garland](https://codeforces.com/problemset/problem/2182/G): combinatorics data structures dfs and similar dp trees
 * [Christmas Reindeer (hard version)](https://codeforces.com/problemset/problem/2182/F2): bitmasks brute force combinatorics data structures greedy math
 * [Christmas Reindeer (easy version)](https://codeforces.com/problemset/problem/2182/F1): bitmasks brute force combinatorics dp math
 * [New Year's Gifts](https://codeforces.com/problemset/problem/2182/E): binary search data structures greedy sortings two pointers
 * [Christmas Tree Decoration](https://codeforces.com/problemset/problem/2182/D): combinatorics dp greedy math
 * [Production of Snowmen](https://codeforces.com/problemset/problem/2182/C): brute force combinatorics dp
-* [New Year Cake](https://codeforces.com/problemset/problem/2182/B): brute force implementation
+* [New Year Cake](https://codeforces.com/problemset/problem/2182/B): brute force
 * [New Year String](https://codeforces.com/problemset/problem/2182/A): constructive algorithms greedy implementation strings
 * [Blackslex and Plants](https://codeforces.com/problemset/problem/2179/H): bitmasks data structures dp implementation math
 * [Blackslex and Penguin Migration](https://codeforces.com/problemset/problem/2179/G): brute force interactive math
@@ -10765,8 +10776,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Blackslex and Password](https://codeforces.com/problemset/problem/2179/A): math strings
 * [Numbers or Fireworks](https://codeforces.com/problemset/problem/2178/I): bitmasks combinatorics dp graphs
 * [Create or Duplicate](https://codeforces.com/problemset/problem/2178/H): bitmasks graphs number theory shortest paths
-* [deCH OR Dations](https://codeforces.com/problemset/problem/2178/G): bitmasks data structures dp hashing
-* [Conquer or of Forest](https://codeforces.com/problemset/problem/2178/F): combinatorics dp math string suffix structures trees
+* [deCH OR Dations](https://codeforces.com/problemset/problem/2178/G): bitmasks data structures dp hashing probabilities
+* [Conquer or of Forest](https://codeforces.com/problemset/problem/2178/F): combinatorics math trees
 * [Flatten or Concatenate](https://codeforces.com/problemset/problem/2178/E): binary search divide and conquer interactive
 * [Xmas or Hysteria](https://codeforces.com/problemset/problem/2178/D): constructive algorithms greedy implementation math
 * [First or Second](https://codeforces.com/problemset/problem/2178/C): dp greedy implementation

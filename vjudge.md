@@ -10747,13 +10747,24 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2183I2] constructive algorithms
+[problem:CodeForces-2183I1] constructive algorithms
+[problem:CodeForces-2183H] dp
+[problem:CodeForces-2183G] interactive
+[problem:CodeForces-2183F] combinatorics, dp, trees
+[problem:CodeForces-2183E] dp, math, number theory
+[problem:CodeForces-2183D2] constructive algorithms, dfs and similar, greedy, trees
+[problem:CodeForces-2183D1] constructive algorithms, dfs and similar, greedy, trees
+[problem:CodeForces-2183C] binary search, greedy, math, two pointers
+[problem:CodeForces-2183B] constructive algorithms, greedy
+[problem:CodeForces-2183A] games
 [problem:CodeForces-2182G] combinatorics, data structures, dfs and similar, dp, trees
 [problem:CodeForces-2182F2] bitmasks, brute force, combinatorics, data structures, greedy, math
 [problem:CodeForces-2182F1] bitmasks, brute force, combinatorics, dp, math
 [problem:CodeForces-2182E] binary search, data structures, greedy, sortings, two pointers
 [problem:CodeForces-2182D] combinatorics, dp, greedy, math
 [problem:CodeForces-2182C] brute force, combinatorics, dp
-[problem:CodeForces-2182B] brute force, implementation
+[problem:CodeForces-2182B] brute force
 [problem:CodeForces-2182A] constructive algorithms, greedy, implementation, strings
 [problem:CodeForces-2179H] bitmasks, data structures, dp, implementation, math
 [problem:CodeForces-2179G] brute force, interactive, math
@@ -10765,8 +10776,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2179A] math, strings
 [problem:CodeForces-2178I] bitmasks, combinatorics, dp, graphs
 [problem:CodeForces-2178H] bitmasks, graphs, number theory, shortest paths
-[problem:CodeForces-2178G] bitmasks, data structures, dp, hashing
-[problem:CodeForces-2178F] combinatorics, dp, math, string suffix structures, trees
+[problem:CodeForces-2178G] bitmasks, data structures, dp, hashing, probabilities
+[problem:CodeForces-2178F] combinatorics, math, trees
 [problem:CodeForces-2178E] binary search, divide and conquer, interactive
 [problem:CodeForces-2178D] constructive algorithms, greedy, implementation, math
 [problem:CodeForces-2178C] dp, greedy, implementation
