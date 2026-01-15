@@ -6825,7 +6825,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-644C] *special, binary search, data structures, implementation, sortings, strings
 [problem:CodeForces-632D] brute force, math, number theory
 [problem:CodeForces-631D] data structures, hashing, implementation, string suffix structures, strings
-[problem:CodeForces-630P] geometry
+[problem:CodeForces-630P] geometry, math
 [problem:CodeForces-620E] bitmasks, data structures, trees
 [problem:CodeForces-615E] binary search, implementation, math
 [problem:CodeForces-609E] data structures, dfs and similar, dsu, graphs, trees
@@ -10747,13 +10747,20 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2184G] binary search, data structures
+[problem:CodeForces-2184F] dfs and similar, dp, graphs, trees
+[problem:CodeForces-2184E] combinatorics, data structures, dsu
+[problem:CodeForces-2184D] combinatorics, dp, math
+[problem:CodeForces-2184C] binary search, dfs and similar, dp, graphs, math
+[problem:CodeForces-2184B] math
+[problem:CodeForces-2184A] math
 [problem:CodeForces-2183I2] constructive algorithms
 [problem:CodeForces-2183I1] constructive algorithms
-[problem:CodeForces-2183H] dp
-[problem:CodeForces-2183G] interactive
-[problem:CodeForces-2183F] combinatorics, dp, trees
+[problem:CodeForces-2183H] binary search, dp, greedy, sortings
+[problem:CodeForces-2183G] constructive algorithms, greedy, interactive
+[problem:CodeForces-2183F] brute force, combinatorics, dfs and similar, dp, trees
 [problem:CodeForces-2183E] dp, math, number theory
-[problem:CodeForces-2183D2] constructive algorithms, dfs and similar, greedy, trees
+[problem:CodeForces-2183D2] combinatorics, constructive algorithms, data structures, dfs and similar, greedy, implementation, trees
 [problem:CodeForces-2183D1] constructive algorithms, dfs and similar, greedy, trees
 [problem:CodeForces-2183C] binary search, greedy, math, two pointers
 [problem:CodeForces-2183B] constructive algorithms, greedy

@@ -6825,7 +6825,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Hostname Aliases](https://codeforces.com/problemset/problem/644/C): *special binary search data structures implementation sortings strings
 * [Longest Subsequence](https://codeforces.com/problemset/problem/632/D): brute force math number theory
 * [Messenger](https://codeforces.com/problemset/problem/631/D): data structures hashing implementation string suffix structures strings
-* [Area of a Star](https://codeforces.com/problemset/problem/630/P): geometry
+* [Area of a Star](https://codeforces.com/problemset/problem/630/P): geometry math
 * [New Year Tree](https://codeforces.com/problemset/problem/620/E): bitmasks data structures trees
 * [Hexagons](https://codeforces.com/problemset/problem/615/E): binary search implementation math
 * [Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E): data structures dfs and similar dsu graphs trees
@@ -10747,13 +10747,20 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Nastiness of Segments](https://codeforces.com/problemset/problem/2184/G): binary search data structures
+* [Cherry Tree](https://codeforces.com/problemset/problem/2184/F): dfs and similar dp graphs trees
+* [Exquisite Array](https://codeforces.com/problemset/problem/2184/E): combinatorics data structures dsu
+* [Unfair Game](https://codeforces.com/problemset/problem/2184/D): combinatorics dp math
+* [Huge Pile](https://codeforces.com/problemset/problem/2184/C): binary search dfs and similar dp graphs math
+* [Hourglass](https://codeforces.com/problemset/problem/2184/B): math
+* [Social Experiment](https://codeforces.com/problemset/problem/2184/A): math
 * [Pairs Flipping (Hard Version)](https://codeforces.com/problemset/problem/2183/I2): constructive algorithms
 * [Pairs Flipping (Easy Version)](https://codeforces.com/problemset/problem/2183/I1): constructive algorithms
-* [Minimise Cost](https://codeforces.com/problemset/problem/2183/H): dp
-* [Snake Instructions](https://codeforces.com/problemset/problem/2183/G): interactive
-* [Jumping Man](https://codeforces.com/problemset/problem/2183/F): combinatorics dp trees
+* [Minimise Cost](https://codeforces.com/problemset/problem/2183/H): binary search dp greedy sortings
+* [Snake Instructions](https://codeforces.com/problemset/problem/2183/G): constructive algorithms greedy interactive
+* [Jumping Man](https://codeforces.com/problemset/problem/2183/F): brute force combinatorics dfs and similar dp trees
 * [LCM is Legendary Counting Master](https://codeforces.com/problemset/problem/2183/E): dp math number theory
-* [Tree Coloring (Hard Version)](https://codeforces.com/problemset/problem/2183/D2): constructive algorithms dfs and similar greedy trees
+* [Tree Coloring (Hard Version)](https://codeforces.com/problemset/problem/2183/D2): combinatorics constructive algorithms data structures dfs and similar greedy implementation trees
 * [Tree Coloring (Easy Version)](https://codeforces.com/problemset/problem/2183/D1): constructive algorithms dfs and similar greedy trees
 * [War Strategy](https://codeforces.com/problemset/problem/2183/C): binary search greedy math two pointers
 * [Yet Another MEX Problem](https://codeforces.com/problemset/problem/2183/B): constructive algorithms greedy
