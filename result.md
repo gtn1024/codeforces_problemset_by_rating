@@ -10747,9 +10747,27 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [MEX Reordering](https://codeforces.com/problemset/problem/2191/B): constructive algorithms sortings
+* [Array Coloring](https://codeforces.com/problemset/problem/2191/A): constructive algorithms
+* [Maximize Determinant](https://codeforces.com/problemset/problem/2190/G): graphs
+* [Xor Product](https://codeforces.com/problemset/problem/2190/F): bitmasks dp
+* [Median Permutation](https://codeforces.com/problemset/problem/2190/E): combinatorics
+* [Prufer Vertex](https://codeforces.com/problemset/problem/2190/D): combinatorics dsu number theory probabilities trees
+* [Comparable Permutations](https://codeforces.com/problemset/problem/2190/C): greedy interactive sortings two pointers
+* [Sub-RBS (Hard Version)](https://codeforces.com/problemset/problem/2190/B2): dp games implementation strings
+* [Sub-RBS (Easy Version)](https://codeforces.com/problemset/problem/2190/B1): combinatorics constructive algorithms dp greedy strings two pointers
+* [Sorting Game](https://codeforces.com/problemset/problem/2190/A): constructive algorithms games greedy
+* [BattleCows 2](https://codeforces.com/problemset/problem/2185/H): binary search brute force data structures greedy
+* [Mixing MEXes](https://codeforces.com/problemset/problem/2185/G): data structures implementation math
+* [BattleCows](https://codeforces.com/problemset/problem/2185/F): data structures divide and conquer implementation
+* [The Robotic Rush](https://codeforces.com/problemset/problem/2185/E): binary search implementation two pointers
+* [OutOfMemoryError](https://codeforces.com/problemset/problem/2185/D): data structures implementation math two pointers
+* [Shifted MEX](https://codeforces.com/problemset/problem/2185/C): implementation sortings
+* [Prefix Max](https://codeforces.com/problemset/problem/2185/B): greedy
+* [Perfect Root](https://codeforces.com/problemset/problem/2185/A): constructive algorithms math
 * [Nastiness of Segments](https://codeforces.com/problemset/problem/2184/G): binary search data structures
 * [Cherry Tree](https://codeforces.com/problemset/problem/2184/F): dfs and similar dp graphs trees
-* [Exquisite Array](https://codeforces.com/problemset/problem/2184/E): combinatorics data structures dsu
+* [Exquisite Array](https://codeforces.com/problemset/problem/2184/E): combinatorics data structures dsu sortings
 * [Unfair Game](https://codeforces.com/problemset/problem/2184/D): combinatorics dp math
 * [Huge Pile](https://codeforces.com/problemset/problem/2184/C): binary search dfs and similar dp graphs math
 * [Hourglass](https://codeforces.com/problemset/problem/2184/B): math

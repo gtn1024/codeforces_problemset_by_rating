@@ -10747,9 +10747,27 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2191B] constructive algorithms, sortings
+[problem:CodeForces-2191A] constructive algorithms
+[problem:CodeForces-2190G] graphs
+[problem:CodeForces-2190F] bitmasks, dp
+[problem:CodeForces-2190E] combinatorics
+[problem:CodeForces-2190D] combinatorics, dsu, number theory, probabilities, trees
+[problem:CodeForces-2190C] greedy, interactive, sortings, two pointers
+[problem:CodeForces-2190B2] dp, games, implementation, strings
+[problem:CodeForces-2190B1] combinatorics, constructive algorithms, dp, greedy, strings, two pointers
+[problem:CodeForces-2190A] constructive algorithms, games, greedy
+[problem:CodeForces-2185H] binary search, brute force, data structures, greedy
+[problem:CodeForces-2185G] data structures, implementation, math
+[problem:CodeForces-2185F] data structures, divide and conquer, implementation
+[problem:CodeForces-2185E] binary search, implementation, two pointers
+[problem:CodeForces-2185D] data structures, implementation, math, two pointers
+[problem:CodeForces-2185C] implementation, sortings
+[problem:CodeForces-2185B] greedy
+[problem:CodeForces-2185A] constructive algorithms, math
 [problem:CodeForces-2184G] binary search, data structures
 [problem:CodeForces-2184F] dfs and similar, dp, graphs, trees
-[problem:CodeForces-2184E] combinatorics, data structures, dsu
+[problem:CodeForces-2184E] combinatorics, data structures, dsu, sortings
 [problem:CodeForces-2184D] combinatorics, dp, math
 [problem:CodeForces-2184C] binary search, dfs and similar, dp, graphs, math
 [problem:CodeForces-2184B] math
