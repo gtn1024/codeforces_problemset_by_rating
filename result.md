@@ -10747,20 +10747,36 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Remove the Grail Tree](https://codeforces.com/problemset/problem/2193/H): dfs and similar dp graphs greedy implementation trees
+* [Paths in a Tree](https://codeforces.com/problemset/problem/2193/G): dfs and similar interactive sortings trees
+* [Pizza Delivery](https://codeforces.com/problemset/problem/2193/F): dp greedy
+* [Product Queries](https://codeforces.com/problemset/problem/2193/E): dp math number theory shortest paths
+* [Monster Game](https://codeforces.com/problemset/problem/2193/D): binary search sortings two pointers
+* [Replace and Sum](https://codeforces.com/problemset/problem/2193/C): data structures greedy
+* [Reverse a Permutation](https://codeforces.com/problemset/problem/2193/B): greedy
+* [DBMB and the Array](https://codeforces.com/problemset/problem/2193/A): brute force math
 * [MEX Reordering](https://codeforces.com/problemset/problem/2191/B): constructive algorithms sortings
 * [Array Coloring](https://codeforces.com/problemset/problem/2191/A): constructive algorithms
 * [Maximize Determinant](https://codeforces.com/problemset/problem/2190/G): graphs
 * [Xor Product](https://codeforces.com/problemset/problem/2190/F): bitmasks dp
 * [Median Permutation](https://codeforces.com/problemset/problem/2190/E): combinatorics
 * [Prufer Vertex](https://codeforces.com/problemset/problem/2190/D): combinatorics dsu number theory probabilities trees
-* [Comparable Permutations](https://codeforces.com/problemset/problem/2190/C): greedy interactive sortings two pointers
+* [Comparable Permutations](https://codeforces.com/problemset/problem/2190/C): greedy implementation interactive sortings two pointers
 * [Sub-RBS (Hard Version)](https://codeforces.com/problemset/problem/2190/B2): dp games implementation strings
 * [Sub-RBS (Easy Version)](https://codeforces.com/problemset/problem/2190/B1): combinatorics constructive algorithms dp greedy strings two pointers
 * [Sorting Game](https://codeforces.com/problemset/problem/2190/A): constructive algorithms games greedy
-* [BattleCows 2](https://codeforces.com/problemset/problem/2185/H): binary search brute force data structures greedy
+* [Zhora the Vacuum Cleaner](https://codeforces.com/problemset/problem/2189/F): data structures dfs and similar dp greedy implementation sortings trees
+* [Majority Wins?](https://codeforces.com/problemset/problem/2189/E): constructive algorithms greedy math strings
+* [Little String (Hard Version)](https://codeforces.com/problemset/problem/2189/D2): combinatorics greedy math number theory
+* [Little String (Easy Version)](https://codeforces.com/problemset/problem/2189/D1): combinatorics dp greedy math number theory
+* [XOR-convenience (Hard Version)](https://codeforces.com/problemset/problem/2189/C2): bitmasks constructive algorithms math
+* [XOR Convenience (Easy Version)](https://codeforces.com/problemset/problem/2189/C1): bitmasks constructive algorithms math
+* [The Curse of the Frog](https://codeforces.com/problemset/problem/2189/B): constructive algorithms greedy math
+* [Table with Numbers](https://codeforces.com/problemset/problem/2189/A): greedy implementation
+* [BattleCows 2](https://codeforces.com/problemset/problem/2185/H): binary search brute force data structures dp greedy
 * [Mixing MEXes](https://codeforces.com/problemset/problem/2185/G): data structures implementation math
 * [BattleCows](https://codeforces.com/problemset/problem/2185/F): data structures divide and conquer implementation
-* [The Robotic Rush](https://codeforces.com/problemset/problem/2185/E): binary search implementation two pointers
+* [The Robotic Rush](https://codeforces.com/problemset/problem/2185/E): binary search greedy implementation two pointers
 * [OutOfMemoryError](https://codeforces.com/problemset/problem/2185/D): data structures implementation math two pointers
 * [Shifted MEX](https://codeforces.com/problemset/problem/2185/C): implementation sortings
 * [Prefix Max](https://codeforces.com/problemset/problem/2185/B): greedy
