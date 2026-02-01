@@ -10767,12 +10767,22 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Sorting Game](https://codeforces.com/problemset/problem/2190/A): constructive algorithms games greedy
 * [Zhora the Vacuum Cleaner](https://codeforces.com/problemset/problem/2189/F): data structures dfs and similar dp greedy implementation sortings trees
 * [Majority Wins?](https://codeforces.com/problemset/problem/2189/E): constructive algorithms greedy math strings
-* [Little String (Hard Version)](https://codeforces.com/problemset/problem/2189/D2): combinatorics greedy math number theory
+* [Little String (Hard Version)](https://codeforces.com/problemset/problem/2189/D2): combinatorics dp greedy math number theory
 * [Little String (Easy Version)](https://codeforces.com/problemset/problem/2189/D1): combinatorics dp greedy math number theory
 * [XOR-convenience (Hard Version)](https://codeforces.com/problemset/problem/2189/C2): bitmasks constructive algorithms math
 * [XOR Convenience (Easy Version)](https://codeforces.com/problemset/problem/2189/C1): bitmasks constructive algorithms math
 * [The Curse of the Frog](https://codeforces.com/problemset/problem/2189/B): constructive algorithms greedy math
 * [Table with Numbers](https://codeforces.com/problemset/problem/2189/A): greedy implementation
+* [Seats](https://codeforces.com/problemset/problem/2188/B): greedy
+* [Divisible Permutation](https://codeforces.com/problemset/problem/2188/A): constructive algorithms
+* [Many Cartesian Trees](https://codeforces.com/problemset/problem/2187/G): greedy sortings trees
+* [Al Fine (Counting Version)](https://codeforces.com/problemset/problem/2187/F2): dp trees
+* [Al Fine (Maximizing Version)](https://codeforces.com/problemset/problem/2187/F1): binary search divide and conquer trees
+* [Doors and Keys](https://codeforces.com/problemset/problem/2187/E): brute force dp
+* [Cool Problem](https://codeforces.com/problemset/problem/2187/D): bitmasks dp math
+* [Jerry and Tom](https://codeforces.com/problemset/problem/2187/C): data structures dfs and similar dsu games graphs greedy trees
+* [Shortest Statement Ever](https://codeforces.com/problemset/problem/2187/B): bitmasks constructive algorithms dp greedy
+* [Restricted Sorting](https://codeforces.com/problemset/problem/2187/A): greedy sortings
 * [BattleCows 2](https://codeforces.com/problemset/problem/2185/H): binary search brute force data structures dp greedy
 * [Mixing MEXes](https://codeforces.com/problemset/problem/2185/G): data structures implementation math
 * [BattleCows](https://codeforces.com/problemset/problem/2185/F): data structures divide and conquer implementation
