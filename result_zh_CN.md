@@ -10831,18 +10831,18 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Simons and Diophantus Equation](https://codeforces.com/problemset/problem/2205/G): bitmasks brute force data structures number theory
+* [Simons and Diophantus Equation](https://codeforces.com/problemset/problem/2205/G): bitmasks brute force data structures math number theory
 * [Simons and Reconstructing His Roads](https://codeforces.com/problemset/problem/2205/F): constructive algorithms data structures dsu graphs
-* [Simons and Dividing the Rhythm](https://codeforces.com/problemset/problem/2205/E): combinatorics dp dsu math string suffix structures strings
+* [Simons and Dividing the Rhythm](https://codeforces.com/problemset/problem/2205/E): combinatorics data structures dp dsu math string suffix structures strings
 * [Simons and Beating Peaks](https://codeforces.com/problemset/problem/2205/D): data structures divide and conquer dp greedy implementation trees
 * [Simons and Posting Blogs](https://codeforces.com/problemset/problem/2205/C): greedy sortings
 * [Simons and Cakes for Success](https://codeforces.com/problemset/problem/2205/B): implementation math
 * [Simons and Making It Beautiful](https://codeforces.com/problemset/problem/2205/A): brute force constructive algorithms
 * [Binary Search with One Swap](https://codeforces.com/problemset/problem/2203/F): binary search divide and conquer dp hashing math two pointers
-* [Probabilistic Card Game](https://codeforces.com/problemset/problem/2203/E): binary search data structures math ternary search
+* [Probabilistic Card Game](https://codeforces.com/problemset/problem/2203/E): binary search data structures games greedy math ternary search
 * [Divisibility Game](https://codeforces.com/problemset/problem/2203/D): brute force games greedy number theory
 * [Test Generator](https://codeforces.com/problemset/problem/2203/C): binary search bitmasks greedy math
-* [Beautiful Numbers](https://codeforces.com/problemset/problem/2203/B): dp greedy math
+* [Beautiful Numbers](https://codeforces.com/problemset/problem/2203/B): bitmasks dp fft greedy math
 * [Towers of Boxes](https://codeforces.com/problemset/problem/2203/A): math
 * [Monotone Monochrome Matrices (Easy Version)](https://codeforces.com/problemset/problem/2202/G1): data structures
 * [ABAB Construction](https://codeforces.com/problemset/problem/2202/B): dp greedy implementation
@@ -10862,8 +10862,17 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Divisive Battle](https://codeforces.com/problemset/problem/2200/E): games greedy math number theory
 * [Portal](https://codeforces.com/problemset/problem/2200/D): greedy sortings
 * [Specialty String](https://codeforces.com/problemset/problem/2200/C): brute force greedy strings
-* [Deletion Sort](https://codeforces.com/problemset/problem/2200/B): greedy sortings
+* [Deletion Sort](https://codeforces.com/problemset/problem/2200/B): bitmasks brute force greedy sortings
 * [Eating Game](https://codeforces.com/problemset/problem/2200/A): greedy
+* [Strange Process](https://codeforces.com/problemset/problem/2199/I): *special
+* [Sum of MEX](https://codeforces.com/problemset/problem/2199/H): *special combinatorics data structures dp math
+* [Jammer](https://codeforces.com/problemset/problem/2199/G): *special math
+* [Self-Produced Sequences](https://codeforces.com/problemset/problem/2199/F): *special combinatorics math
+* [Supersequence](https://codeforces.com/problemset/problem/2199/E): *special binary search greedy
+* [Two Arrays](https://codeforces.com/problemset/problem/2199/D): *special math
+* [Minesweeper](https://codeforces.com/problemset/problem/2199/C): *special constructive algorithms greedy
+* [Two Towers](https://codeforces.com/problemset/problem/2199/B): *special greedy math
+* [Game](https://codeforces.com/problemset/problem/2199/A): *special
 * [Array and Permutation](https://codeforces.com/problemset/problem/2197/B): implementation schedules sortings two pointers
 * [Friendly Numbers](https://codeforces.com/problemset/problem/2197/A): binary search brute force expression parsing math schedules
 * [Indivisible](https://codeforces.com/problemset/problem/2196/F): brute force constructive algorithms graphs
