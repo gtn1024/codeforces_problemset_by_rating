@@ -10831,6 +10831,36 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2208E] combinatorics, dp
+[problem:CodeForces-2208D2] data structures, dfs and similar, dsu, graphs, greedy, matrices, sortings
+[problem:CodeForces-2208D1] dfs and similar, graphs, greedy, trees
+[problem:CodeForces-2208C] dp, greedy, math
+[problem:CodeForces-2208B] games, greedy, implementation, sortings
+[problem:CodeForces-2208A] constructive algorithms, math
+[problem:CodeForces-2207H3] constructive algorithms, divide and conquer, interactive, trees, two pointers
+[problem:CodeForces-2207H2] constructive algorithms, divide and conquer, interactive, trees, two pointers
+[problem:CodeForces-2207H1] binary search, constructive algorithms, divide and conquer, greedy, interactive, trees
+[problem:CodeForces-2207G] constructive algorithms, dfs and similar, dsu
+[problem:CodeForces-2207F] binary search, data structures, dp, dsu, flows, graph matchings, graphs, greedy
+[problem:CodeForces-2207E2] combinatorics, constructive algorithms, math
+[problem:CodeForces-2207E1] constructive algorithms, greedy
+[problem:CodeForces-2207D] dfs and similar, dp, games, shortest paths, trees
+[problem:CodeForces-2207C] data structures, divide and conquer, dp, math
+[problem:CodeForces-2207B] games, greedy, sortings
+[problem:CodeForces-2207A] greedy, strings
+[problem:CodeForces-2206M]
+[problem:CodeForces-2206L]
+[problem:CodeForces-2206K] binary search
+[problem:CodeForces-2206J] math
+[problem:CodeForces-2206I] combinatorics, dp, math, number theory
+[problem:CodeForces-2206H] number theory
+[problem:CodeForces-2206G] graphs
+[problem:CodeForces-2206F] fft, number theory
+[problem:CodeForces-2206E] data structures, geometry
+[problem:CodeForces-2206D] data structures, dp, trees
+[problem:CodeForces-2206C] dfs and similar
+[problem:CodeForces-2206B] binary search, games, trees
+[problem:CodeForces-2206A] interactive
 [problem:CodeForces-2205G] bitmasks, brute force, data structures, math, number theory
 [problem:CodeForces-2205F] constructive algorithms, data structures, dsu, graphs
 [problem:CodeForces-2205E] combinatorics, data structures, dp, dsu, math, string suffix structures, strings
