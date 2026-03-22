@@ -36,8 +36,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+[problem:CodeForces-2202A] math
+[problem:CodeForces-2197A] binary search, brute force, expression parsing, math, schedules
+[problem:CodeForces-2195A] math, number theory
+[problem:CodeForces-2194A] greedy, math
 [problem:CodeForces-2193B] greedy
 [problem:CodeForces-2193A] brute force, math
+[problem:CodeForces-2192A] brute force, strings
 [problem:CodeForces-2191A] constructive algorithms
 [problem:CodeForces-2189A] greedy, implementation
 [problem:CodeForces-2188A] constructive algorithms
@@ -1074,6 +1079,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 900
 
+[problem:CodeForces-2195B] implementation, sortings
 [problem:CodeForces-2185C] implementation, sortings
 [problem:CodeForces-2178B] dp, greedy, implementation, strings
 [problem:CodeForces-2171B] math
@@ -1414,7 +1420,10 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1000
 
+[problem:CodeForces-2199A] *special
+[problem:CodeForces-2194B] greedy, implementation, math
 [problem:CodeForces-2193C] data structures, greedy
+[problem:CodeForces-2192B] constructive algorithms, strings
 [problem:CodeForces-2191B] constructive algorithms, sortings
 [problem:CodeForces-2188B] greedy
 [problem:CodeForces-2176B] bitmasks, greedy, strings
@@ -1805,6 +1814,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1100
 
+[problem:CodeForces-2197B] implementation, schedules, sortings, two pointers
+[problem:CodeForces-2195C] dp, greedy
 [problem:CodeForces-2193D] binary search, sortings, two pointers
 [problem:CodeForces-2185D] data structures, implementation, math, two pointers
 [problem:CodeForces-2184C] binary search, dfs and similar, dp, graphs, math
@@ -2237,6 +2248,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1200
 
+[problem:CodeForces-2202B] dp, greedy, implementation
+[problem:CodeForces-2196A] games, math
 [problem:CodeForces-2190A] constructive algorithms, games, greedy
 [problem:CodeForces-2189B] constructive algorithms, greedy, math
 [problem:CodeForces-2182C] brute force, combinatorics, dp
@@ -2686,7 +2699,11 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1300
 
+[problem:CodeForces-2201A1] data structures
+[problem:CodeForces-2195D] math
+[problem:CodeForces-2194C] bitmasks, brute force, dp, math, number theory
 [problem:CodeForces-2193E] dp, math, number theory, shortest paths
+[problem:CodeForces-2192C] binary search, greedy, math
 [problem:CodeForces-2189C1] bitmasks, constructive algorithms, math
 [problem:CodeForces-2187A] greedy, sortings
 [problem:CodeForces-2181A] binary search, math, strings
@@ -3142,6 +3159,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1400
 
+[problem:CodeForces-2199B] *special, greedy, math
 [problem:CodeForces-2190B1] combinatorics, constructive algorithms, dp, greedy, strings, two pointers
 [problem:CodeForces-2181B] data structures, games, greedy
 [problem:CodeForces-2173C] brute force, constructive algorithms, greedy, number theory
@@ -3592,6 +3610,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1500
 
+[problem:CodeForces-2195E] dfs and similar, dp, trees
 [problem:CodeForces-2185E] binary search, greedy, implementation, two pointers
 [problem:CodeForces-2183D1] constructive algorithms, dfs and similar, greedy, trees
 [problem:CodeForces-2183C] binary search, greedy, math, two pointers
@@ -4055,6 +4074,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1600
 
+[problem:CodeForces-2199C] *special, constructive algorithms, greedy
+[problem:CodeForces-2196B] brute force, math, two pointers
+[problem:CodeForces-2194D] constructive algorithms, greedy, implementation
 [problem:CodeForces-2193F] dp, greedy
 [problem:CodeForces-2184D] combinatorics, dp, math
 [problem:CodeForces-2182D] combinatorics, dp, greedy, math
@@ -4571,6 +4593,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1700
 
+[problem:CodeForces-2201B] constructive algorithms
+[problem:CodeForces-2201A2] data structures, dp
 [problem:CodeForces-2185F] data structures, divide and conquer, implementation
 [problem:CodeForces-2181M] dp, strings
 [problem:CodeForces-2178D] constructive algorithms, greedy, implementation, math
@@ -5075,6 +5099,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
+[problem:CodeForces-2199D] *special, math
+[problem:CodeForces-2196C1] binary search, combinatorics, dfs and similar, dp, graphs, interactive
+[problem:CodeForces-2192D] dp, greedy, trees
 [problem:CodeForces-2189C2] bitmasks, constructive algorithms, math
 [problem:CodeForces-2187B] bitmasks, constructive algorithms, dp, greedy
 [problem:CodeForces-2185G] data structures, implementation, math
@@ -6087,6 +6114,11 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
+[problem:CodeForces-2201C] combinatorics, dp, greedy
+[problem:CodeForces-2199F] *special, combinatorics, math
+[problem:CodeForces-2196C2] combinatorics, dfs and similar, dp, graphs, interactive
+[problem:CodeForces-2195F] dp, graphs, greedy, math, sortings
+[problem:CodeForces-2194E] dp, graphs, greedy, implementation
 [problem:CodeForces-2181D] binary search, data structures, sortings
 [problem:CodeForces-2179F] communication, constructive algorithms, graphs, interactive, number theory, trees
 [problem:CodeForces-2178E] binary search, divide and conquer, interactive
@@ -6568,7 +6600,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2100
 
+[problem:CodeForces-2199E] *special, binary search, greedy
 [problem:CodeForces-2193G] dfs and similar, interactive, sortings, trees
+[problem:CodeForces-2192E] constructive algorithms, dfs and similar, graph matchings, graphs, greedy, strings
 [problem:CodeForces-2183E] dp, math, number theory
 [problem:CodeForces-2183D2] combinatorics, constructive algorithms, data structures, dfs and similar, greedy, implementation, trees
 [problem:CodeForces-2172K] implementation, strings
@@ -7474,6 +7508,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2300
 
+[problem:CodeForces-2199H] *special, combinatorics, data structures, dp, math
+[problem:CodeForces-2195G] binary search, data structures, dp, graphs, trees
+[problem:CodeForces-2194F1] bitmasks, dfs and similar, dp, trees
 [problem:CodeForces-2190C] greedy, implementation, interactive, sortings, two pointers
 [problem:CodeForces-2187C] data structures, dfs and similar, dsu, games, graphs, greedy, trees
 [problem:CodeForces-2182F1] bitmasks, brute force, combinatorics, dp, math
@@ -7877,6 +7914,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2400
 
+[problem:CodeForces-2195H] brute force, constructive algorithms, geometry, implementation
 [problem:CodeForces-2193H] dfs and similar, dp, graphs, greedy, implementation, trees
 [problem:CodeForces-2181G] binary search, dp, graphs, greedy, math
 [problem:CodeForces-2176F] bitmasks, combinatorics, dp, math, number theory
@@ -8333,6 +8371,10 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2500
 
+[problem:CodeForces-2202G1] data structures
+[problem:CodeForces-2201D] data structures, greedy, implementation
+[problem:CodeForces-2199G] *special, math
+[problem:CodeForces-2196D] data structures, dp, expression parsing, flows, greedy, strings
 [problem:CodeForces-2190D] combinatorics, dsu, number theory, probabilities, trees
 [problem:CodeForces-2185H] binary search, brute force, data structures, dp, greedy
 [problem:CodeForces-2183F] brute force, combinatorics, dfs and similar, dp, trees
@@ -9373,6 +9415,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2800
 
+[problem:CodeForces-2201F2] constructive algorithms, data structures, hashing, math
 [problem:CodeForces-2189F] data structures, dfs and similar, dp, greedy, implementation, sortings, trees
 [problem:CodeForces-2182G] combinatorics, data structures, dfs and similar, dp, trees
 [problem:CodeForces-2181L] math, string suffix structures
@@ -9622,6 +9665,10 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2900
 
+[problem:CodeForces-2201F1] data structures, hashing
+[problem:CodeForces-2201E] fft, math, number theory, strings
+[problem:CodeForces-2196E1] binary search, bitmasks, brute force, data structures, greedy, string suffix structures
+[problem:CodeForces-2192F] dp, math, probabilities
 [problem:CodeForces-2181E] brute force, constructive algorithms, greedy, sortings
 [problem:CodeForces-2164F2] binary search, combinatorics, data structures, dfs and similar, dp, graphs, math, trees
 [problem:CodeForces-2162H] dp
@@ -9852,6 +9899,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3000
 
+[problem:CodeForces-2199I] *special
+[problem:CodeForces-2196E2] binary search, bitmasks, data structures, dp, greedy, string suffix structures
+[problem:CodeForces-2194F2] bitmasks, data structures, dfs and similar, dp, fft, trees
 [problem:CodeForces-2161F] combinatorics, graphs, trees
 [problem:CodeForces-2158F2] combinatorics, constructive algorithms, graphs, math, number theory
 [problem:CodeForces-2156F2] data structures, greedy, trees
@@ -10375,6 +10425,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3300
 
+[problem:CodeForces-2196F] brute force, constructive algorithms, graphs
 [problem:CodeForces-2190G] graphs
 [problem:CodeForces-2190F] bitmasks, dp
 [problem:CodeForces-2178I] bitmasks, combinatorics, dp, graphs
@@ -10602,6 +10653,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3500
 
+[problem:CodeForces-2201G] constructive algorithms
 [problem:CodeForces-2187G] greedy, sortings, trees
 [problem:CodeForces-2187F2] dp, trees
 [problem:CodeForces-2187E] brute force, data structures, dp
@@ -10831,11 +10883,17 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2209F] data structures, greedy, implementation, trees
+[problem:CodeForces-2209E] dp, strings
+[problem:CodeForces-2209D] constructive algorithms, greedy
+[problem:CodeForces-2209C] constructive algorithms, interactive
+[problem:CodeForces-2209B] geometry, greedy
+[problem:CodeForces-2209A] greedy
 [problem:CodeForces-2208E] combinatorics, dp
-[problem:CodeForces-2208D2] data structures, dfs and similar, dsu, graphs, greedy, matrices, sortings
-[problem:CodeForces-2208D1] dfs and similar, graphs, greedy, trees
+[problem:CodeForces-2208D2] dfs and similar, dsu, graphs, greedy, sortings, trees
+[problem:CodeForces-2208D1] constructive algorithms, dfs and similar, dsu, graphs, greedy, matrices, trees
 [problem:CodeForces-2208C] dp, greedy, math
-[problem:CodeForces-2208B] games, greedy, implementation, sortings
+[problem:CodeForces-2208B] brute force, games, greedy, implementation, math, sortings
 [problem:CodeForces-2208A] constructive algorithms, math
 [problem:CodeForces-2207H3] constructive algorithms, divide and conquer, interactive, trees, two pointers
 [problem:CodeForces-2207H2] constructive algorithms, divide and conquer, interactive, trees, two pointers
@@ -10868,24 +10926,19 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2205C] greedy, sortings
 [problem:CodeForces-2205B] implementation, math
 [problem:CodeForces-2205A] brute force, constructive algorithms
+[problem:CodeForces-2204G] dp, graphs, matrices
+[problem:CodeForces-2204F] binary search, brute force, combinatorics, data structures, greedy, math, two pointers
+[problem:CodeForces-2204E] brute force, constructive algorithms, math
+[problem:CodeForces-2204D] constructive algorithms, dfs and similar, graph matchings, graphs
+[problem:CodeForces-2204C] math, number theory
+[problem:CodeForces-2204B] greedy
+[problem:CodeForces-2204A] brute force, implementation
 [problem:CodeForces-2203F] binary search, divide and conquer, dp, hashing, math, two pointers
 [problem:CodeForces-2203E] binary search, data structures, games, greedy, math, ternary search
 [problem:CodeForces-2203D] brute force, games, greedy, number theory
 [problem:CodeForces-2203C] binary search, bitmasks, greedy, math
 [problem:CodeForces-2203B] bitmasks, dp, fft, greedy, math
 [problem:CodeForces-2203A] math
-[problem:CodeForces-2202G1] data structures
-[problem:CodeForces-2202B] dp, greedy, implementation
-[problem:CodeForces-2202A] math
-[problem:CodeForces-2201G] constructive algorithms
-[problem:CodeForces-2201F2] constructive algorithms, data structures, hashing, math
-[problem:CodeForces-2201F1] data structures, hashing
-[problem:CodeForces-2201E] fft, math, number theory, strings
-[problem:CodeForces-2201D] data structures, greedy, implementation
-[problem:CodeForces-2201C] combinatorics, dp, greedy
-[problem:CodeForces-2201B] constructive algorithms
-[problem:CodeForces-2201A2] data structures, dp
-[problem:CodeForces-2201A1] data structures
 [problem:CodeForces-2200H] divide and conquer, math, number theory, strings, trees
 [problem:CodeForces-2200G] combinatorics, dp, math, probabilities
 [problem:CodeForces-2200F] brute force, data structures, greedy, implementation, sortings
@@ -10894,46 +10947,6 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2200C] brute force, greedy, strings
 [problem:CodeForces-2200B] bitmasks, brute force, greedy, sortings
 [problem:CodeForces-2200A] greedy
-[problem:CodeForces-2199I] *special
-[problem:CodeForces-2199H] *special, combinatorics, data structures, dp, math
-[problem:CodeForces-2199G] *special, math
-[problem:CodeForces-2199F] *special, combinatorics, math
-[problem:CodeForces-2199E] *special, binary search, greedy
-[problem:CodeForces-2199D] *special, math
-[problem:CodeForces-2199C] *special, constructive algorithms, greedy
-[problem:CodeForces-2199B] *special, greedy, math
-[problem:CodeForces-2199A] *special
-[problem:CodeForces-2197B] implementation, schedules, sortings, two pointers
-[problem:CodeForces-2197A] binary search, brute force, expression parsing, math, schedules
-[problem:CodeForces-2196F] brute force, constructive algorithms, graphs
-[problem:CodeForces-2196E2] binary search, bitmasks, data structures, dp, greedy, string suffix structures
-[problem:CodeForces-2196E1] binary search, bitmasks, brute force, data structures, greedy, string suffix structures
-[problem:CodeForces-2196D] data structures, dp, expression parsing, flows, greedy, strings
-[problem:CodeForces-2196C2] combinatorics, dfs and similar, dp, graphs, interactive
-[problem:CodeForces-2196C1] binary search, combinatorics, dfs and similar, dp, graphs, interactive
-[problem:CodeForces-2196B] brute force, math, two pointers
-[problem:CodeForces-2196A] games, math
-[problem:CodeForces-2195H] brute force, constructive algorithms, geometry, implementation
-[problem:CodeForces-2195G] binary search, data structures, dp, graphs, trees
-[problem:CodeForces-2195F] dp, graphs, greedy, math, sortings
-[problem:CodeForces-2195E] dfs and similar, dp, trees
-[problem:CodeForces-2195D] math
-[problem:CodeForces-2195C] dp, greedy
-[problem:CodeForces-2195B] implementation, sortings
-[problem:CodeForces-2195A] math, number theory
-[problem:CodeForces-2194F2] bitmasks, data structures, dfs and similar, dp, fft, trees
-[problem:CodeForces-2194F1] bitmasks, dfs and similar, dp, trees
-[problem:CodeForces-2194E] dp, graphs, greedy, implementation
-[problem:CodeForces-2194D] constructive algorithms, greedy, implementation
-[problem:CodeForces-2194C] bitmasks, brute force, dp, math, number theory
-[problem:CodeForces-2194B] greedy, implementation, math
-[problem:CodeForces-2194A] greedy, math
-[problem:CodeForces-2192F] dp, math, probabilities
-[problem:CodeForces-2192E] constructive algorithms, dfs and similar, graph matchings, graphs, greedy, strings
-[problem:CodeForces-2192D] dp, greedy, trees
-[problem:CodeForces-2192C] binary search, greedy, math
-[problem:CodeForces-2192B] constructive algorithms, strings
-[problem:CodeForces-2192A] brute force, strings
 [problem:CodeForces-2168C] bitmasks, communication, constructive algorithms, graphs, interactive
 [problem:CodeForces-2168B] binary search, combinatorics, communication, constructive algorithms, greedy, interactive
 [problem:CodeForces-2168A2] bitmasks, communication, interactive, math
