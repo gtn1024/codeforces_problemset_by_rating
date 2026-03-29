@@ -10883,11 +10883,20 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Median Deletion](https://codeforces.com/problemset/problem/2211/H)
+* [Rational Bubble Sort](https://codeforces.com/problemset/problem/2211/G): geometry greedy
+* [Learning Binary Search](https://codeforces.com/problemset/problem/2211/F): combinatorics divide and conquer
+* [Minimum Path Cover](https://codeforces.com/problemset/problem/2211/E): dp interactive number theory trees
+* [AND-array](https://codeforces.com/problemset/problem/2211/D): bitmasks combinatorics math
+* [Equal Multisets (Hard Version)](https://codeforces.com/problemset/problem/2211/C2): greedy
+* [Equal Multisets (Easy Version)](https://codeforces.com/problemset/problem/2211/C1): binary search greedy
+* [Mickey Mouse Constructive](https://codeforces.com/problemset/problem/2211/B): greedy math
+* [Antimedian Deletion](https://codeforces.com/problemset/problem/2211/A): math
 * [Dynamic Values And Maximum Sum](https://codeforces.com/problemset/problem/2209/F): data structures greedy implementation trees
-* [A Trivial String Problem](https://codeforces.com/problemset/problem/2209/E): dp strings
+* [A Trivial String Problem](https://codeforces.com/problemset/problem/2209/E): brute force dp hashing string suffix structures strings
 * [Ghostfires](https://codeforces.com/problemset/problem/2209/D): constructive algorithms greedy
 * [Find the Zero](https://codeforces.com/problemset/problem/2209/C): constructive algorithms interactive
-* [Array](https://codeforces.com/problemset/problem/2209/B): geometry greedy
+* [Array](https://codeforces.com/problemset/problem/2209/B): greedy
 * [Flip Flops](https://codeforces.com/problemset/problem/2209/A): greedy
 * [Counting Cute Arrays](https://codeforces.com/problemset/problem/2208/E): combinatorics dp
 * [Tree Orientation (Hard Version)](https://codeforces.com/problemset/problem/2208/D2): dfs and similar dsu graphs greedy sortings trees
@@ -10927,7 +10936,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Simons and Cakes for Success](https://codeforces.com/problemset/problem/2205/B): implementation math
 * [Simons and Making It Beautiful](https://codeforces.com/problemset/problem/2205/A): brute force constructive algorithms
 * [Grid Path](https://codeforces.com/problemset/problem/2204/G): dp graphs matrices
-* [Sum of Fractions](https://codeforces.com/problemset/problem/2204/F): binary search brute force combinatorics data structures greedy math two pointers
+* [Sum of Fractions](https://codeforces.com/problemset/problem/2204/F): binary search brute force combinatorics data structures greedy math number theory two pointers
 * [Sum of Digits (and Again)](https://codeforces.com/problemset/problem/2204/E): brute force constructive algorithms math
 * [Alternating Path](https://codeforces.com/problemset/problem/2204/D): constructive algorithms dfs and similar graph matchings graphs
 * [Spring](https://codeforces.com/problemset/problem/2204/C): math number theory
