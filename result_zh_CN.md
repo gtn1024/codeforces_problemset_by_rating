@@ -10984,10 +10984,18 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Fallen Leaves](https://codeforces.com/problemset/problem/2227/H): dfs and similar dp trees
+* [Drowning](https://codeforces.com/problemset/problem/2227/G): binary search data structures math
+* [It Just Keeps Going Sideways](https://codeforces.com/problemset/problem/2227/F): data structures dp greedy math
+* [It All Went Sideways](https://codeforces.com/problemset/problem/2227/E): binary search data structures dp greedy
+* [Palindromex](https://codeforces.com/problemset/problem/2227/D): binary search brute force constructive algorithms data structures greedy implementation two pointers
+* [Snowfall](https://codeforces.com/problemset/problem/2227/C): constructive algorithms math
+* [Party Monster](https://codeforces.com/problemset/problem/2227/B): greedy
+* [Koshary](https://codeforces.com/problemset/problem/2227/A): implementation math
 * [Stop Spot](https://codeforces.com/problemset/problem/2226/G): strings trees
 * [Inversion Invasion](https://codeforces.com/problemset/problem/2226/F): math number theory
-* [Mental Monumental (Hard Version)](https://codeforces.com/problemset/problem/2226/E): data structures greedy math
-* [Reserved Reversals](https://codeforces.com/problemset/problem/2226/D): constructive algorithms dp greedy
+* [Mental Monumental (Hard Version)](https://codeforces.com/problemset/problem/2226/E): data structures greedy math two pointers
+* [Reserved Reversals](https://codeforces.com/problemset/problem/2226/D): constructive algorithms dp greedy math
 * [Mental Monumental (Easy Version)](https://codeforces.com/problemset/problem/2226/C): binary search data structures greedy math two pointers
 * [Everything Everywhere](https://codeforces.com/problemset/problem/2226/B): greedy math number theory
 * [Disturbing Distribution](https://codeforces.com/problemset/problem/2226/A): greedy math
