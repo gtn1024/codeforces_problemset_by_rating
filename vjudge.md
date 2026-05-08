@@ -10986,13 +10986,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 [problem:CodeForces-2227H] dfs and similar, dp, trees
 [problem:CodeForces-2227G] binary search, data structures, math
-[problem:CodeForces-2227F] data structures, dp, greedy, math
+[problem:CodeForces-2227F] binary search, data structures, dp, greedy, math
 [problem:CodeForces-2227E] binary search, data structures, dp, greedy
 [problem:CodeForces-2227D] binary search, brute force, constructive algorithms, data structures, greedy, implementation, two pointers
 [problem:CodeForces-2227C] constructive algorithms, math
 [problem:CodeForces-2227B] greedy
 [problem:CodeForces-2227A] implementation, math
-[problem:CodeForces-2226G] strings, trees
+[problem:CodeForces-2226G] implementation, strings, trees
 [problem:CodeForces-2226F] math, number theory
 [problem:CodeForces-2226E] data structures, greedy, math, two pointers
 [problem:CodeForces-2226D] constructive algorithms, dp, greedy, math
@@ -11006,6 +11006,14 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2225C] dp, greedy
 [problem:CodeForces-2225B] brute force, greedy
 [problem:CodeForces-2225A] greedy, math
+[problem:CodeForces-2224B] constructive algorithms, greedy, math, sortings
+[problem:CodeForces-2224A] constructive algorithms, greedy
+[problem:CodeForces-2223F] divide and conquer, fft, math
+[problem:CodeForces-2223E] data structures, divide and conquer, trees
+[problem:CodeForces-2223D] graphs, greedy
+[problem:CodeForces-2223C] chinese remainder theorem, dfs and similar, math, number theory, trees
+[problem:CodeForces-2223B] binary search, data structures, dp, math, sortings, two pointers
+[problem:CodeForces-2223A] constructive algorithms, greedy
 [problem:CodeForces-2222H] brute force, combinatorics, dp
 [problem:CodeForces-2222G] binary search, brute force, dfs and similar, divide and conquer, graphs, trees
 [problem:CodeForces-2222F] data structures, divide and conquer, dsu, graphs, implementation

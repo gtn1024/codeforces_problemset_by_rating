@@ -10986,13 +10986,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 * [Fallen Leaves](https://codeforces.com/problemset/problem/2227/H): dfs and similar dp trees
 * [Drowning](https://codeforces.com/problemset/problem/2227/G): binary search data structures math
-* [It Just Keeps Going Sideways](https://codeforces.com/problemset/problem/2227/F): data structures dp greedy math
+* [It Just Keeps Going Sideways](https://codeforces.com/problemset/problem/2227/F): binary search data structures dp greedy math
 * [It All Went Sideways](https://codeforces.com/problemset/problem/2227/E): binary search data structures dp greedy
 * [Palindromex](https://codeforces.com/problemset/problem/2227/D): binary search brute force constructive algorithms data structures greedy implementation two pointers
 * [Snowfall](https://codeforces.com/problemset/problem/2227/C): constructive algorithms math
 * [Party Monster](https://codeforces.com/problemset/problem/2227/B): greedy
 * [Koshary](https://codeforces.com/problemset/problem/2227/A): implementation math
-* [Stop Spot](https://codeforces.com/problemset/problem/2226/G): strings trees
+* [Stop Spot](https://codeforces.com/problemset/problem/2226/G): implementation strings trees
 * [Inversion Invasion](https://codeforces.com/problemset/problem/2226/F): math number theory
 * [Mental Monumental (Hard Version)](https://codeforces.com/problemset/problem/2226/E): data structures greedy math two pointers
 * [Reserved Reversals](https://codeforces.com/problemset/problem/2226/D): constructive algorithms dp greedy math
@@ -11006,6 +11006,14 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Red-Black Pairs](https://codeforces.com/problemset/problem/2225/C): dp greedy
 * [Alternating String](https://codeforces.com/problemset/problem/2225/B): brute force greedy
 * [A Number Between Two Others](https://codeforces.com/problemset/problem/2225/A): greedy math
+* [Zhily and Mex and Max](https://codeforces.com/problemset/problem/2224/B): constructive algorithms greedy math sortings
+* [Zhily and Array Operating](https://codeforces.com/problemset/problem/2224/A): constructive algorithms greedy
+* [Zhily and Colorful Strings](https://codeforces.com/problemset/problem/2223/F): divide and conquer fft math
+* [Zhily and Permutation](https://codeforces.com/problemset/problem/2223/E): data structures divide and conquer trees
+* [Zhily and Cycle](https://codeforces.com/problemset/problem/2223/D): graphs greedy
+* [Zhily and Signpost](https://codeforces.com/problemset/problem/2223/C): chinese remainder theorem dfs and similar math number theory trees
+* [Zhily and Barknights](https://codeforces.com/problemset/problem/2223/B): binary search data structures dp math sortings two pointers
+* [Zhily and Bracket Swapping](https://codeforces.com/problemset/problem/2223/A): constructive algorithms greedy
 * [Counting Sort?](https://codeforces.com/problemset/problem/2222/H): brute force combinatorics dp
 * [Statistics on Tree](https://codeforces.com/problemset/problem/2222/G): binary search brute force dfs and similar divide and conquer graphs trees
 * [Building Tree](https://codeforces.com/problemset/problem/2222/F): data structures divide and conquer dsu graphs implementation
