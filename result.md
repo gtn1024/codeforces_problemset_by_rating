@@ -10984,6 +10984,26 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Quadratic Jumps](https://codeforces.com/problemset/problem/2231/F): constructive algorithms greedy math
+* [Graph Cutting](https://codeforces.com/problemset/problem/2231/E): dp trees
+* [Maximum Prefix Sums](https://codeforces.com/problemset/problem/2231/D): constructive algorithms greedy implementation two pointers
+* [Chipmunk Theo and Equality](https://codeforces.com/problemset/problem/2231/C): implementation
+* [Another Sorting Problem](https://codeforces.com/problemset/problem/2231/B): constructive algorithms
+* [Construct an Array](https://codeforces.com/problemset/problem/2231/A): constructive algorithms
+* [Game on Growing Tree](https://codeforces.com/problemset/problem/2230/F): binary search dfs and similar divide and conquer dp games implementation trees
+* [Minimum Influence](https://codeforces.com/problemset/problem/2230/E): binary search data structures greedy implementation math sortings two pointers
+* [Good Schedule](https://codeforces.com/problemset/problem/2230/D): dp greedy
+* [Arrange the Numbers in a Circle](https://codeforces.com/problemset/problem/2230/C): constructive algorithms implementation math
+* [Digit String](https://codeforces.com/problemset/problem/2230/B): greedy implementation math
+* [Optimal Purchase](https://codeforces.com/problemset/problem/2230/A): implementation math
+* [Momoyo and the Network](https://codeforces.com/problemset/problem/2228/F): binary search dfs and similar divide and conquer dp trees
+* [Amanojaku and Sequence (Hard Version)](https://codeforces.com/problemset/problem/2228/E2): combinatorics data structures implementation math
+* [Amanojaku and Sequence (Easy Version)](https://codeforces.com/problemset/problem/2228/E1): combinatorics math
+* [Sanae, Cross and Color](https://codeforces.com/problemset/problem/2228/D): binary search data structures implementation
+* [Cirno and Number (Hard Version)](https://codeforces.com/problemset/problem/2228/C2): binary search dfs and similar dp greedy implementation
+* [Cirno and Number (Easy Version)](https://codeforces.com/problemset/problem/2228/C1): binary search brute force dp greedy implementation
+* [Remilia Plays Soku](https://codeforces.com/problemset/problem/2228/B): games implementation
+* [Marisa Steals Reimu's Takeout](https://codeforces.com/problemset/problem/2228/A): greedy implementation
 * [Fallen Leaves](https://codeforces.com/problemset/problem/2227/H): dfs and similar dp trees
 * [Drowning](https://codeforces.com/problemset/problem/2227/G): binary search data structures math
 * [It Just Keeps Going Sideways](https://codeforces.com/problemset/problem/2227/F): binary search data structures dp greedy math
