@@ -10984,10 +10984,10 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Quadratic Jumps](https://codeforces.com/problemset/problem/2231/F): constructive algorithms greedy math
-* [Graph Cutting](https://codeforces.com/problemset/problem/2231/E): dp trees
+* [Quadratic Jumps](https://codeforces.com/problemset/problem/2231/F): brute force constructive algorithms greedy math number theory
+* [Graph Cutting](https://codeforces.com/problemset/problem/2231/E): dfs and similar dp math trees
 * [Maximum Prefix Sums](https://codeforces.com/problemset/problem/2231/D): constructive algorithms greedy implementation two pointers
-* [Chipmunk Theo and Equality](https://codeforces.com/problemset/problem/2231/C): implementation
+* [Chipmunk Theo and Equality](https://codeforces.com/problemset/problem/2231/C): implementation sortings
 * [Another Sorting Problem](https://codeforces.com/problemset/problem/2231/B): constructive algorithms
 * [Construct an Array](https://codeforces.com/problemset/problem/2231/A): constructive algorithms
 * [Game on Growing Tree](https://codeforces.com/problemset/problem/2230/F): binary search dfs and similar divide and conquer dp games implementation trees
@@ -10996,6 +10996,16 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Arrange the Numbers in a Circle](https://codeforces.com/problemset/problem/2230/C): constructive algorithms implementation math
 * [Digit String](https://codeforces.com/problemset/problem/2230/B): greedy implementation math
 * [Optimal Purchase](https://codeforces.com/problemset/problem/2230/A): implementation math
+* [The Endians](https://codeforces.com/problemset/problem/2229/I): dp trees
+* [Wowee Binary String](https://codeforces.com/problemset/problem/2229/H): combinatorics dp strings
+* [Roadworks](https://codeforces.com/problemset/problem/2229/G): binary search data structures dp greedy two pointers
+* [Load Unbalancing](https://codeforces.com/problemset/problem/2229/F): binary search bitmasks dp greedy
+* [Deconstruction Tree](https://codeforces.com/problemset/problem/2229/E): combinatorics data structures dp graphs trees
+* [Me When Median Problem](https://codeforces.com/problemset/problem/2229/D): binary search greedy
+* [We Be Flipping (Hard Version)](https://codeforces.com/problemset/problem/2229/C2): constructive algorithms dp greedy
+* [We Be Flipping (Easy Version)](https://codeforces.com/problemset/problem/2229/C1): constructive algorithms greedy
+* [Absolute Cinema](https://codeforces.com/problemset/problem/2229/B): greedy math
+* [Slimes on a Line](https://codeforces.com/problemset/problem/2229/A): brute force greedy math
 * [Momoyo and the Network](https://codeforces.com/problemset/problem/2228/F): binary search dfs and similar divide and conquer dp trees
 * [Amanojaku and Sequence (Hard Version)](https://codeforces.com/problemset/problem/2228/E2): combinatorics data structures implementation math
 * [Amanojaku and Sequence (Easy Version)](https://codeforces.com/problemset/problem/2228/E1): combinatorics math
