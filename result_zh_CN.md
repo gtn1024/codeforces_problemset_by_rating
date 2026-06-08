@@ -36,6 +36,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+* [Convergence](https://codeforces.com/problemset/problem/2232/A): greedy sortings
 * [Construct an Array](https://codeforces.com/problemset/problem/2231/A): constructive algorithms
 * [Optimal Purchase](https://codeforces.com/problemset/problem/2230/A): implementation math
 * [Absolute Cinema](https://codeforces.com/problemset/problem/2229/B): greedy math
@@ -1108,6 +1109,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 900
 
+* [Cake Leveling](https://codeforces.com/problemset/problem/2232/B): binary search greedy math
 * [We Be Flipping (Easy Version)](https://codeforces.com/problemset/problem/2229/C1): constructive algorithms greedy
 * [Everything Everywhere](https://codeforces.com/problemset/problem/2226/B): greedy math number theory
 * [Alternating String](https://codeforces.com/problemset/problem/2225/B): brute force greedy
@@ -2751,6 +2753,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1300
 
+* [Seating Arrangement (Easy Version)](https://codeforces.com/problemset/problem/2232/C1): binary search dp greedy two pointers
 * [Arrange the Numbers in a Circle](https://codeforces.com/problemset/problem/2230/C): constructive algorithms implementation math
 * [Zhily and Bracket Swapping](https://codeforces.com/problemset/problem/2223/A): constructive algorithms greedy
 * [Grid Covering](https://codeforces.com/problemset/problem/2217/C): chinese remainder theorem math number theory
@@ -3676,6 +3679,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1500
 
+* [Seating Arrangement (Hard Version)](https://codeforces.com/problemset/problem/2232/C2): binary search greedy math two pointers
 * [Cirno and Number (Easy Version)](https://codeforces.com/problemset/problem/2228/C1): binary search brute force dp greedy implementation
 * [Mental Monumental (Easy Version)](https://codeforces.com/problemset/problem/2226/C): binary search data structures greedy math two pointers
 * [Exceptional Segments](https://codeforces.com/problemset/problem/2225/D): bitmasks brute force math
@@ -6213,6 +6217,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
+* [Magical Tiered Cake](https://codeforces.com/problemset/problem/2232/D): constructive algorithms dfs and similar dp greedy
 * [Drowning](https://codeforces.com/problemset/problem/2227/G): binary search data structures math
 * [Seek the Truth](https://codeforces.com/problemset/problem/2222/E): binary search bitmasks constructive algorithms interactive
 * [Unique Values (Hard version)](https://codeforces.com/problemset/problem/2219/B2): binary search bitmasks constructive algorithms interactive
@@ -8918,6 +8923,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2600
 
+* [Snaking Arrangement](https://codeforces.com/problemset/problem/2232/E): combinatorics constructive algorithms
 * [Quadratic Jumps](https://codeforces.com/problemset/problem/2231/F): brute force constructive algorithms greedy math number theory
 * [String Cutting](https://codeforces.com/problemset/problem/2225/F): binary search brute force greedy hashing string suffix structures strings
 * [Building Tree](https://codeforces.com/problemset/problem/2222/F): data structures divide and conquer dsu graphs implementation
@@ -10060,6 +10066,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3000
 
+* [The Cake Is a Lie](https://codeforces.com/problemset/problem/2232/F): greedy math number theory
 * [Stop Spot](https://codeforces.com/problemset/problem/2226/G): implementation strings trees
 * [Simons and Diophantus Equation](https://codeforces.com/problemset/problem/2205/G): bitmasks brute force data structures math number theory
 * [Strange Process](https://codeforces.com/problemset/problem/2199/I): *special
@@ -11060,13 +11067,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [The Cake Is a Lie](https://codeforces.com/problemset/problem/2232/F): greedy math number theory
-* [Snaking Arrangement](https://codeforces.com/problemset/problem/2232/E): combinatorics constructive algorithms
-* [Magical Tiered Cake](https://codeforces.com/problemset/problem/2232/D): constructive algorithms dfs and similar dp greedy
-* [Seating Arrangement (Hard Version)](https://codeforces.com/problemset/problem/2232/C2): binary search greedy ternary search two pointers
-* [Seating Arrangement (Easy Version)](https://codeforces.com/problemset/problem/2232/C1): binary search dp greedy ternary search two pointers
-* [Cake Leveling](https://codeforces.com/problemset/problem/2232/B): binary search greedy math
-* [Convergence](https://codeforces.com/problemset/problem/2232/A): greedy sortings
+* [Stripe, Token and Two Players](https://codeforces.com/problemset/problem/2234/G): data structures games
+* [Vessels, Heights and Two Versions (Hard Version)](https://codeforces.com/problemset/problem/2234/F): data structures dfs and similar dsu greedy implementation trees
+* [Vlad, Misha and Two Arrays](https://codeforces.com/problemset/problem/2234/E): combinatorics data structures divide and conquer
+* [XOR, Expression and Two Binary Numbers](https://codeforces.com/problemset/problem/2234/D): bitmasks constructive algorithms implementation math number theory
+* [Vessels, Heights and Two Versions (Easy Version)](https://codeforces.com/problemset/problem/2234/C): dfs and similar dsu greedy implementation two pointers
+* [Palindrome, Twelve and Two Terms](https://codeforces.com/problemset/problem/2234/B): math
+* [Euclid, Sequence and Two Numbers](https://codeforces.com/problemset/problem/2234/A): math number theory
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
 * [You Are a Robot](https://codeforces.com/problemset/problem/2214/I): *special
 * [Double Vision](https://codeforces.com/problemset/problem/2214/H): *special
