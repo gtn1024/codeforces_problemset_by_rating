@@ -36,6 +36,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+* [Tatar TV Show](https://codeforces.com/problemset/problem/2236/B): greedy math strings
+* [Games on the Train](https://codeforces.com/problemset/problem/2236/A): greedy math
 * [Palindrome, Twelve and Two Terms](https://codeforces.com/problemset/problem/2234/B): brute force constructive algorithms math
 * [Euclid, Sequence and Two Numbers](https://codeforces.com/problemset/problem/2234/A): math number theory sortings
 * [AI Project Development](https://codeforces.com/problemset/problem/2233/A): brute force math
@@ -1462,6 +1464,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1000
 
+* [Omsk Programmers](https://codeforces.com/problemset/problem/2236/C): brute force greedy math
 * [Digit String](https://codeforces.com/problemset/problem/2230/B): greedy implementation math
 * [Flip the Bit (Easy Version)](https://codeforces.com/problemset/problem/2217/B): greedy implementation
 * [Spring](https://codeforces.com/problemset/problem/2204/C): math number theory
@@ -2758,6 +2761,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1300
 
+* [Brand New Tatar TV Show](https://codeforces.com/problemset/problem/2236/D): binary search constructive algorithms dp games math
 * [Seating Arrangement (Easy Version)](https://codeforces.com/problemset/problem/2232/C1): binary search dp greedy two pointers
 * [Arrange the Numbers in a Circle](https://codeforces.com/problemset/problem/2230/C): constructive algorithms implementation math
 * [Zhily and Bracket Swapping](https://codeforces.com/problemset/problem/2223/A): constructive algorithms greedy
@@ -4682,6 +4686,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1700
 
+* [Elections in Saransk (easy version)](https://codeforces.com/problemset/problem/2236/F1): number theory
+* [Friendly Gifts](https://codeforces.com/problemset/problem/2236/E): brute force dp
 * [Good Schedule](https://codeforces.com/problemset/problem/2230/D): dp greedy
 * [Me When Median Problem](https://codeforces.com/problemset/problem/2229/D): binary search greedy
 * [It Just Keeps Going Sideways](https://codeforces.com/problemset/problem/2227/F): binary search data structures dp greedy math
@@ -7172,6 +7178,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2200
 
+* [Elections in Saransk (hard version)](https://codeforces.com/problemset/problem/2236/F2): combinatorics dp math number theory
 * [Permutation Transmission (Easy Version)](https://codeforces.com/problemset/problem/2233/E1): bitmasks combinatorics sortings
 * [Covering Points with Circles](https://codeforces.com/problemset/problem/2225/E): constructive algorithms geometry math
 * [Oriented Journey](https://codeforces.com/problemset/problem/2215/C): bitmasks brute force communication constructive algorithms graphs interactive trees
@@ -8935,6 +8942,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2600
 
+* [Criterion in Burlandia](https://codeforces.com/problemset/problem/2236/G): binary search bitmasks brute force data structures dfs and similar divide and conquer implementation trees two pointers
 * [Snaking Arrangement](https://codeforces.com/problemset/problem/2232/E): combinatorics constructive algorithms
 * [Quadratic Jumps](https://codeforces.com/problemset/problem/2231/F): brute force constructive algorithms greedy math number theory
 * [String Cutting](https://codeforces.com/problemset/problem/2225/F): binary search brute force greedy hashing string suffix structures strings
@@ -11081,14 +11089,16 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Criterion in Burlandia](https://codeforces.com/problemset/problem/2236/G): binary search bitmasks brute force data structures dfs and similar implementation trees two pointers
-* [Elections in Saransk (hard version)](https://codeforces.com/problemset/problem/2236/F2): combinatorics dp fft math number theory
-* [Elections in Saransk (easy version)](https://codeforces.com/problemset/problem/2236/F1): number theory
-* [Friendly Gifts](https://codeforces.com/problemset/problem/2236/E): brute force dp
-* [Brand New Tatar TV Show](https://codeforces.com/problemset/problem/2236/D): binary search constructive algorithms dp games math
-* [Omsk Programmers](https://codeforces.com/problemset/problem/2236/C): brute force greedy math
-* [Tatar TV Show](https://codeforces.com/problemset/problem/2236/B): greedy math strings
-* [Games on the Train](https://codeforces.com/problemset/problem/2236/A): greedy math
+* [DBFS Order (Hard Version)](https://codeforces.com/problemset/problem/2237/I2): dp trees
+* [DBFS Order (Easy Version)](https://codeforces.com/problemset/problem/2237/I1): dp trees
+* [Slime and Queries](https://codeforces.com/problemset/problem/2237/H): data structures greedy trees
+* [Send GCDs](https://codeforces.com/problemset/problem/2237/G): communication interactive math number theory
+* [Paint the Array](https://codeforces.com/problemset/problem/2237/F): data structures dp greedy
+* [Permutation Commutation](https://codeforces.com/problemset/problem/2237/E): data structures graphs greedy
+* [Fullmetal Bitchemist](https://codeforces.com/problemset/problem/2237/D): constructive algorithms greedy math
+* [Duck Surplus](https://codeforces.com/problemset/problem/2237/C): dp greedy
+* [Annoying the Ghost](https://codeforces.com/problemset/problem/2237/B): brute force greedy
+* [Destroying Towers](https://codeforces.com/problemset/problem/2237/A): games greedy schedules
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
 * [You Are a Robot](https://codeforces.com/problemset/problem/2214/I): *special
 * [Double Vision](https://codeforces.com/problemset/problem/2214/H): *special
