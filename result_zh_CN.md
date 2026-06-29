@@ -36,6 +36,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+* [Destroying Towers](https://codeforces.com/problemset/problem/2237/A): games greedy schedules
 * [Tatar TV Show](https://codeforces.com/problemset/problem/2236/B): greedy math strings
 * [Games on the Train](https://codeforces.com/problemset/problem/2236/A): greedy math
 * [Palindrome, Twelve and Two Terms](https://codeforces.com/problemset/problem/2234/B): brute force constructive algorithms math
@@ -1464,6 +1465,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1000
 
+* [Duck Surplus](https://codeforces.com/problemset/problem/2237/C): binary search greedy
+* [Annoying the Ghost](https://codeforces.com/problemset/problem/2237/B): brute force greedy
 * [Omsk Programmers](https://codeforces.com/problemset/problem/2236/C): brute force greedy math
 * [Digit String](https://codeforces.com/problemset/problem/2230/B): greedy implementation math
 * [Flip the Bit (Easy Version)](https://codeforces.com/problemset/problem/2217/B): greedy implementation
@@ -3689,6 +3692,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1500
 
+* [Fullmetal Bitchemist](https://codeforces.com/problemset/problem/2237/D): constructive algorithms greedy math
 * [XOR, Expression and Two Binary Numbers](https://codeforces.com/problemset/problem/2234/D): bitmasks divide and conquer dp math number theory
 * [Seating Arrangement (Hard Version)](https://codeforces.com/problemset/problem/2232/C2): binary search greedy math two pointers
 * [Cirno and Number (Easy Version)](https://codeforces.com/problemset/problem/2228/C1): binary search brute force dp greedy implementation
@@ -6232,6 +6236,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
+* [Permutation Commutation](https://codeforces.com/problemset/problem/2237/E): data structures graphs greedy
 * [Magical Tiered Cake](https://codeforces.com/problemset/problem/2232/D): constructive algorithms dfs and similar dp greedy
 * [Drowning](https://codeforces.com/problemset/problem/2227/G): binary search data structures math
 * [Seek the Truth](https://codeforces.com/problemset/problem/2222/E): binary search bitmasks constructive algorithms interactive
@@ -8063,6 +8068,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2400
 
+* [Paint the Array](https://codeforces.com/problemset/problem/2237/F): data structures dp greedy
 * [Load Unbalancing](https://codeforces.com/problemset/problem/2229/F): binary search bitmasks dp greedy
 * [Amanojaku and Sequence (Easy Version)](https://codeforces.com/problemset/problem/2228/E1): combinatorics math
 * [Learning Binary Search](https://codeforces.com/problemset/problem/2211/F): combinatorics divide and conquer dp math
@@ -9848,6 +9854,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2900
 
+* [Send GCDs](https://codeforces.com/problemset/problem/2237/G): communication constructive algorithms interactive math number theory
 * [Roadworks](https://codeforces.com/problemset/problem/2229/G): binary search data structures dp greedy two pointers
 * [Simple Problem](https://codeforces.com/problemset/problem/2225/G): brute force graphs greedy number theory
 * [Rational Bubble Sort](https://codeforces.com/problemset/problem/2211/G): constructive algorithms geometry greedy
@@ -10851,6 +10858,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3500
 
+* [DBFS Order (Hard Version)](https://codeforces.com/problemset/problem/2237/I2): dp trees
+* [DBFS Order (Easy Version)](https://codeforces.com/problemset/problem/2237/I1): dp trees
+* [Slime and Queries](https://codeforces.com/problemset/problem/2237/H): data structures greedy trees
 * [Zhily and Permutation](https://codeforces.com/problemset/problem/2223/E): data structures divide and conquer trees
 * [Counting Sort?](https://codeforces.com/problemset/problem/2222/H): brute force combinatorics dp
 * [Weird Chessboard](https://codeforces.com/problemset/problem/2219/E): constructive algorithms math
@@ -11089,16 +11099,20 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [DBFS Order (Hard Version)](https://codeforces.com/problemset/problem/2237/I2): dp trees
-* [DBFS Order (Easy Version)](https://codeforces.com/problemset/problem/2237/I1): dp trees
-* [Slime and Queries](https://codeforces.com/problemset/problem/2237/H): data structures greedy trees
-* [Send GCDs](https://codeforces.com/problemset/problem/2237/G): communication interactive math number theory
-* [Paint the Array](https://codeforces.com/problemset/problem/2237/F): data structures dp greedy
-* [Permutation Commutation](https://codeforces.com/problemset/problem/2237/E): data structures graphs greedy
-* [Fullmetal Bitchemist](https://codeforces.com/problemset/problem/2237/D): constructive algorithms greedy math
-* [Duck Surplus](https://codeforces.com/problemset/problem/2237/C): dp greedy
-* [Annoying the Ghost](https://codeforces.com/problemset/problem/2237/B): brute force greedy
-* [Destroying Towers](https://codeforces.com/problemset/problem/2237/A): games greedy schedules
+* [AI Finds Nothing Here](https://codeforces.com/problemset/problem/2240/B): combinatorics
+* [Another Popcount Problem](https://codeforces.com/problemset/problem/2240/A): greedy
+* [Colorful Works](https://codeforces.com/problemset/problem/2239/F): dp fft games implementation
+* [The end of this world,](https://codeforces.com/problemset/problem/2239/E): divide and conquer dsu
+* [Hunting the Beast](https://codeforces.com/problemset/problem/2239/D): combinatorics dp graphs math
+* [Revival](https://codeforces.com/problemset/problem/2239/C): binary search constructive algorithms data structures math two pointers
+* [Decidophobia](https://codeforces.com/problemset/problem/2239/B): greedy sortings two pointers
+* [Nim Game Is XOR Game](https://codeforces.com/problemset/problem/2239/A): bitmasks constructive algorithms games greedy math
+* [Infinite Work](https://codeforces.com/problemset/problem/2238/F): combinatorics graphs greedy math
+* [Cake Trial](https://codeforces.com/problemset/problem/2238/E): dp greedy
+* [Storming Arasaka](https://codeforces.com/problemset/problem/2238/D): greedy math number theory
+* [Village Guilds](https://codeforces.com/problemset/problem/2238/C): dfs and similar dp trees
+* [Crimson Triples](https://codeforces.com/problemset/problem/2238/B): math number theory
+* [Another Puzzle from Papyrus](https://codeforces.com/problemset/problem/2238/A): greedy math sortings
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
 * [You Are a Robot](https://codeforces.com/problemset/problem/2214/I): *special
 * [Double Vision](https://codeforces.com/problemset/problem/2214/H): *special
