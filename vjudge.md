@@ -11126,17 +11126,33 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2247F] data structures, dp, hashing
+[problem:CodeForces-2247E] constructive algorithms, trees
+[problem:CodeForces-2247D2] bitmasks, data structures, greedy
+[problem:CodeForces-2247D1] bitmasks, greedy
+[problem:CodeForces-2247C] greedy, math
+[problem:CodeForces-2247B] constructive algorithms
+[problem:CodeForces-2247A] constructive algorithms, dp, number theory
 [problem:CodeForces-2246F] constructive algorithms
 [problem:CodeForces-2246E] bitmasks, interactive, math, probabilities
 [problem:CodeForces-2246D] bitmasks, brute force, games, greedy
 [problem:CodeForces-2246C] combinatorics, dp, math
 [problem:CodeForces-2246B] constructive algorithms, number theory
 [problem:CodeForces-2246A] constructive algorithms
+[problem:CodeForces-2245H] brute force, data structures
+[problem:CodeForces-2245G] divide and conquer, interactive
+[problem:CodeForces-2245F] brute force, combinatorics, dp
+[problem:CodeForces-2245E] dfs and similar, dsu, games, trees
+[problem:CodeForces-2245D2] 2-sat, constructive algorithms, dfs and similar, graphs, implementation
+[problem:CodeForces-2245D1] dfs and similar, implementation
+[problem:CodeForces-2245C] bitmasks, constructive algorithms, math
+[problem:CodeForces-2245B] greedy
+[problem:CodeForces-2245A] greedy
 [problem:CodeForces-2244G] data structures, dp
-[problem:CodeForces-2244F] dp, greedy, trees
-[problem:CodeForces-2244E] data structures, dp, strings
+[problem:CodeForces-2244F] dfs and similar, dp, greedy, trees
+[problem:CodeForces-2244E] data structures, dp, greedy, implementation, math, number theory, strings
 [problem:CodeForces-2244D] constructive algorithms, dp, greedy, math, number theory
-[problem:CodeForces-2244C] constructive algorithms, dsu, greedy, math, number theory, sortings
+[problem:CodeForces-2244C] constructive algorithms, dfs and similar, dsu, greedy, math, number theory, sortings
 [problem:CodeForces-2244B] greedy, math, sortings
 [problem:CodeForces-2244A] dp, games, greedy, strings
 [problem:CodeForces-2214J] *special, brute force, games, interactive

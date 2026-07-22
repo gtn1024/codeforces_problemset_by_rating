@@ -11126,17 +11126,33 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Paths on a Grid](https://codeforces.com/problemset/problem/2247/F): data structures dp hashing
+* [Build a Tree](https://codeforces.com/problemset/problem/2247/E): constructive algorithms trees
+* [XOR Sorting (Hard Version)](https://codeforces.com/problemset/problem/2247/D2): bitmasks data structures greedy
+* [XOR Sorting (Easy Version)](https://codeforces.com/problemset/problem/2247/D1): bitmasks greedy
+* [Inversion of a Subsequence](https://codeforces.com/problemset/problem/2247/C): greedy math
+* [Yet Another Constructive](https://codeforces.com/problemset/problem/2247/B): constructive algorithms
+* [Zero Sum](https://codeforces.com/problemset/problem/2247/A): constructive algorithms dp number theory
 * [Whoname and Unsorted Array](https://codeforces.com/problemset/problem/2246/F): constructive algorithms
 * [lce4113 and Security Game](https://codeforces.com/problemset/problem/2246/E): bitmasks interactive math probabilities
 * [diss_quack and Array Game](https://codeforces.com/problemset/problem/2246/D): bitmasks brute force games greedy
 * [0mar and Alternating Sums](https://codeforces.com/problemset/problem/2246/C): combinatorics dp math
 * [ezraft and Array](https://codeforces.com/problemset/problem/2246/B): constructive algorithms number theory
 * [farmpiggie and Subset Sum](https://codeforces.com/problemset/problem/2246/A): constructive algorithms
+* [Connect Connect See](https://codeforces.com/problemset/problem/2245/H): brute force data structures
+* [NPC Challenge](https://codeforces.com/problemset/problem/2245/G): divide and conquer interactive
+* [Familiar?](https://codeforces.com/problemset/problem/2245/F): brute force combinatorics dp
+* [Tom and Jerry](https://codeforces.com/problemset/problem/2245/E): dfs and similar dsu games trees
+* [Construct an Array (Hard Version)](https://codeforces.com/problemset/problem/2245/D2): 2-sat constructive algorithms dfs and similar graphs implementation
+* [Construct an Array (Easy Version)](https://codeforces.com/problemset/problem/2245/D1): dfs and similar implementation
+* [MEXOR](https://codeforces.com/problemset/problem/2245/C): bitmasks constructive algorithms math
+* [Delete and Concatenate](https://codeforces.com/problemset/problem/2245/B): greedy
+* [Who Watches the Watchpig?](https://codeforces.com/problemset/problem/2245/A): greedy
 * [Yura and Deadlines](https://codeforces.com/problemset/problem/2244/G): data structures dp
-* [Anya Loves Trees!](https://codeforces.com/problemset/problem/2244/F): dp greedy trees
-* [Masha and the Garland](https://codeforces.com/problemset/problem/2244/E): data structures dp strings
+* [Anya Loves Trees!](https://codeforces.com/problemset/problem/2244/F): dfs and similar dp greedy trees
+* [Masha and the Garland](https://codeforces.com/problemset/problem/2244/E): data structures dp greedy implementation math number theory strings
 * [Yaroslav and Productivity](https://codeforces.com/problemset/problem/2244/D): constructive algorithms dp greedy math number theory
-* [Stepan and Permutation](https://codeforces.com/problemset/problem/2244/C): constructive algorithms dsu greedy math number theory sortings
+* [Stepan and Permutation](https://codeforces.com/problemset/problem/2244/C): constructive algorithms dfs and similar dsu greedy math number theory sortings
 * [Nikita and Books](https://codeforces.com/problemset/problem/2244/B): greedy math sortings
 * [Iskander and Drawings](https://codeforces.com/problemset/problem/2244/A): dp games greedy strings
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
