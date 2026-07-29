@@ -11126,8 +11126,17 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [String Construction](https://codeforces.com/problemset/problem/2250/B): constructive algorithms
+* [Threshold Movement](https://codeforces.com/problemset/problem/2250/A): brute force implementation math
+* [Even Simple Path](https://codeforces.com/problemset/problem/2249/F): constructive algorithms graphs shortest paths
+* [String (Hard Version)](https://codeforces.com/problemset/problem/2249/E2): divide and conquer implementation strings
+* [String (Easy Version)](https://codeforces.com/problemset/problem/2249/E1): divide and conquer implementation strings
+* [Xor Permutation Matrix](https://codeforces.com/problemset/problem/2249/D): bitmasks constructive algorithms math
+* [Double-Rift Dial](https://codeforces.com/problemset/problem/2249/C): data structures dfs and similar dsu implementation two pointers
+* [Permutation Cuts](https://codeforces.com/problemset/problem/2249/B): combinatorics implementation math
+* [Rank Subsequence](https://codeforces.com/problemset/problem/2249/A): brute force greedy implementation
 * [Paths on a Grid](https://codeforces.com/problemset/problem/2247/F): data structures dp hashing
-* [Build a Tree](https://codeforces.com/problemset/problem/2247/E): constructive algorithms trees
+* [Build a Tree](https://codeforces.com/problemset/problem/2247/E): constructive algorithms trees two pointers
 * [XOR Sorting (Hard Version)](https://codeforces.com/problemset/problem/2247/D2): bitmasks data structures greedy
 * [XOR Sorting (Easy Version)](https://codeforces.com/problemset/problem/2247/D1): bitmasks greedy
 * [Inversion of a Subsequence](https://codeforces.com/problemset/problem/2247/C): greedy math
@@ -11144,7 +11153,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Familiar?](https://codeforces.com/problemset/problem/2245/F): brute force combinatorics dp
 * [Tom and Jerry](https://codeforces.com/problemset/problem/2245/E): dfs and similar dsu games trees
 * [Construct an Array (Hard Version)](https://codeforces.com/problemset/problem/2245/D2): 2-sat constructive algorithms dfs and similar graphs implementation
-* [Construct an Array (Easy Version)](https://codeforces.com/problemset/problem/2245/D1): dfs and similar implementation
+* [Construct an Array (Easy Version)](https://codeforces.com/problemset/problem/2245/D1): dfs and similar implementation sortings
 * [MEXOR](https://codeforces.com/problemset/problem/2245/C): bitmasks constructive algorithms math
 * [Delete and Concatenate](https://codeforces.com/problemset/problem/2245/B): greedy
 * [Who Watches the Watchpig?](https://codeforces.com/problemset/problem/2245/A): greedy

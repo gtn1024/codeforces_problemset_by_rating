@@ -11126,8 +11126,17 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2250B] constructive algorithms
+[problem:CodeForces-2250A] brute force, implementation, math
+[problem:CodeForces-2249F] constructive algorithms, graphs, shortest paths
+[problem:CodeForces-2249E2] divide and conquer, implementation, strings
+[problem:CodeForces-2249E1] divide and conquer, implementation, strings
+[problem:CodeForces-2249D] bitmasks, constructive algorithms, math
+[problem:CodeForces-2249C] data structures, dfs and similar, dsu, implementation, two pointers
+[problem:CodeForces-2249B] combinatorics, implementation, math
+[problem:CodeForces-2249A] brute force, greedy, implementation
 [problem:CodeForces-2247F] data structures, dp, hashing
-[problem:CodeForces-2247E] constructive algorithms, trees
+[problem:CodeForces-2247E] constructive algorithms, trees, two pointers
 [problem:CodeForces-2247D2] bitmasks, data structures, greedy
 [problem:CodeForces-2247D1] bitmasks, greedy
 [problem:CodeForces-2247C] greedy, math
@@ -11144,7 +11153,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2245F] brute force, combinatorics, dp
 [problem:CodeForces-2245E] dfs and similar, dsu, games, trees
 [problem:CodeForces-2245D2] 2-sat, constructive algorithms, dfs and similar, graphs, implementation
-[problem:CodeForces-2245D1] dfs and similar, implementation
+[problem:CodeForces-2245D1] dfs and similar, implementation, sortings
 [problem:CodeForces-2245C] bitmasks, constructive algorithms, math
 [problem:CodeForces-2245B] greedy
 [problem:CodeForces-2245A] greedy
