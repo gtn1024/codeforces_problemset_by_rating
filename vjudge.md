@@ -11200,6 +11200,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2257F2] data structures, dp, matrices
+[problem:CodeForces-2257F1] data structures, dp, matrices
+[problem:CodeForces-2257E] brute force, data structures, divide and conquer, dp, greedy, implementation, sortings
+[problem:CodeForces-2257D] binary search, implementation, math, number theory, two pointers
+[problem:CodeForces-2257C] constructive algorithms, dfs and similar, dsu, graphs, trees
+[problem:CodeForces-2257B] math
+[problem:CodeForces-2257A] brute force, strings
 [problem:CodeForces-2214J] *special, brute force, games, interactive
 [problem:CodeForces-2214I] *special
 [problem:CodeForces-2214H] *special

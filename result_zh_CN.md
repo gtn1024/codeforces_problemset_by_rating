@@ -11200,6 +11200,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Beaver's Jumping Track (Hard Version)](https://codeforces.com/problemset/problem/2257/F2): data structures dp matrices
+* [Beaver's Jumping Track (Easy Version)](https://codeforces.com/problemset/problem/2257/F1): data structures dp matrices
+* [Busy Beaver](https://codeforces.com/problemset/problem/2257/E): brute force data structures divide and conquer dp greedy implementation sortings
+* [Bermuda Rectangle](https://codeforces.com/problemset/problem/2257/D): binary search implementation math number theory two pointers
+* [Spying on the Beaver](https://codeforces.com/problemset/problem/2257/C): constructive algorithms dfs and similar dsu graphs trees
+* [Gigantomachy](https://codeforces.com/problemset/problem/2257/B): math
+* [Creating Abbreviations](https://codeforces.com/problemset/problem/2257/A): brute force strings
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
 * [You Are a Robot](https://codeforces.com/problemset/problem/2214/I): *special
 * [Double Vision](https://codeforces.com/problemset/problem/2214/H): *special
