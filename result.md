@@ -36,6 +36,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+* [Gigantomachy](https://codeforces.com/problemset/problem/2257/B): math
+* [Creating Abbreviations](https://codeforces.com/problemset/problem/2257/A): brute force strings
 * [Three Numbers on the Blackboard](https://codeforces.com/problemset/problem/2256/A): math sortings
 * [Riptide](https://codeforces.com/problemset/problem/2254/A): implementation sortings
 * [The Best Card](https://codeforces.com/problemset/problem/2253/A): greedy math number theory
@@ -2340,6 +2342,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1200
 
+* [Spying on the Beaver](https://codeforces.com/problemset/problem/2257/C): constructive algorithms dfs and similar dsu graphs trees
 * [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/problemset/problem/2255/A): games greedy implementation
 * [Marenol (hard version)](https://codeforces.com/problemset/problem/2254/C2): greedy sortings
 * [Yaroslav and Productivity](https://codeforces.com/problemset/problem/2244/D): constructive algorithms dp greedy math number theory
@@ -4219,6 +4222,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1600
 
+* [Bermuda Rectangle](https://codeforces.com/problemset/problem/2257/D): binary search implementation math number theory two pointers
 * [A Ribbon for Tomorrow](https://codeforces.com/problemset/problem/2255/B): combinatorics math
 * [Two Digit Strings](https://codeforces.com/problemset/problem/2242/D): dp strings
 * [Fair and Square](https://codeforces.com/problemset/problem/2241/E): combinatorics dp graphs math number theory trees
@@ -6301,6 +6305,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
+* [Busy Beaver](https://codeforces.com/problemset/problem/2257/E): brute force data structures divide and conquer dp greedy implementation sortings
 * [Double-Rift Dial](https://codeforces.com/problemset/problem/2249/C): data structures dfs and similar dsu implementation two pointers
 * [XOR Sorting (Hard Version)](https://codeforces.com/problemset/problem/2247/D2): bitmasks data structures greedy
 * [Construct an Array (Hard Version)](https://codeforces.com/problemset/problem/2245/D2): 2-sat constructive algorithms dfs and similar graphs implementation
@@ -8612,6 +8617,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2500
 
+* [Beaver's Jumping Track (Easy Version)](https://codeforces.com/problemset/problem/2257/F1): data structures dp matrices
 * [Matrix Elimination](https://codeforces.com/problemset/problem/2248/F): binary search greedy math
 * [Hunting the Beast](https://codeforces.com/problemset/problem/2239/D): combinatorics dp graphs math
 * [Amanojaku and Sequence (Hard Version)](https://codeforces.com/problemset/problem/2228/E2): combinatorics data structures implementation math
@@ -9375,6 +9381,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2700
 
+* [Beaver's Jumping Track (Hard Version)](https://codeforces.com/problemset/problem/2257/F2): data structures dp matrices
 * [Summer Vacation](https://codeforces.com/problemset/problem/2242/F): data structures dp probabilities trees
 * [Stripe, Token and Two Players](https://codeforces.com/problemset/problem/2234/G): data structures dp games
 * [Game on Growing Tree](https://codeforces.com/problemset/problem/2230/F): binary search dfs and similar divide and conquer dp games implementation trees
@@ -11200,13 +11207,6 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Beaver's Jumping Track (Hard Version)](https://codeforces.com/problemset/problem/2257/F2): data structures dp matrices
-* [Beaver's Jumping Track (Easy Version)](https://codeforces.com/problemset/problem/2257/F1): data structures dp matrices
-* [Busy Beaver](https://codeforces.com/problemset/problem/2257/E): brute force data structures divide and conquer dp greedy implementation sortings
-* [Bermuda Rectangle](https://codeforces.com/problemset/problem/2257/D): binary search implementation math number theory two pointers
-* [Spying on the Beaver](https://codeforces.com/problemset/problem/2257/C): constructive algorithms dfs and similar dsu graphs trees
-* [Gigantomachy](https://codeforces.com/problemset/problem/2257/B): math
-* [Creating Abbreviations](https://codeforces.com/problemset/problem/2257/A): brute force strings
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
 * [You Are a Robot](https://codeforces.com/problemset/problem/2214/I): *special
 * [Double Vision](https://codeforces.com/problemset/problem/2214/H): *special
@@ -11424,7 +11424,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Neat Words](https://codeforces.com/problemset/problem/1145/F): *special
 * [Fourier Doodles](https://codeforces.com/problemset/problem/1145/E)
 * [Pigeon d'Or](https://codeforces.com/problemset/problem/1145/D): *special implementation
-* [Mystery Circuit](https://codeforces.com/problemset/problem/1145/C): bitmasks brute force
+* [Mystery Circuit](https://codeforces.com/problemset/problem/1145/C): *special bitmasks brute force
 * [Kanban Numbers](https://codeforces.com/problemset/problem/1145/B): *special brute force
 * [Thanos Sort](https://codeforces.com/problemset/problem/1145/A): *special implementation
 * [Hessenberg matrix](https://codeforces.com/problemset/problem/1116/D6): *special
