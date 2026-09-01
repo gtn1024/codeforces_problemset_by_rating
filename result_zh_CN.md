@@ -11207,6 +11207,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Plus Minus Tree](https://codeforces.com/problemset/problem/2258/F): dfs and similar dp graphs trees
+* [DivMEX](https://codeforces.com/problemset/problem/2258/E): data structures math number theory
+* [Magic Tiles](https://codeforces.com/problemset/problem/2258/D): dp greedy implementation
+* [Far Cities](https://codeforces.com/problemset/problem/2258/C): interactive trees two pointers
+* [Carrot Chopdown (Hard Version)](https://codeforces.com/problemset/problem/2258/B2): brute force greedy implementation math
+* [Carrot Chopdown (Easy Version)](https://codeforces.com/problemset/problem/2258/B1): brute force games math
+* [Odd Eraser](https://codeforces.com/problemset/problem/2258/A): math
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
 * [You Are a Robot](https://codeforces.com/problemset/problem/2214/I): *special
 * [Double Vision](https://codeforces.com/problemset/problem/2214/H): *special

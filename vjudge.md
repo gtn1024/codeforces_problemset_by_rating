@@ -11207,6 +11207,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2258F] dfs and similar, dp, graphs, trees
+[problem:CodeForces-2258E] data structures, math, number theory
+[problem:CodeForces-2258D] dp, greedy, implementation
+[problem:CodeForces-2258C] interactive, trees, two pointers
+[problem:CodeForces-2258B2] brute force, greedy, implementation, math
+[problem:CodeForces-2258B1] brute force, games, math
+[problem:CodeForces-2258A] math
 [problem:CodeForces-2214J] *special, brute force, games, interactive
 [problem:CodeForces-2214I] *special
 [problem:CodeForces-2214H] *special
