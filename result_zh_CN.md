@@ -11207,7 +11207,15 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Plus Minus Tree](https://codeforces.com/problemset/problem/2258/F): dfs and similar dp graphs trees
+* [Treasure Map Destruction (Counting Version)](https://codeforces.com/problemset/problem/2259/H): dfs and similar dp graphs math
+* [Index Removal](https://codeforces.com/problemset/problem/2259/G): binary search data structures math
+* [Binary Bubble Sort Inversions](https://codeforces.com/problemset/problem/2259/F): data structures math two pointers
+* [Treasure Map Destruction (Constructive Version)](https://codeforces.com/problemset/problem/2259/E): 2-sat constructive algorithms greedy
+* [MEX Multiset](https://codeforces.com/problemset/problem/2259/D): constructive algorithms greedy
+* [101](https://codeforces.com/problemset/problem/2259/C): constructive algorithms greedy
+* [Minus Two](https://codeforces.com/problemset/problem/2259/B): math number theory
+* [Moo Language School](https://codeforces.com/problemset/problem/2259/A): brute force greedy two pointers
+* [Plus Minus Tree](https://codeforces.com/problemset/problem/2258/F): data structures dfs and similar dp graphs greedy trees
 * [DivMEX](https://codeforces.com/problemset/problem/2258/E): data structures math number theory
 * [Magic Tiles](https://codeforces.com/problemset/problem/2258/D): dp greedy implementation
 * [Far Cities](https://codeforces.com/problemset/problem/2258/C): interactive trees two pointers
