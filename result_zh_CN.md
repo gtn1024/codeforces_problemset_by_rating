@@ -36,6 +36,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 800
 
+* [Rumb Needs a Hand](https://codeforces.com/problemset/problem/2264/A): implementation sortings two pointers
+* [Min Max Game](https://codeforces.com/problemset/problem/2263/A): games
+* [Monocarp's Contest](https://codeforces.com/problemset/problem/2260/A): implementation
 * [Minus Two](https://codeforces.com/problemset/problem/2259/B): math number theory
 * [Moo Language School](https://codeforces.com/problemset/problem/2259/A): brute force greedy two pointers
 * [Odd Eraser](https://codeforces.com/problemset/problem/2258/A): math
@@ -1135,6 +1138,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 900
 
+* [Min Matrices](https://codeforces.com/problemset/problem/2263/B): constructive algorithms
+* [Monocarp and Projects](https://codeforces.com/problemset/problem/2260/B): brute force math number theory
 * [Carrot Chopdown (Easy Version)](https://codeforces.com/problemset/problem/2258/B1): brute force games math
 * [Evanescent](https://codeforces.com/problemset/problem/2254/B): implementation strings two pointers
 * [Yet Another Constructive](https://codeforces.com/problemset/problem/2247/B): constructive algorithms
@@ -1490,6 +1495,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1000
 
+* [Knife's Pill Farm](https://codeforces.com/problemset/problem/2264/B): data structures greedy math
 * [101](https://codeforces.com/problemset/problem/2259/C): constructive algorithms greedy
 * [Domino Tiles](https://codeforces.com/problemset/problem/2256/B): implementation math
 * [Marenol (easy version)](https://codeforces.com/problemset/problem/2254/C1): greedy
@@ -2347,6 +2353,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1200
 
+* [Floor of MEX (Easy Version)](https://codeforces.com/problemset/problem/2262/A1): constructive algorithms greedy
 * [MEX Multiset](https://codeforces.com/problemset/problem/2259/D): constructive algorithms greedy
 * [Spying on the Beaver](https://codeforces.com/problemset/problem/2257/C): constructive algorithms dfs and similar dsu graphs trees
 * [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/problemset/problem/2255/A): games greedy implementation
@@ -2809,6 +2816,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1300
 
+* [Madamant's Skating Dynasty](https://codeforces.com/problemset/problem/2264/C): combinatorics math sortings
+* [Maximize XOR, Minimize Operations](https://codeforces.com/problemset/problem/2260/C): bitmasks greedy
 * [Silhouette](https://codeforces.com/problemset/problem/2254/D): constructive algorithms math sortings
 * [Rank Subsequence](https://codeforces.com/problemset/problem/2249/A): brute force greedy implementation
 * [Maximize the Score](https://codeforces.com/problemset/problem/2248/C): dp greedy
@@ -4758,6 +4767,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1700
 
+* [Signs of Prefix Sums](https://codeforces.com/problemset/problem/2260/D): brute force constructive algorithms dfs and similar dp implementation
 * [Array Replacement](https://codeforces.com/problemset/problem/2252/D): greedy sortings
 * [Permutation Cuts](https://codeforces.com/problemset/problem/2249/B): combinatorics implementation math
 * [Construct an Array (Easy Version)](https://codeforces.com/problemset/problem/2245/D1): dfs and similar implementation sortings
@@ -5278,6 +5288,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 1800
 
+* [Dr. Agos's Dark Mode](https://codeforces.com/problemset/problem/2264/D): brute force chinese remainder theorem constructive algorithms math strings
+* [Floor of MEX (Hard Version)](https://codeforces.com/problemset/problem/2262/A2): dp implementation math
 * [Binary Bubble Sort Inversions](https://codeforces.com/problemset/problem/2259/F): data structures math two pointers
 * [Hypercarp and Interdimensional Jumps](https://codeforces.com/problemset/problem/2253/D): binary search brute force geometry greedy implementation math
 * [Permutation Construction](https://codeforces.com/problemset/problem/2222/D): constructive algorithms data structures sortings
@@ -6316,6 +6328,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2000
 
+* [Culling Game](https://codeforces.com/problemset/problem/2262/B): binary search data structures implementation two pointers
+* [Cyclic Balance](https://codeforces.com/problemset/problem/2260/E): binary search constructive algorithms dp math
 * [Busy Beaver](https://codeforces.com/problemset/problem/2257/E): brute force data structures divide and conquer dp greedy implementation sortings
 * [Double-Rift Dial](https://codeforces.com/problemset/problem/2249/C): data structures dfs and similar dsu implementation two pointers
 * [XOR Sorting (Hard Version)](https://codeforces.com/problemset/problem/2247/D2): bitmasks data structures greedy
@@ -6814,6 +6828,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2100
 
+* [A Prime Flood (Easy Version)](https://codeforces.com/problemset/problem/2264/E1): combinatorics dp number theory
 * [Even If the World Turns](https://codeforces.com/problemset/problem/2255/C): communication constructive algorithms expression parsing greedy interactive math number theory
 * [Diameter Intersections](https://codeforces.com/problemset/problem/2253/E): brute force dfs and similar fft graphs implementation trees
 * [Generational Triplets](https://codeforces.com/problemset/problem/2252/E): bitmasks combinatorics dp math
@@ -7271,6 +7286,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2200
 
+* [Traveling the World](https://codeforces.com/problemset/problem/2262/C): combinatorics constructive algorithms graphs greedy math
 * [Treasure Map Destruction (Counting Version)](https://codeforces.com/problemset/problem/2259/H): dfs and similar dp dsu graphs math
 * [Nightcrawler](https://codeforces.com/problemset/problem/2254/G): data structures dfs and similar dp greedy sortings trees
 * [Product of Closures](https://codeforces.com/problemset/problem/2242/E): bitmasks brute force constructive algorithms greedy implementation math number theory
@@ -8630,6 +8646,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2500
 
+* [Edge Three-Coloring](https://codeforces.com/problemset/problem/2260/F): brute force dfs and similar dsu graphs trees
 * [Plus Minus Tree](https://codeforces.com/problemset/problem/2258/F): data structures dfs and similar dp graphs greedy trees
 * [Magic Tiles](https://codeforces.com/problemset/problem/2258/D): dp greedy implementation
 * [Beaver's Jumping Track (Easy Version)](https://codeforces.com/problemset/problem/2257/F1): data structures dp matrices
@@ -9396,6 +9413,8 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2700
 
+* [Deranged Calculator](https://codeforces.com/problemset/problem/2264/F): constructive algorithms implementation math
+* [A Prime Flood (Hard Version)](https://codeforces.com/problemset/problem/2264/E2): brute force combinatorics dp number theory
 * [Beaver's Jumping Track (Hard Version)](https://codeforces.com/problemset/problem/2257/F2): data structures dp matrices
 * [Summer Vacation](https://codeforces.com/problemset/problem/2242/F): data structures dp probabilities trees
 * [Stripe, Token and Two Players](https://codeforces.com/problemset/problem/2234/G): data structures dp games
@@ -9708,6 +9727,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2800
 
+* [PLUSworld](https://codeforces.com/problemset/problem/2262/D): constructive algorithms graphs greedy
 * [String (Easy Version)](https://codeforces.com/problemset/problem/2249/E1): divide and conquer implementation strings
 * [Familiar?](https://codeforces.com/problemset/problem/2245/F): brute force combinatorics dp
 * [Shortest GCD Paths](https://codeforces.com/problemset/problem/2233/F): dp graphs math number theory shortest paths
@@ -9965,6 +9985,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 2900
 
+* [Sortable Permutations](https://codeforces.com/problemset/problem/2260/G): brute force combinatorics math number theory
 * [What Will Remain at the End? (Easy Version)](https://codeforces.com/problemset/problem/2255/E1): brute force data structures
 * [Paths on a Grid](https://codeforces.com/problemset/problem/2247/F): data structures dp hashing
 * [Whoname and Unsorted Array](https://codeforces.com/problemset/problem/2246/F): constructive algorithms
@@ -10410,6 +10431,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3100
 
+* [Paired Bracket Sequences](https://codeforces.com/problemset/problem/2262/E): combinatorics math
 * [Who Will Witness the End?](https://codeforces.com/problemset/problem/2255/F): fft math
 * [Statistics on Tree](https://codeforces.com/problemset/problem/2222/G): binary search brute force dfs and similar divide and conquer graphs trees
 * [Extra Transition](https://codeforces.com/problemset/problem/2206/G): graphs
@@ -10979,6 +11001,7 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## 3500
 
+* [Rank Removal](https://codeforces.com/problemset/problem/2262/F): math
 * [Connect Connect See](https://codeforces.com/problemset/problem/2245/H): brute force data structures
 * [Colorful Works](https://codeforces.com/problemset/problem/2239/F): dp fft games implementation
 * [DBFS Order (Hard Version)](https://codeforces.com/problemset/problem/2237/I2): dp trees
@@ -11222,29 +11245,14 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
-* [Deranged Calculator](https://codeforces.com/problemset/problem/2264/F): constructive algorithms implementation math
-* [A Prime Flood (Hard Version)](https://codeforces.com/problemset/problem/2264/E2): combinatorics dp number theory
-* [A Prime Flood (Easy Version)](https://codeforces.com/problemset/problem/2264/E1): combinatorics dp number theory
-* [Dr. Agos's Dark Mode](https://codeforces.com/problemset/problem/2264/D): brute force constructive algorithms math strings
-* [Madamant's Skating Dynasty](https://codeforces.com/problemset/problem/2264/C): combinatorics math sortings
-* [Knife's Pill Farm](https://codeforces.com/problemset/problem/2264/B): data structures greedy
-* [Rumb Needs a Hand](https://codeforces.com/problemset/problem/2264/A): implementation sortings two pointers
-* [Min Matrices](https://codeforces.com/problemset/problem/2263/B): constructive algorithms
-* [Min Max Game](https://codeforces.com/problemset/problem/2263/A)
-* [Rank Removal](https://codeforces.com/problemset/problem/2262/F): math
-* [Paired Bracket Sequences](https://codeforces.com/problemset/problem/2262/E): combinatorics math
-* [PLUSworld](https://codeforces.com/problemset/problem/2262/D): constructive algorithms graphs greedy
-* [Traveling the World](https://codeforces.com/problemset/problem/2262/C): combinatorics graphs math schedules
-* [Culling Game](https://codeforces.com/problemset/problem/2262/B): binary search data structures implementation two pointers
-* [Floor of MEX (Hard Version)](https://codeforces.com/problemset/problem/2262/A2): dp implementation
-* [Floor of MEX (Easy Version)](https://codeforces.com/problemset/problem/2262/A1): constructive algorithms greedy
-* [Sortable Permutations](https://codeforces.com/problemset/problem/2260/G): brute force combinatorics math number theory
-* [Edge Three-Coloring](https://codeforces.com/problemset/problem/2260/F): brute force dfs and similar dsu graphs trees
-* [Cyclic Balance](https://codeforces.com/problemset/problem/2260/E): binary search constructive algorithms dp math
-* [Signs of Prefix Sums](https://codeforces.com/problemset/problem/2260/D): brute force constructive algorithms dfs and similar dp implementation
-* [Maximize XOR, Minimize Operations](https://codeforces.com/problemset/problem/2260/C): bitmasks greedy
-* [Monocarp and Projects](https://codeforces.com/problemset/problem/2260/B): brute force math number theory
-* [Monocarp's Contest](https://codeforces.com/problemset/problem/2260/A): implementation
+* [Deque Malfunction](https://codeforces.com/problemset/problem/2266/H): data structures dp greedy
+* [Modular Tree](https://codeforces.com/problemset/problem/2266/G): dfs and similar greedy math number theory trees
+* [MEX Replacement](https://codeforces.com/problemset/problem/2266/F): binary search brute force greedy implementation math sortings
+* [Prime Destruction](https://codeforces.com/problemset/problem/2266/E): dp math number theory
+* [Falling Concrete](https://codeforces.com/problemset/problem/2266/D): constructive algorithms data structures math sortings
+* [AND, OR, Sort!](https://codeforces.com/problemset/problem/2266/C): greedy strings
+* [Three Piles](https://codeforces.com/problemset/problem/2266/B): games greedy math
+* [Good Contest](https://codeforces.com/problemset/problem/2266/A): greedy
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
 * [You Are a Robot](https://codeforces.com/problemset/problem/2214/I): *special
 * [Double Vision](https://codeforces.com/problemset/problem/2214/H): *special
