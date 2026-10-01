@@ -11253,10 +11253,10 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2268F] constructive algorithms
 [problem:CodeForces-2268E] data structures, fft, math, trees
 [problem:CodeForces-2268D] data structures, dp, trees
-[problem:CodeForces-2268C] binary search, bitmasks, brute force, data structures, divide and conquer, greedy, trees, two pointers
+[problem:CodeForces-2268C] binary search, bitmasks, brute force, data structures, divide and conquer, dsu, greedy, trees, two pointers
 [problem:CodeForces-2268B] bitmasks, brute force, data structures, math
 [problem:CodeForces-2268A] constructive algorithms, greedy
-[problem:CodeForces-2267G] dp, fft
+[problem:CodeForces-2267G] divide and conquer, dp, fft
 [problem:CodeForces-2267F2] bitmasks, brute force, data structures, dfs and similar, greedy, math, sortings, strings, trees
 [problem:CodeForces-2267F1] bitmasks, brute force, implementation, sortings
 [problem:CodeForces-2267E] combinatorics, data structures, math

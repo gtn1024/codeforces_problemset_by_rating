@@ -11253,10 +11253,10 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Deglado](https://codeforces.com/problemset/problem/2268/F): constructive algorithms
 * [Kia Kio and Tree of Life](https://codeforces.com/problemset/problem/2268/E): data structures fft math trees
 * [AghaBalaSar and Hamed](https://codeforces.com/problemset/problem/2268/D): data structures dp trees
-* [KiaKio and Energy Intervals](https://codeforces.com/problemset/problem/2268/C): binary search bitmasks brute force data structures divide and conquer greedy trees two pointers
+* [KiaKio and Energy Intervals](https://codeforces.com/problemset/problem/2268/C): binary search bitmasks brute force data structures divide and conquer dsu greedy trees two pointers
 * [What a SauSaGe! It's All Meat](https://codeforces.com/problemset/problem/2268/B): bitmasks brute force data structures math
 * [K Is Important](https://codeforces.com/problemset/problem/2268/A): constructive algorithms greedy
-* [New LRT](https://codeforces.com/problemset/problem/2267/G): dp fft
+* [New LRT](https://codeforces.com/problemset/problem/2267/G): divide and conquer dp fft
 * [XOR Transformations (Hard Version)](https://codeforces.com/problemset/problem/2267/F2): bitmasks brute force data structures dfs and similar greedy math sortings strings trees
 * [XOR Transformations (Easy Version)](https://codeforces.com/problemset/problem/2267/F1): bitmasks brute force implementation sortings
 * [Clean Substrings](https://codeforces.com/problemset/problem/2267/E): combinatorics data structures math
