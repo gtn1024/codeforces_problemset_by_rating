@@ -11272,14 +11272,38 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Elimination of Players](https://codeforces.com/problemset/problem/2276/G): combinatorics dp math
+* [Permutation Coloring Game](https://codeforces.com/problemset/problem/2276/F): dp dsu games greedy implementation math
+* [Good Substrings](https://codeforces.com/problemset/problem/2276/E): combinatorics data structures dp greedy strings
+* [Caveman](https://codeforces.com/problemset/problem/2276/D): combinatorics graphs
+* [Subarrays](https://codeforces.com/problemset/problem/2276/C): math number theory
+* [Replace and Compress](https://codeforces.com/problemset/problem/2276/B): implementation strings
+* [Perfect Sandwiches](https://codeforces.com/problemset/problem/2276/A): greedy math
 * [A Problem to Warm Up the Eyebrows](https://codeforces.com/problemset/problem/2275/H): combinatorics dp math
-* [Copper Squander](https://codeforces.com/problemset/problem/2275/G): binary search data structures dsu graphs greedy math ternary search
+* [Copper Squander](https://codeforces.com/problemset/problem/2275/G): binary search data structures dsu graphs greedy math sortings ternary search
 * [Tea Blend](https://codeforces.com/problemset/problem/2275/F): hashing math number theory
 * [Repentance Is Already on the Way](https://codeforces.com/problemset/problem/2275/E): dp implementation
 * [Precision Alignment](https://codeforces.com/problemset/problem/2275/D): binary search brute force greedy implementation
 * [Unrequited Love](https://codeforces.com/problemset/problem/2275/C): brute force data structures
 * [Did Not Go to Print](https://codeforces.com/problemset/problem/2275/B): data structures implementation
 * [In Search of Convenience](https://codeforces.com/problemset/problem/2275/A): geometry implementation
+* [Prefix](https://codeforces.com/problemset/problem/2274/B): greedy
+* [The Projections of Paco](https://codeforces.com/problemset/problem/2274/A): implementation math
+* [Pancho's Permutation](https://codeforces.com/problemset/problem/2273/F): constructive algorithms dp greedy math
+* [Six-Seven Bags](https://codeforces.com/problemset/problem/2273/E): brute force greedy interactive
+* [Aura Battle](https://codeforces.com/problemset/problem/2273/D): brute force implementation interactive math
+* [Matrix Puzzle](https://codeforces.com/problemset/problem/2273/C): brute force data structures implementation math matrices
+* [Robot Championship](https://codeforces.com/problemset/problem/2273/B): constructive algorithms math
+* [Lavencia Oranges](https://codeforces.com/problemset/problem/2273/A): binary search constructive algorithms dp greedy
+* [Personal Issues (Hard Version)](https://codeforces.com/problemset/problem/2271/H2): games trees
+* [Personal Issues (Easy Version)](https://codeforces.com/problemset/problem/2271/H1): dp games trees
+* [Grid Filling](https://codeforces.com/problemset/problem/2271/G): constructive algorithms greedy implementation
+* [Beautiful Pillers](https://codeforces.com/problemset/problem/2271/F): constructive algorithms data structures dp greedy implementation
+* [Array Emptying](https://codeforces.com/problemset/problem/2271/E): binary search data structures greedy
+* [Target Infection](https://codeforces.com/problemset/problem/2271/D): binary search brute force greedy implementation two pointers
+* [XOR Problem](https://codeforces.com/problemset/problem/2271/C): bitmasks constructive algorithms graphs greedy math
+* [MEX Game](https://codeforces.com/problemset/problem/2271/B): games
+* [Robot Odd Moves](https://codeforces.com/problemset/problem/2271/A): constructive algorithms math
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
 * [You Are a Robot](https://codeforces.com/problemset/problem/2214/I): *special
 * [Double Vision](https://codeforces.com/problemset/problem/2214/H): *special

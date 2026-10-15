@@ -11272,14 +11272,38 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2276G] combinatorics, dp, math
+[problem:CodeForces-2276F] dp, dsu, games, greedy, implementation, math
+[problem:CodeForces-2276E] combinatorics, data structures, dp, greedy, strings
+[problem:CodeForces-2276D] combinatorics, graphs
+[problem:CodeForces-2276C] math, number theory
+[problem:CodeForces-2276B] implementation, strings
+[problem:CodeForces-2276A] greedy, math
 [problem:CodeForces-2275H] combinatorics, dp, math
-[problem:CodeForces-2275G] binary search, data structures, dsu, graphs, greedy, math, ternary search
+[problem:CodeForces-2275G] binary search, data structures, dsu, graphs, greedy, math, sortings, ternary search
 [problem:CodeForces-2275F] hashing, math, number theory
 [problem:CodeForces-2275E] dp, implementation
 [problem:CodeForces-2275D] binary search, brute force, greedy, implementation
 [problem:CodeForces-2275C] brute force, data structures
 [problem:CodeForces-2275B] data structures, implementation
 [problem:CodeForces-2275A] geometry, implementation
+[problem:CodeForces-2274B] greedy
+[problem:CodeForces-2274A] implementation, math
+[problem:CodeForces-2273F] constructive algorithms, dp, greedy, math
+[problem:CodeForces-2273E] brute force, greedy, interactive
+[problem:CodeForces-2273D] brute force, implementation, interactive, math
+[problem:CodeForces-2273C] brute force, data structures, implementation, math, matrices
+[problem:CodeForces-2273B] constructive algorithms, math
+[problem:CodeForces-2273A] binary search, constructive algorithms, dp, greedy
+[problem:CodeForces-2271H2] games, trees
+[problem:CodeForces-2271H1] dp, games, trees
+[problem:CodeForces-2271G] constructive algorithms, greedy, implementation
+[problem:CodeForces-2271F] constructive algorithms, data structures, dp, greedy, implementation
+[problem:CodeForces-2271E] binary search, data structures, greedy
+[problem:CodeForces-2271D] binary search, brute force, greedy, implementation, two pointers
+[problem:CodeForces-2271C] bitmasks, constructive algorithms, graphs, greedy, math
+[problem:CodeForces-2271B] games
+[problem:CodeForces-2271A] constructive algorithms, math
 [problem:CodeForces-2214J] *special, brute force, games, interactive
 [problem:CodeForces-2214I] *special
 [problem:CodeForces-2214H] *special
