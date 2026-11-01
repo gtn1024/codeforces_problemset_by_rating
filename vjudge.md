@@ -11314,6 +11314,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2278G] bitmasks, dfs and similar, dp, hashing, number theory, trees
+[problem:CodeForces-2278F] dp, math, number theory
+[problem:CodeForces-2278E] constructive algorithms, greedy
+[problem:CodeForces-2278D] greedy
+[problem:CodeForces-2278C] greedy
+[problem:CodeForces-2278B] constructive algorithms
+[problem:CodeForces-2278A] implementation, sortings
 [problem:CodeForces-2277F] data structures, dfs and similar, dsu, trees
 [problem:CodeForces-2277E] constructive algorithms, interactive, trees
 [problem:CodeForces-2277D2] bitmasks, brute force, divide and conquer, dp
@@ -11323,9 +11330,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2277A] greedy
 [problem:CodeForces-2272G] data structures, divide and conquer, dsu
 [problem:CodeForces-2272F] dfs and similar, dp, games, trees
-[problem:CodeForces-2272E] greedy
+[problem:CodeForces-2272E] binary search, greedy, two pointers
 [problem:CodeForces-2272D] brute force, constructive algorithms, dfs and similar, dp
-[problem:CodeForces-2272C] binary search, constructive algorithms, dp
+[problem:CodeForces-2272C] binary search, constructive algorithms, dp, greedy
 [problem:CodeForces-2272B] constructive algorithms, greedy
 [problem:CodeForces-2272A] brute force, constructive algorithms, greedy
 [problem:CodeForces-2214J] *special, brute force, games, interactive

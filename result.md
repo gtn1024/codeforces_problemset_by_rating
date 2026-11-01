@@ -11314,6 +11314,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [0s and 1s](https://codeforces.com/problemset/problem/2278/G): bitmasks dfs and similar dp hashing number theory trees
+* [Modulo and Counting](https://codeforces.com/problemset/problem/2278/F): dp math number theory
+* [Swap and Negate](https://codeforces.com/problemset/problem/2278/E): constructive algorithms greedy
+* [Lock and Unlock](https://codeforces.com/problemset/problem/2278/D): greedy
+* [Math and Physics](https://codeforces.com/problemset/problem/2278/C): greedy
+* [Stakes and Shapes](https://codeforces.com/problemset/problem/2278/B): constructive algorithms
+* [Fraction and Six](https://codeforces.com/problemset/problem/2278/A): implementation sortings
 * [Token Re-Moving](https://codeforces.com/problemset/problem/2277/F): data structures dfs and similar dsu trees
 * [Tree Guessing](https://codeforces.com/problemset/problem/2277/E): constructive algorithms interactive trees
 * [Number Operating (Hard Version)](https://codeforces.com/problemset/problem/2277/D2): bitmasks brute force divide and conquer dp
@@ -11323,9 +11330,9 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Subset Selecting](https://codeforces.com/problemset/problem/2277/A): greedy
 * [Ranges](https://codeforces.com/problemset/problem/2272/G): data structures divide and conquer dsu
 * [Tree Reduction Game](https://codeforces.com/problemset/problem/2272/F): dfs and similar dp games trees
-* [Memory Cell Interception](https://codeforces.com/problemset/problem/2272/E): greedy
+* [Memory Cell Interception](https://codeforces.com/problemset/problem/2272/E): binary search greedy two pointers
 * [Connecting the Conflicts](https://codeforces.com/problemset/problem/2272/D): brute force constructive algorithms dfs and similar dp
-* [Yet Another Black Cell Problem](https://codeforces.com/problemset/problem/2272/C): binary search constructive algorithms dp
+* [Yet Another Black Cell Problem](https://codeforces.com/problemset/problem/2272/C): binary search constructive algorithms dp greedy
 * [Frogs Jump](https://codeforces.com/problemset/problem/2272/B): constructive algorithms greedy
 * [Maximize One MEX](https://codeforces.com/problemset/problem/2272/A): brute force constructive algorithms greedy
 * [Special Problem](https://codeforces.com/problemset/problem/2214/J): *special brute force games interactive
