@@ -11314,6 +11314,15 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+* [Extra Road](https://codeforces.com/problemset/problem/2290/H): dfs and similar greedy trees
+* [Lakeside Trail (Hard Version)](https://codeforces.com/problemset/problem/2290/G2): binary search dp greedy math
+* [Lakeside Trail (Easy Version)](https://codeforces.com/problemset/problem/2290/G1): binary search brute force math
+* [Value Counters](https://codeforces.com/problemset/problem/2290/F): binary search constructive algorithms math
+* [Avalanche](https://codeforces.com/problemset/problem/2290/E): dp games math
+* [Letters Down](https://codeforces.com/problemset/problem/2290/D): data structures dsu greedy implementation strings
+* [Books on a Shelf](https://codeforces.com/problemset/problem/2290/C): constructive algorithms greedy sortings
+* [Stubborn Pen](https://codeforces.com/problemset/problem/2290/B): implementation strings
+* [Three Piles](https://codeforces.com/problemset/problem/2290/A): implementation math
 * [Fun Times](https://codeforces.com/problemset/problem/2284/F): combinatorics data structures dp math matrices
 * [My Mind Is Going](https://codeforces.com/problemset/problem/2284/E): binary search dfs and similar graphs interactive
 * [The Theorem of Two Cans](https://codeforces.com/problemset/problem/2284/D): communication constructive algorithms dfs and similar graphs interactive math trees
@@ -11330,13 +11339,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 * [Rhythmic String](https://codeforces.com/problemset/problem/2283/B): brute force number theory
 * [Numbers on the Board](https://codeforces.com/problemset/problem/2283/A): greedy math two pointers
 * [Secret String Patterns](https://codeforces.com/problemset/problem/2280/B): interactive
-* [Are They the Same?](https://codeforces.com/problemset/problem/2280/A): implementation
-* [The Stones of Nim](https://codeforces.com/problemset/problem/2279/F): bitmasks games graphs greedy
-* [Save Me!](https://codeforces.com/problemset/problem/2279/E): brute force meet-in-the-middle
-* [Meta Graph](https://codeforces.com/problemset/problem/2279/D): brute force constructive algorithms graphs shortest paths
-* [Anti-Productive](https://codeforces.com/problemset/problem/2279/C): greedy
+* [Are They the Same?](https://codeforces.com/problemset/problem/2280/A): brute force implementation
+* [The Stones of Nim](https://codeforces.com/problemset/problem/2279/F): bitmasks graphs greedy
+* [Save Me!](https://codeforces.com/problemset/problem/2279/E): brute force dfs and similar matrices meet-in-the-middle
+* [Meta Graph](https://codeforces.com/problemset/problem/2279/D): constructive algorithms dp graphs shortest paths
+* [Anti-Productive](https://codeforces.com/problemset/problem/2279/C): brute force greedy math sortings
 * [Balanced Subsets](https://codeforces.com/problemset/problem/2279/B): bitmasks combinatorics dp
-* [Reverse and Double](https://codeforces.com/problemset/problem/2279/A): binary search implementation
+* [Reverse and Double](https://codeforces.com/problemset/problem/2279/A): binary search brute force data structures implementation
 * [0s and 1s](https://codeforces.com/problemset/problem/2278/G): bitmasks dfs and similar dp hashing number theory trees
 * [Modulo and Counting](https://codeforces.com/problemset/problem/2278/F): dp math number theory
 * [Swap and Negate](https://codeforces.com/problemset/problem/2278/E): constructive algorithms greedy

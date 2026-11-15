@@ -11314,6 +11314,15 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 
 ## Unrated
 
+[problem:CodeForces-2290H] dfs and similar, greedy, trees
+[problem:CodeForces-2290G2] binary search, dp, greedy, math
+[problem:CodeForces-2290G1] binary search, brute force, math
+[problem:CodeForces-2290F] binary search, constructive algorithms, math
+[problem:CodeForces-2290E] dp, games, math
+[problem:CodeForces-2290D] data structures, dsu, greedy, implementation, strings
+[problem:CodeForces-2290C] constructive algorithms, greedy, sortings
+[problem:CodeForces-2290B] implementation, strings
+[problem:CodeForces-2290A] implementation, math
 [problem:CodeForces-2284F] combinatorics, data structures, dp, math, matrices
 [problem:CodeForces-2284E] binary search, dfs and similar, graphs, interactive
 [problem:CodeForces-2284D] communication, constructive algorithms, dfs and similar, graphs, interactive, math, trees
@@ -11330,13 +11339,13 @@ GitHub: <https://github.com/gtn1024/codeforces_problemset_by_rating>
 [problem:CodeForces-2283B] brute force, number theory
 [problem:CodeForces-2283A] greedy, math, two pointers
 [problem:CodeForces-2280B] interactive
-[problem:CodeForces-2280A] implementation
-[problem:CodeForces-2279F] bitmasks, games, graphs, greedy
-[problem:CodeForces-2279E] brute force, meet-in-the-middle
-[problem:CodeForces-2279D] brute force, constructive algorithms, graphs, shortest paths
-[problem:CodeForces-2279C] greedy
+[problem:CodeForces-2280A] brute force, implementation
+[problem:CodeForces-2279F] bitmasks, graphs, greedy
+[problem:CodeForces-2279E] brute force, dfs and similar, matrices, meet-in-the-middle
+[problem:CodeForces-2279D] constructive algorithms, dp, graphs, shortest paths
+[problem:CodeForces-2279C] brute force, greedy, math, sortings
 [problem:CodeForces-2279B] bitmasks, combinatorics, dp
-[problem:CodeForces-2279A] binary search, implementation
+[problem:CodeForces-2279A] binary search, brute force, data structures, implementation
 [problem:CodeForces-2278G] bitmasks, dfs and similar, dp, hashing, number theory, trees
 [problem:CodeForces-2278F] dp, math, number theory
 [problem:CodeForces-2278E] constructive algorithms, greedy
